@@ -2,6 +2,7 @@
 
 import * as React from "react";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import { useChat } from "@ai-sdk/react";
 import { DefaultChatTransport } from "ai";
 import { Button } from "@/components/ui/button";
@@ -18,8 +19,6 @@ import {
   Trash2,
   UtensilsCrossed,
 } from "lucide-react";
-import Link from "next/link";
-
 export type FoodRestaurantRow = {
   id: string;
   name: string;
@@ -29,6 +28,8 @@ export type FoodRestaurantRow = {
   rating?: number | null;
   delivery_time?: string | null;
   image_url?: string | null;
+  /** Dish rows in DB for this outlet; null if menu-count RPC is unavailable */
+  menu_item_count?: number | null;
 };
 
 type FoodMenuItemRow = {
@@ -66,6 +67,8 @@ export function FoodChatAgent({
   budgetPaise: number;
   catalogueCity: string;
 }) {
+  const router = useRouter();
+  const [finalizeBusy, setFinalizeBusy] = React.useState(false);
   const [input, setInput] = React.useState("");
   const [restaurants, setRestaurants] = React.useState<FoodRestaurantRow[]>(
     [],
@@ -244,6 +247,35 @@ export function FoodChatAgent({
       ? r.cuisine.slice(0, 2).join(" · ")
       : null;
 
+  async function completeFoodOrder() {
+    if (cart.length === 0) return;
+    setFinalizeBusy(true);
+    try {
+      const res = await fetch(`/api/gifts/${giftId}/redeem`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          type: "food",
+          details: {
+            food_cart: cart,
+            cart_total_paise: cartTotal,
+            restaurants: [
+              ...new Set(cart.map((l) => l.restaurant_name)),
+            ],
+          },
+        }),
+      });
+      if (!res.ok) {
+        const j = (await res.json().catch(() => ({}))) as { error?: string };
+        alert(j.error ?? "Could not finalize order");
+        return;
+      }
+      router.push(`/g/${giftId}/confirmed`);
+    } finally {
+      setFinalizeBusy(false);
+    }
+  }
+
   return (
     <div className="flex min-h-[520px] flex-col gap-6">
       {/* —— Picker: restaurant → menu —— */}
@@ -259,12 +291,20 @@ export function FoodChatAgent({
             </strong>{" "}
             from the Swiggy mirror for{" "}
             <strong>{catalogueCity.trim() || "your city"}</strong>, then{" "}
-            <strong>browse dishes</strong> and tap add to cart. Menus only load when we have
-            rows in{" "}
+            <strong>browse dishes</strong> and tap add to cart. Cards show how many dishes we
+            have mirrored in{" "}
             <code className="rounded bg-neutral-100 px-1 py-0.5 text-xs">
               cached_food_menu_items
+            </code>
+            ; use Swiggy MCP{" "}
+            <code className="rounded bg-neutral-100 px-1 py-0.5 text-xs">
+              get_restaurant_menu
             </code>{" "}
-            for that outlet.
+            (or{" "}
+            <code className="rounded bg-neutral-100 px-1 py-0.5 text-xs">
+              POST /api/cached-food-menu/hydrate
+            </code>
+            ) when an outlet shows &quot;No menu&quot;.
           </p>
         </div>
 
@@ -346,6 +386,23 @@ export function FoodChatAgent({
                             <Badge variant="muted" className="h-5 rounded px-1.5 text-[10px]">
                               ★ {r.rating.toFixed(1)}
                             </Badge>
+                          ) : null}
+                          {typeof r.menu_item_count === "number" ? (
+                            r.menu_item_count > 0 ? (
+                              <Badge
+                                variant="accent"
+                                className="h-5 rounded px-1.5 text-[10px] font-semibold"
+                              >
+                                Menu · {r.menu_item_count} dishes
+                              </Badge>
+                            ) : (
+                              <Badge
+                                variant="muted"
+                                className="h-5 rounded border-amber-200/90 bg-amber-50 px-1.5 text-[10px] font-medium text-amber-950"
+                              >
+                                No menu in cache
+                              </Badge>
+                            )
                           ) : null}
                         </div>
                         <p className="pt-1 text-[10px] font-medium text-[var(--color-accent)]">
@@ -619,9 +676,21 @@ export function FoodChatAgent({
         </details>
       </Card>
 
-      <Button variant="outline" asChild className="w-full sm:w-auto">
-        <Link href={`/g/${giftId}/confirmed`}>View confirmation</Link>
-      </Button>
+      <div className="flex flex-wrap gap-3">
+        <Button
+          type="button"
+          className="rounded-full px-8"
+          disabled={finalizeBusy || cart.length === 0}
+          onClick={() => void completeFoodOrder()}
+        >
+          {finalizeBusy ? "Saving…" : "Complete order & confirmation"}
+        </Button>
+        {cart.length === 0 ? (
+          <p className="self-center text-xs text-[var(--color-text-muted)]">
+            Add at least one dish to finish — or browse with an empty cart and return later.
+          </p>
+        ) : null}
+      </div>
     </div>
   );
 }

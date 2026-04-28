@@ -28,8 +28,31 @@ export default function ConfirmedPage() {
     );
   }
 
-  const opt = gift.chosen_option as Record<string, unknown> | null;
+  const opt = gift.chosen_option as Record<string, unknown> | null | undefined;
+  const foodCart = gift.food_cart as unknown;
   const ctype = gift.chosen_type as string | null;
+
+  const hasChosen =
+    opt !== null &&
+    opt !== undefined &&
+    typeof opt === "object" &&
+    Object.keys(opt as object).length > 0;
+
+  const cartLines = Array.isArray(foodCart) ? (foodCart as unknown[]) : [];
+  const snapshot =
+    hasChosen
+      ? opt
+      : ctype === "food" && cartLines.length > 0
+        ? {
+            food_cart: cartLines,
+            note: "Saved cart (redeem step may not have run — use Complete order on the food page)",
+          }
+        : ctype === "food" && cartLines.length === 0
+          ? {
+              message:
+                "No order details yet — go back to Food credit, add dishes, tap “Complete order & confirmation”.",
+            }
+          : opt ?? { message: "No snapshot stored for this gift yet." };
 
   return (
     <div className="relative min-h-screen overflow-hidden px-4 py-16 text-center">
@@ -52,7 +75,7 @@ export default function ConfirmedPage() {
         </CardHeader>
         <CardContent className="space-y-2 text-sm">
           <pre className="overflow-x-auto rounded-2xl border border-[var(--color-border)] bg-[#1a120c] p-5 text-left text-xs leading-relaxed text-emerald-100/95">
-            {JSON.stringify(opt, null, 2)}
+            {JSON.stringify(snapshot, null, 2)}
           </pre>
         </CardContent>
       </Card>
