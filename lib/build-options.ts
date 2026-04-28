@@ -22,6 +22,7 @@ type InstamartProductRow = {
   brand?: string | null;
   category?: string | null;
   price_paise: number | null;
+  city?: string | null;
   image_url?: string | null;
 };
 
@@ -300,16 +301,34 @@ export async function buildOptionsFromCache(
     giftContext
   );
 
-  const { data: productsRaw, error: errIm } = await sb
-    .from("cached_instamart_products")
-    .select("id,name,brand,category,price_paise,city,image_url")
-    .limit(800);
-
-  if (errIm) {
-    throw new Error(`cached_instamart_products: ${errIm.message}`);
+  /** Without ordering, `.limit` returns an arbitrary slice — electronics seeds can be omitted. Merge top + bottom tiers by price for category + budget diversity. */
+  const sel =
+    "id,name,brand,category,price_paise,city,image_url";
+  const [hiRes, loRes] = await Promise.all([
+    sb
+      .from("cached_instamart_products")
+      .select(sel)
+      .order("price_paise", { ascending: false, nullsFirst: false })
+      .limit(800),
+    sb
+      .from("cached_instamart_products")
+      .select(sel)
+      .order("price_paise", { ascending: true, nullsFirst: false })
+      .limit(600),
+  ]);
+  if (hiRes.error) {
+    throw new Error(`cached_instamart_products (price desc): ${hiRes.error.message}`);
+  }
+  if (loRes.error) {
+    throw new Error(`cached_instamart_products (price asc): ${loRes.error.message}`);
   }
 
-  const raw = productsRaw ?? [];
+  const mergedById = new Map<string, InstamartProductRow>();
+  for (const row of [...(hiRes.data ?? []), ...(loRes.data ?? [])]) {
+    const r = row as InstamartProductRow;
+    mergedById.set(String(r.id), r);
+  }
+  const raw = [...mergedById.values()];
   const lc = cityNorm.toLowerCase();
   let filtered = raw.filter(
     (p) =>

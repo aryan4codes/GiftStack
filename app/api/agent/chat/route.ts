@@ -103,6 +103,7 @@ export async function POST(req: Request) {
 
 Rules:
 - Budget in paise: ${budgetPaise} (₹${(budgetPaise / 100).toFixed(0)}). Total cart must NEVER exceed this.
+- ALWAYS run search_restaurants first when the user names a place; use the exact \`id\` from those results for get_restaurant_menu (never guess restaurant_id). If get_restaurant_menu returns an empty array, say clearly that this restaurant has no menu rows in our cache yet — suggest search_restaurants again for another outlet (e.g. another pizza place) or cuisines; do not pretend items exist.
 - Call get_food_cart after add/remove to show truth to the user.
 - Before place_food_order: confirm address is OK (demo assumes saved address) and get explicit "yes" / "place order".
 - Be concise, warm, and helpful. Mention you're using cached Swiggy catalog for the demo.`,
@@ -150,7 +151,7 @@ Rules:
             .from("cached_food_menu_items")
             .select("*")
             .eq("restaurant_id", restaurant_id)
-            .limit(40);
+            .limit(220);
           return data ?? [];
         },
       }),

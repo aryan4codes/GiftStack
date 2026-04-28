@@ -16,7 +16,7 @@ export async function GET(req: Request) {
     )
     .ilike("city", `%${city}%`)
     .order("rating", { ascending: false, nullsFirst: false })
-    .limit(48);
+    .limit(120);
 
   if (error) {
     return NextResponse.json({ error: error.message }, { status: 500 });

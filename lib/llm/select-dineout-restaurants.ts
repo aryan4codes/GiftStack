@@ -18,11 +18,44 @@ const pickSchema = z.object({
 
 const MAX_CANDIDATES = 64;
 
-function capCandidates(candidates: DineoutCandidate[]): DineoutCandidate[] {
-  if (candidates.length <= MAX_CANDIDATES) return candidates;
-  return [...candidates]
-    .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0))
-    .slice(0, MAX_CANDIDATES);
+/** Boost catalog rows toward sender keywords so bar/pub venues aren't buried under rating-only ordering (fine dining dominates Mumbai caches). */
+function scoreDineoutForIntent(c: DineoutCandidate, intentText: string): number {
+  const m = intentText.toLowerCase();
+  const cuis = c.cuisines.map((x) => x.toLowerCase()).join(" ");
+  const blob = `${cuis} ${c.name.toLowerCase()} ${c.area.toLowerCase()}`;
+  let score = 0;
+
+  if (/\b(bars?|pubs?|lounges?|brew|brewery|cocktail|beer|drinks?|wine\s*bar|taproom)\b/i.test(m)) {
+    if (/\bbar food\b/i.test(cuis) || /\b(pub|lounge|bar|brew|social|taproom|cocktail)\b/i.test(blob))
+      score += 25_000;
+  }
+
+  if (/\b(lowkey|quiet|intimate|dessert|sweet\s*tooth|coffee|café|cafe)\b/i.test(m)) {
+    if (/\b(dessert|bakery|cafe|café|continental|ice cream|coffee)\b/i.test(blob))
+      score += 18_000;
+  }
+
+  if (/\b(client|business|professional|impress|formal|corporate)\b/i.test(m)) {
+    if (/\b(chinese|continental|fusion|modern|north indian|multi cuisine|steak|grill|japanese)\b/i.test(blob))
+      score += 8000;
+    if ((c.avg_for_two_inr ?? 0) >= 2000) score += 2500;
+  }
+
+  score += (c.rating ?? 0) * 400;
+  return score;
+}
+
+function capCandidates(
+  candidates: DineoutCandidate[],
+  intentText: string,
+): DineoutCandidate[] {
+  const intent = intentText.trim() || "(no message)";
+  const sorted = [...candidates].sort(
+    (a, b) =>
+      scoreDineoutForIntent(b, intent) - scoreDineoutForIntent(a, intent),
+  );
+  if (sorted.length <= MAX_CANDIDATES) return sorted;
+  return sorted.slice(0, MAX_CANDIDATES);
 }
 
 export type DineoutPickContext = {
@@ -40,7 +73,8 @@ export async function selectDineoutRestaurantIdsViaLlm(
   if (!process.env.OPENAI_API_KEY) return null;
   if (candidates.length === 0) return null;
 
-  const capped = capCandidates(candidates);
+  const intentText = [ctx.message, ctx.occasion].filter(Boolean).join("\n");
+  const capped = capCandidates(candidates, intentText);
   const catalog = capped.map((c) => ({
     id: c.id,
     name: c.name,
@@ -69,6 +103,7 @@ RULES — non-negotiable:
   - Client, business, impress, formal → favour Chinese, Continental, multi-cuisine fine, bar & grill, steak, rooftop, etc.; higher avg_for_two_inr when available.
   - Casual friends, beer → bar, pub, lounge in cuisines.
   - Family, kids → multi-cuisine, north indian, south indian as appropriate.
+- CRITICAL: If the sender mentions bars, pubs, lounges, cocktails, beer, or drinking, you MUST prefer restaurants whose cuisines include "Bar Food" / bar-appropriate continental, OR whose name clearly signals Bar/Pub/Lounge/SOCIAL/brew — do NOT replace them with unrelated top-rated fine dining unless no bar-like row exists in the catalog.
 - Use name and area as secondary hints (neighbourhood vibe); use avg_for_two_inr vs approximate_gift_value_inr as a soft price-tier check (not strict math).
 - If nothing matches well, still pick the strongest available options from the catalog.`,
       prompt: JSON.stringify({

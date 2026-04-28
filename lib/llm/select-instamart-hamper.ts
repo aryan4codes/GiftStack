@@ -14,14 +14,65 @@ const pickSchema = z.object({
   item_ids: z.array(z.string()).min(1).max(5),
 });
 
-const MAX_IDS = 96;
+const MAX_IDS = 120;
 
-function sampleCatalog(products: InstamartCandidate[]): InstamartCandidate[] {
+/**
+ * Score rows so sender intent (message + occasion) surfaces matching categories before
+ * we cap the catalog. Price-only sampling was ranking premium bath/confectionery above
+ * electronics and hiding mid-tier SKUs from the model entirely when the DB window was wrong.
+ */
+function scoreInstamartForIntent(
+  p: InstamartCandidate,
+  intentText: string,
+): number {
+  const m = intentText.toLowerCase();
+  const blob = `${p.category ?? ""} ${p.name ?? ""} ${p.brand ?? ""}`.toLowerCase();
+  let score = 0;
+  /** Message hint must match AND product blob should look like that aisle. */
+  const rails: { reMsg: RegExp; reProd: RegExp; w: number }[] = [
+    {
+      reMsg:
+        /\b(electronics?|gadgets?|gadget|tech(?:ie)?|usb|charger|cables?|headphone|earbuds?|audio|power\s*bank|bluetooth|accessor(?:y|ies)|trimmer|shaver)\b/i,
+      reProd:
+        /electronics|electron|gadget|charger|cable|headphones?|earbuds?|power bank|speaker|keyboard|mouse|audio|bluetooth|trimmer|adapter|smart\b|gaming|tablet|buds\b|tws\b|anc\b/i,
+      w: 8_000,
+    },
+    {
+      reMsg: /self[\s-]?care|beauty|bath|skincare|wellness|pamper|skin care/i,
+      reProd:
+        /personal care|beauty|\bbath\b|shower|cosmetic|skin|body shop|\blotion|\bsoap|cream|serum|face wash/i,
+      w: 6_000,
+    },
+    {
+      reMsg:
+        /\b(snacks?|chocolate|sweet|treat|munch|desserts?|cookies?)\b|\bfoods?\b|\bbeverages?\b/i,
+      reProd:
+        /chocolate|snack|wafer|biscuits?|confection|candy|chips|nuts\b|nuts |beverages?|juice|tea|coffee(?!\s*table)/i,
+      w: 4_000,
+    },
+  ];
+  for (const { reMsg, reProd, w } of rails) {
+    if (reMsg.test(m) && reProd.test(blob)) score += w;
+  }
+  // Prefer pricier SKUs when intent is ambiguous (premium hamper heuristic).
+  score += Math.min((p.price_paise ?? 0) / 50_000, 400);
+  return score;
+}
+
+function sampleCatalog(
+  products: InstamartCandidate[],
+  intentText: string,
+): InstamartCandidate[] {
   if (products.length <= MAX_IDS) return products;
-  const sorted = [...products].sort(
-    (a, b) => (b.price_paise ?? 0) - (a.price_paise ?? 0),
+  const trimmed = intentText.trim() || "(no message)";
+  const scored = products.map((p) => ({
+    p,
+    s: scoreInstamartForIntent(p, trimmed),
+  }));
+  scored.sort(
+    (a, b) => b.s - a.s || (b.p.price_paise ?? 0) - (a.p.price_paise ?? 0),
   );
-  return sorted.slice(0, MAX_IDS);
+  return scored.slice(0, MAX_IDS).map((x) => x.p);
 }
 
 export type HamperGiftContext = {
@@ -39,7 +90,8 @@ export async function selectInstamartItemIdsViaLlm(
 
   if (candidates.length === 0) return null;
 
-  const capped = sampleCatalog(candidates);
+  const intentText = [ctx.message, ctx.occasion].filter(Boolean).join("\n");
+  const capped = sampleCatalog(candidates, intentText);
   const catalog = capped.map((p) => ({
     id: p.id,
     name: p.name,
@@ -69,7 +121,8 @@ RULES — non-negotiable:
 - Return 1 to 5 item_ids ordered by relevance (hero item first).
 - Total sum of catalogue prices (price_inr × 1 qty) must NOT exceed ₹${budgetInr}. If unsure, skew cheaper.
 - Use product "category" (Instamart aisle/type) together with brand and name — category is the main thematic lever (snacks, beverages, personal care, electronics, etc.).
-- Match category + brand + name to the sender's intent: birthday treats vs gadgets vs chocolates vs wellness snacks, etc.
+- Match category + brand + name to the sender's intent. If they ask for electronics / gadgets / tech, choose products whose category clearly lives under Electronics (or similar), not bath or confectionery unless the message also asks for those.
+- When budget is tight, prefer cheaper SKUs in the requested category (from the catalog) over unrelated premium items that happen to fit the rupee cap.
 - Coherent hamper: fewer stronger picks beat random variety.`,
       prompt: JSON.stringify({
         occasion: ctx.occasion.replace(/_/g, " "),

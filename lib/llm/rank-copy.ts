@@ -42,12 +42,11 @@ export async function enrichOptionsCopy(
       prompt,
     });
     const byId = new Map(out.dineout.map((d) => [d.restaurant_id, d]));
+    /** Preserve rank/order from build-time intent (LLM hamper step). Rank-copy pitches only — re-ranking by "premium copy" bury bar/pub picks behind top-rated fine dining. */
     const dineout = [...options.dineout]
       .map((r) => {
         const enrich = byId.get(r.restaurant_id);
-        return enrich
-          ? { ...r, pitch: enrich.pitch, rank: enrich.rank }
-          : r;
+        return enrich ? { ...r, pitch: enrich.pitch } : r;
       })
       .sort((a, b) => a.rank - b.rank);
     return {

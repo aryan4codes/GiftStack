@@ -2,13 +2,18 @@
   "name": "giftstack",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=20.9.0"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
     "lint": "eslint",
     "seed": "tsx scripts/upload-mcp-json.ts",
-    "check-cache": "tsx scripts/check-supabase-cache.ts"
+    "check-cache": "tsx scripts/check-supabase-cache.ts",
+    "hydrate-food-menus": "node --env-file=.env.local ./node_modules/.bin/tsx scripts/hydrate-food-menu-snapshot.ts data/mcp-hydrated/cheelizza-merged.json data/mcp-hydrated/gfb-merged.json",
+    "vercel:sync-env": "node scripts/vercel-sync-env.mjs"
   },
   "dependencies": {
     "@ai-sdk/openai": "^3.0.53",
@@ -30,9 +35,9 @@
     "lucide-react": "^1.11.0",
     "nanoid": "^5.1.9",
     "next": "15.5.15",
-    "react": "19.1.0",
+    "react": "19.2.5",
     "react-day-picker": "^9.14.0",
-    "react-dom": "19.1.0",
+    "react-dom": "19.2.5",
     "svix": "^1.92.2",
     "tailwind-merge": "^3.5.0",
     "zod": "^4.3.6"

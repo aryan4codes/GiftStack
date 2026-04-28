@@ -231,9 +231,9 @@ export default function RedeemPage() {
           Food credit
         </h1>
         <p className="mt-3 max-w-2xl text-sm leading-relaxed text-[var(--color-text-muted)]">
-          Orders use our cached Swiggy menu snapshot for{" "}
-          <strong>{catalogueCity.trim()}</strong>. Pick cues from any restaurant tile below —
-          tell the assistant what to add and we stay inside your balance.
+          Choose a restaurant below, then dishes from the cached menu for{" "}
+          <strong>{catalogueCity.trim()}</strong>. Stay within your credit; optional chat can
+          help explore the same catalog.
         </p>
         <div className="mt-10">
           <FoodChatAgent
