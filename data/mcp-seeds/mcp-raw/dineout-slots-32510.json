@@ -1,0 +1,2929 @@
+{
+  "success": true,
+  "slots": [
+    {
+      "slotId": 1,
+      "displayTime": "07:00 PM",
+      "reservationTime": "1777383000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 123,
+      "isFree": true,
+      "dateStr": "2026-04-28",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 123
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:30 PM",
+      "reservationTime": "1777384800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 123,
+      "isFree": true,
+      "dateStr": "2026-04-28",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 123
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:00 PM",
+      "reservationTime": "1777386600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 123,
+      "isFree": true,
+      "dateStr": "2026-04-28",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 123
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:30 PM",
+      "reservationTime": "1777388400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 123,
+      "isFree": true,
+      "dateStr": "2026-04-28",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 123
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:00 PM",
+      "reservationTime": "1777390200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 123,
+      "isFree": true,
+      "dateStr": "2026-04-28",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 123
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:30 PM",
+      "reservationTime": "1777392000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 123,
+      "isFree": true,
+      "dateStr": "2026-04-28",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 123
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "10:00 PM",
+      "reservationTime": "1777393800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 123,
+      "isFree": true,
+      "dateStr": "2026-04-28",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 123
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:00 AM",
+      "reservationTime": "1777440600",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:30 AM",
+      "reservationTime": "1777442400",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:00 PM",
+      "reservationTime": "1777444200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:30 PM",
+      "reservationTime": "1777446000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:00 PM",
+      "reservationTime": "1777447800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:30 PM",
+      "reservationTime": "1777449600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:00 PM",
+      "reservationTime": "1777451400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:30 PM",
+      "reservationTime": "1777453200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:00 PM",
+      "reservationTime": "1777455000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:30 PM",
+      "reservationTime": "1777456800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:00 PM",
+      "reservationTime": "1777458600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:30 PM",
+      "reservationTime": "1777460400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "05:00 PM",
+      "reservationTime": "1777462200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:00 PM",
+      "reservationTime": "1777465800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:30 PM",
+      "reservationTime": "1777467600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:00 PM",
+      "reservationTime": "1777469400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 124,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 124
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:30 PM",
+      "reservationTime": "1777471200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:00 PM",
+      "reservationTime": "1777473000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:30 PM",
+      "reservationTime": "1777474800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:00 PM",
+      "reservationTime": "1777476600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:30 PM",
+      "reservationTime": "1777478400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "10:00 PM",
+      "reservationTime": "1777480200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 127,
+      "isFree": true,
+      "dateStr": "2026-04-29",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 127
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:00 AM",
+      "reservationTime": "1777527000",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:30 AM",
+      "reservationTime": "1777528800",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:00 PM",
+      "reservationTime": "1777530600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:30 PM",
+      "reservationTime": "1777532400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:00 PM",
+      "reservationTime": "1777534200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:30 PM",
+      "reservationTime": "1777536000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:00 PM",
+      "reservationTime": "1777537800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:30 PM",
+      "reservationTime": "1777539600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:00 PM",
+      "reservationTime": "1777541400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:30 PM",
+      "reservationTime": "1777543200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:00 PM",
+      "reservationTime": "1777545000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:30 PM",
+      "reservationTime": "1777546800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "05:00 PM",
+      "reservationTime": "1777548600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:00 PM",
+      "reservationTime": "1777552200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:30 PM",
+      "reservationTime": "1777554000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 122,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 122
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:00 PM",
+      "reservationTime": "1777555800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:30 PM",
+      "reservationTime": "1777557600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:00 PM",
+      "reservationTime": "1777559400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:30 PM",
+      "reservationTime": "1777561200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:00 PM",
+      "reservationTime": "1777563000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:30 PM",
+      "reservationTime": "1777564800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "10:00 PM",
+      "reservationTime": "1777566600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 126,
+      "isFree": true,
+      "dateStr": "2026-04-30",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 126
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:00 AM",
+      "reservationTime": "1777613400",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:30 AM",
+      "reservationTime": "1777615200",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:00 PM",
+      "reservationTime": "1777617000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:30 PM",
+      "reservationTime": "1777618800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:00 PM",
+      "reservationTime": "1777620600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:30 PM",
+      "reservationTime": "1777622400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:00 PM",
+      "reservationTime": "1777624200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:30 PM",
+      "reservationTime": "1777626000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:00 PM",
+      "reservationTime": "1777627800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:30 PM",
+      "reservationTime": "1777629600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:00 PM",
+      "reservationTime": "1777631400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:30 PM",
+      "reservationTime": "1777633200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "05:00 PM",
+      "reservationTime": "1777635000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:00 PM",
+      "reservationTime": "1777638600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:30 PM",
+      "reservationTime": "1777640400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:00 PM",
+      "reservationTime": "1777642200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:30 PM",
+      "reservationTime": "1777644000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:00 PM",
+      "reservationTime": "1777645800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:30 PM",
+      "reservationTime": "1777647600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:00 PM",
+      "reservationTime": "1777649400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:30 PM",
+      "reservationTime": "1777651200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "10:00 PM",
+      "reservationTime": "1777653000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-01",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:00 AM",
+      "reservationTime": "1777699800",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:30 AM",
+      "reservationTime": "1777701600",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:00 PM",
+      "reservationTime": "1777703400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:30 PM",
+      "reservationTime": "1777705200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:00 PM",
+      "reservationTime": "1777707000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:30 PM",
+      "reservationTime": "1777708800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:00 PM",
+      "reservationTime": "1777710600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:30 PM",
+      "reservationTime": "1777712400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:00 PM",
+      "reservationTime": "1777714200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:30 PM",
+      "reservationTime": "1777716000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:00 PM",
+      "reservationTime": "1777717800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:30 PM",
+      "reservationTime": "1777719600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "05:00 PM",
+      "reservationTime": "1777721400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:00 PM",
+      "reservationTime": "1777725000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:30 PM",
+      "reservationTime": "1777726800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:00 PM",
+      "reservationTime": "1777728600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:30 PM",
+      "reservationTime": "1777730400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:00 PM",
+      "reservationTime": "1777732200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:30 PM",
+      "reservationTime": "1777734000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:00 PM",
+      "reservationTime": "1777735800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:30 PM",
+      "reservationTime": "1777737600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "10:00 PM",
+      "reservationTime": "1777739400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-02",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:00 AM",
+      "reservationTime": "1777786200",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:30 AM",
+      "reservationTime": "1777788000",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:00 PM",
+      "reservationTime": "1777789800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:30 PM",
+      "reservationTime": "1777791600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:00 PM",
+      "reservationTime": "1777793400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:30 PM",
+      "reservationTime": "1777795200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:00 PM",
+      "reservationTime": "1777797000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:30 PM",
+      "reservationTime": "1777798800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:00 PM",
+      "reservationTime": "1777800600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:30 PM",
+      "reservationTime": "1777802400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:00 PM",
+      "reservationTime": "1777804200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:30 PM",
+      "reservationTime": "1777806000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "05:00 PM",
+      "reservationTime": "1777807800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:00 PM",
+      "reservationTime": "1777811400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:30 PM",
+      "reservationTime": "1777813200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:00 PM",
+      "reservationTime": "1777815000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:30 PM",
+      "reservationTime": "1777816800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:00 PM",
+      "reservationTime": "1777818600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:30 PM",
+      "reservationTime": "1777820400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:00 PM",
+      "reservationTime": "1777822200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:30 PM",
+      "reservationTime": "1777824000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "10:00 PM",
+      "reservationTime": "1777825800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-03",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:00 AM",
+      "reservationTime": "1777872600",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "11:30 AM",
+      "reservationTime": "1777874400",
+      "slotGroupName": "Breakfast",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:00 PM",
+      "reservationTime": "1777876200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "12:30 PM",
+      "reservationTime": "1777878000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:00 PM",
+      "reservationTime": "1777879800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "01:30 PM",
+      "reservationTime": "1777881600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:00 PM",
+      "reservationTime": "1777883400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "02:30 PM",
+      "reservationTime": "1777885200",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:00 PM",
+      "reservationTime": "1777887000",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "03:30 PM",
+      "reservationTime": "1777888800",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:00 PM",
+      "reservationTime": "1777890600",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "04:30 PM",
+      "reservationTime": "1777892400",
+      "slotGroupName": "Lunch",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "05:00 PM",
+      "reservationTime": "1777894200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:00 PM",
+      "reservationTime": "1777897800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "06:30 PM",
+      "reservationTime": "1777899600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:00 PM",
+      "reservationTime": "1777901400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "07:30 PM",
+      "reservationTime": "1777903200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:00 PM",
+      "reservationTime": "1777905000",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "08:30 PM",
+      "reservationTime": "1777906800",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:00 PM",
+      "reservationTime": "1777908600",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "09:30 PM",
+      "reservationTime": "1777910400",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    },
+    {
+      "slotId": 1,
+      "displayTime": "10:00 PM",
+      "reservationTime": "1777912200",
+      "slotGroupName": "Dinner",
+      "availableInventory": 130,
+      "isFree": true,
+      "dateStr": "2026-05-04",
+      "deals": [
+        {
+          "itemId": "32510-84851",
+          "ticketId": "84851",
+          "slotId": 1,
+          "title": "Standard table booking",
+          "displayFee": "Cover charge: FREE",
+          "bookingPrice": 0,
+          "isFree": true,
+          "availableInventory": 130
+        }
+      ]
+    }
+  ],
+  "restaurantId": "32510",
+  "date": "2026-04-28",
+  "latitude": 12.9716,
+  "longitude": 77.5946,
+  "message": "Found 139 available slot(s) for 2026-04-28"
+}

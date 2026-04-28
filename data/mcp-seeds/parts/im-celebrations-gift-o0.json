@@ -1,0 +1,684 @@
+{
+  "_meta": {
+    "sourceFile": "im-celebrations-gift-o0.json",
+    "kind": "instamart_search"
+  },
+  "cached_instamart_products": [
+    {
+      "id": "R9DQX970Z1",
+      "name": "Ferrero Rocher Moments Chocolate",
+      "brand": "Ferrero Rocher",
+      "category": "Gift & hampers",
+      "price_paise": 22900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/21/e84bfa11-54d1-4f07-aeee-41f143933856_40844_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "92.8 g",
+        "parentProductId": "5CFFZKVWSD"
+      }
+    },
+    {
+      "id": "JV7PYVFZ2K",
+      "name": "Sunfeast Fantastik! Choco Delights Assorted Chocolate Gift Pack",
+      "brand": "Sunfeast",
+      "category": "Gift & hampers",
+      "price_paise": 29900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/d15a77ee-c980-405f-9249-b055829d2c5d_JV7PYVFZ2K_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "136 g",
+        "parentProductId": "H5BLCRHV3X"
+      }
+    },
+    {
+      "id": "H9DWDA0WWF",
+      "name": "Amul Ice Cream Cake Magic Dark Chocolate",
+      "brand": "Amul",
+      "category": "Gift & hampers",
+      "price_paise": 26500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/42b123af-5dcf-423e-8e68-696fd28c87c2_H9DWDA0WWF_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "750 ml",
+        "parentProductId": "28TKGK42NX"
+      }
+    },
+    {
+      "id": "NA9FDHFI5B",
+      "name": "Fabelle Gianduja Trilogy - Assorted Hazelnut Infused",
+      "brand": "Fabelle",
+      "category": "Gift & hampers",
+      "price_paise": 129200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/192911ff-f87b-4de9-acc7-ab8ac6cafd7e_697797_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "144 g",
+        "parentProductId": "CQJHQHHTGJ"
+      }
+    },
+    {
+      "id": "UBX37KL9ST",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 38200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g x 2",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "NNY5I3L73N",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 57300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g x 3",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "Y32C0W4WMI",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 19300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/81de4610-10b9-430b-b8d3-965206fdcb71_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "4GLQFUUJW1",
+      "name": "Fabelle Ganache Creamy Milk, Luxury Chocolates Gift Box",
+      "brand": "Fabelle",
+      "category": "Gift & hampers",
+      "price_paise": 107500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/21/76a1247a-ce80-4324-9dd9-7098c5a94c6d_572245_1_MN_7a572444-aebf-42cb-b126-d76401edc18a.jpg",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "124 g",
+        "parentProductId": "Z1FPSJH037"
+      }
+    },
+    {
+      "id": "6931A83XXA",
+      "name": "Diacraft Casino Poker Chips (Pack of 200)",
+      "brand": "Diacraft",
+      "category": "Gift & hampers",
+      "price_paise": 65900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/c6457717-218e-4446-880b-10c21529982e_6931A83XXA_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "P2LZ2V4S8J"
+      }
+    },
+    {
+      "id": "GWPYZ4NQZI",
+      "name": "Fabelle Dessert Collection- 5 Handcrafted Dessert Inspired Chocolate Truffles",
+      "brand": "Fabelle",
+      "category": "Gift & hampers",
+      "price_paise": 72200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/28/998d9f6a-0818-49aa-9268-f2614d58b7ec_732485_1_MN_74b0f44e-ee82-4d29-96c2-397ddf6580d3.jpg",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "66 g",
+        "parentProductId": "H4CR1MI50Z"
+      }
+    },
+    {
+      "id": "2W7AEV43P3",
+      "name": "Lindt Lindor Milk Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 34900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/1d025f9d-c45b-43ee-9f4f-63ccb883cf14_2W7AEV43P3_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "75 g",
+        "parentProductId": "HE34IDJ556"
+      }
+    },
+    {
+      "id": "HQV22MZZ0D",
+      "name": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 5000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/aa11adf3-5d9f-42d0-b617-872e595bdfee_40111_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "54.88 g",
+        "parentProductId": "QXJ4ZY4XJ4"
+      }
+    },
+    {
+      "id": "M5RWVLATPD",
+      "name": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 10000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/21/06a67120-60dc-403e-a3fb-59160df0085b_40111_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "54.88 g x 2",
+        "parentProductId": "QXJ4ZY4XJ4"
+      }
+    },
+    {
+      "id": "4BCX32O7V0",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Gift & hampers",
+      "price_paise": 29900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "O4EDSRM88S",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Gift & hampers",
+      "price_paise": 239200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 8",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "50ESNMNGV0",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Gift & hampers",
+      "price_paise": 149500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 5",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "KO6XOHGHQQ",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Gift & hampers",
+      "price_paise": 59800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 2",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "UBX37KL9ST",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 38200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g x 2",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "NNY5I3L73N",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 57300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g x 3",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "Y32C0W4WMI",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 19300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/81de4610-10b9-430b-b8d3-965206fdcb71_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "TIWQYEVGDU",
+      "name": "Kriiddaank Moon Ball for Kids, Soft Bouncing and Jumping Ball with Crater Design",
+      "brand": "Kriiddaank",
+      "category": "Gift & hampers",
+      "price_paise": 5900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/24/d79f4b3a-c14e-47c9-b760-25b32f98b1eb_188989_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "HXV032D77W"
+      }
+    },
+    {
+      "id": "SU47IQIDBX",
+      "name": "Fabelle Divine Dark Minis 64%, Bite sized dark chocolate",
+      "brand": "Fabelle",
+      "category": "Gift & hampers",
+      "price_paise": 15000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/21/b27b8e75-15d8-4e7a-91c2-feb56a307cab_498706_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "67.5 g",
+        "parentProductId": "HD8CCZA27G"
+      }
+    },
+    {
+      "id": "LLE7JJXCC5",
+      "name": "Ferrero Rocher Gift",
+      "brand": "Ferrero Rocher",
+      "category": "Gift & hampers",
+      "price_paise": 16900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/9f6a333f-7cc3-4b49-86a4-685137ecdf21_1981_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "50 g",
+        "parentProductId": "9Q9K1GS2ZZ"
+      }
+    },
+    {
+      "id": "F5ONQRT9NN",
+      "name": "Open Secret Chocolates, Brownie , Cookies, Flavored Nuts, Gift Hamper | 5 Delightful Healthy Snacks",
+      "brand": "OPEN SECRET",
+      "category": "Gift & hampers",
+      "price_paise": 29400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/23/70f962d1-47f5-4d63-b854-4c68363df613_91455_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "121 g",
+        "parentProductId": "WK2XGGVEDE"
+      }
+    },
+    {
+      "id": "1BJTWDIU3O",
+      "name": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 9500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/6c260d1f-f3a0-412a-85af-fa0aa25ba79a_549734_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "70 g",
+        "parentProductId": "CLUCZ05Y5Q"
+      }
+    },
+    {
+      "id": "07NCQQ789Z",
+      "name": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 19000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/9/93420e3c-e7b4-4830-9e6b-938fecf40aa7_549734_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "70 g x 2",
+        "parentProductId": "CLUCZ05Y5Q"
+      }
+    },
+    {
+      "id": "5N3X4FXRBM",
+      "name": "Loyka Almond Brittle Brownie",
+      "brand": "Loyka",
+      "category": "Gift & hampers",
+      "price_paise": 11600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/13/2205f2fc-dbea-4e0e-ba24-0dce4d1d5ebc_22051_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "43.5 g",
+        "parentProductId": "1DV0GYREA1"
+      }
+    },
+    {
+      "id": "XN5D9LWA2V",
+      "name": "Hammer Nova Green and Cadbury Celebrations Combo",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 24900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2024/10/9/ffab01c9-ecdd-4019-9814-5a83169b9585_677527.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Combo",
+        "parentProductId": "94B9B1IXDK"
+      }
+    },
+    {
+      "id": "SJQ0IMQ6GG",
+      "name": "Loyka Almond Brittle",
+      "brand": "Loyka",
+      "category": "Gift & hampers",
+      "price_paise": 11600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/13/aa54ddfc-c2e5-4149-b78c-e770d852cdf1_13713_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "43.5 g",
+        "parentProductId": "RH8NB1XV19"
+      }
+    },
+    {
+      "id": "QA56PSU6WO",
+      "name": "Ferrero Rocher Gift Pack (8 Pieces)",
+      "brand": "Ferrero Rocher",
+      "category": "Gift & hampers",
+      "price_paise": 29100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/17/cbc8bed4-2e34-4fb2-a6e3-10369dbe77f4_40843_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "100 g",
+        "parentProductId": "FFP79Y4VL1"
+      }
+    },
+    {
+      "id": "0Q0IA73XTE",
+      "name": "Lindt Lindor Assorted Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 52900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/95163129-988f-4fa3-a525-470fc2afd033_0Q0IA73XTE_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "112.5 g",
+        "parentProductId": "M7LYKT5GOW"
+      }
+    },
+    {
+      "id": "OHLP05T2UZ",
+      "name": "Ferrero Rocher Gift Pack (24 Pieces)",
+      "brand": "Ferrero Rocher",
+      "category": "Gift & hampers",
+      "price_paise": 167000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/6/8597a8b8-c15e-4e92-a11c-ae3c16ff8905_878_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "300 g x 2",
+        "parentProductId": "HTPQ476J5O"
+      }
+    },
+    {
+      "id": "XJNGY8Z3KN",
+      "name": "Ferrero Rocher Gift Pack (24 Pieces)",
+      "brand": "Ferrero Rocher",
+      "category": "Gift & hampers",
+      "price_paise": 83500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/17/203b4186-83c3-4d5e-9856-9446e68d0f50_878_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "300 g",
+        "parentProductId": "HTPQ476J5O"
+      }
+    },
+    {
+      "id": "HKCF77SLQR",
+      "name": "Lindt Lindor Assorted Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 89900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/ab7c299f-0a72-4e98-8a62-75793819def0_HKCF77SLQR_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "LIHYCC98RP"
+      }
+    },
+    {
+      "id": "BZOPA3IT9C",
+      "name": "Hershey's Kisses Milk Chocolate",
+      "brand": "Hershey's",
+      "category": "Gift & hampers",
+      "price_paise": 5100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/1ffca784-5096-4794-9c9a-6aab53fff863_BZOPA3IT9C_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "36 g",
+        "parentProductId": "CUEFU3FPAP"
+      }
+    },
+    {
+      "id": "J426OSEBEQ",
+      "name": "Hershey's Kisses Milk Chocolate",
+      "brand": "Hershey's",
+      "category": "Gift & hampers",
+      "price_paise": 20400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/4/11/0867a2d7-7276-473c-83d4-68e804b4dbdb_644097_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "36 g x 4",
+        "parentProductId": "CUEFU3FPAP"
+      }
+    },
+    {
+      "id": "VPZ8L4GTV4",
+      "name": "Lindt Lindor Milk Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 89900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/b86a6059-d4b5-4514-af25-ed3d35599f15_VPZ8L4GTV4_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "NL3BZXQO41"
+      }
+    },
+    {
+      "id": "ZZS0VU95U9",
+      "name": "Hershey's Kisses Choco Truffle",
+      "brand": "Hershey's",
+      "category": "Gift & hampers",
+      "price_paise": 8400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/88cff2ca-dc1d-4574-8991-ea016a462a4f_ZZS0VU95U9_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "45 g",
+        "parentProductId": "EXLY5WZSAW"
+      }
+    },
+    {
+      "id": "Q0B1TM0EC5",
+      "name": "Hershey's Kisses Choco Truffle",
+      "brand": "Hershey's",
+      "category": "Gift & hampers",
+      "price_paise": 25200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/23/f380a82f-9931-4dae-97c6-f9bbb397c7e6_371435_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "45 g x 3",
+        "parentProductId": "EXLY5WZSAW"
+      }
+    },
+    {
+      "id": "2W7AEV43P3",
+      "name": "Lindt Lindor Milk Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 34900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/1d025f9d-c45b-43ee-9f4f-63ccb883cf14_2W7AEV43P3_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "75 g",
+        "parentProductId": "HE34IDJ556"
+      }
+    },
+    {
+      "id": "CV0XBMTZTT",
+      "name": "Ferrero Rocher Moments Gift Pack (32 Pieces)",
+      "brand": "Ferrero Rocher",
+      "category": "Gift & hampers",
+      "price_paise": 47400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/21/93206f73-18b3-4f17-bae5-5a2b7759a390_40845_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "185.6 g",
+        "parentProductId": "5FJKZJC5NF"
+      }
+    },
+    {
+      "id": "F3PPM3MLE5",
+      "name": "Fabelle Kunafa Milk chocolate- Crispy Kunafa  and Rich Pistachio Crème",
+      "brand": "Fabelle",
+      "category": "Gift & hampers",
+      "price_paise": 55100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/21/44fc0575-5d97-4c91-9f15-35a903476df7_848913_1_MN_398c3fc6-e2c9-4fda-9b9a-a8f3246e1508.jpg",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "128 g",
+        "parentProductId": "9D2U54J8G1"
+      }
+    },
+    {
+      "id": "ENSA39QOUK",
+      "name": "Cadbury Nutties Chocolate",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 4500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/cd895f37-400f-4c83-a1b6-1e3f40a6c081_ENSA39QOUK_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "30 g",
+        "parentProductId": "JQIMWR5MUM"
+      }
+    },
+    {
+      "id": "A9DG9SVC4L",
+      "name": "Lindt Lindor Milk Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 51900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/9720341f-2fce-4cbf-b122-7444beaafaaf_A9DG9SVC4L_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "112.5 g",
+        "parentProductId": "USYYW2TU98"
+      }
+    },
+    {
+      "id": "NJMI93ZD3Y",
+      "name": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+      "brand": "Eat Better Co",
+      "category": "Gift & hampers",
+      "price_paise": 53300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/12/17/5138ac6a-b021-4c22-acb5-9c9fbeb64e65_NJMI93ZD3Y_MN_17122025.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "IWQT2SW9DC"
+      }
+    },
+    {
+      "id": "L45NMVSQXD",
+      "name": "Lindt Lindor Assorted Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 34900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/11/20/3297ac77-358b-4101-a4f9-d02af09cbf30_L45NMVSQXD_MN_20112025.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "75 g",
+        "parentProductId": "6OK1QQL268"
+      }
+    },
+    {
+      "id": "JN7S4W0VAL",
+      "name": "Kalyan Jewellers Flower 24 Karat Gold Coin (0.5 g)",
+      "brand": "Kalyan Jewellers",
+      "category": "Gift & hampers",
+      "price_paise": 814900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/14/431e4906-e59a-4c09-855c-3308a376718c_207788_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "0.5 g",
+        "parentProductId": "G7IO1Z4WE3"
+      }
+    },
+    {
+      "id": "YTMSN9GXWJ",
+      "name": "Kalyan Jewellers Flower 24 Karat Gold Coin (0.5 g)",
+      "brand": "Kalyan Jewellers",
+      "category": "Gift & hampers",
+      "price_paise": 1629800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/14/5e7b8afe-7d4c-43c0-bf60-db556a05656b_245659_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "0.5 g x 2",
+        "parentProductId": "G7IO1Z4WE3"
+      }
+    },
+    {
+      "id": "PFF9RQGID9",
+      "name": "Fabelle Luxury Chocolates Strawberry Cheesecake Box",
+      "brand": "Fabelle",
+      "category": "Gift & hampers",
+      "price_paise": 42700,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/b17ed3d3-8c8f-4f95-945c-da310b8336ff_3751_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "131 g",
+        "parentProductId": "BD0SLX1ZKT"
+      }
+    },
+    {
+      "id": "7GPI7TNX85",
+      "name": "PaperPep Golden Silver Leaves Pattern Print Gift Paper Bag | 9 x 7 x 4 inch",
+      "brand": "PaperPep",
+      "category": "Gift & hampers",
+      "price_paise": 4200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/31/7fa12e5f-4621-4e21-9934-42dbc912bdd9_125696.jpg",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Piece",
+        "parentProductId": "ZEX5GWUDV1"
+      }
+    },
+    {
+      "id": "8C6OY0JBNA",
+      "name": "Fabelle Loaded Secret - Dark Chocolate Bar with visible Almonds",
+      "brand": "Fabelle",
+      "category": "Gift & hampers",
+      "price_paise": 49700,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/f7c26c4a-5dd0-48fd-bced-2856abcb0545_181237_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "115 g",
+        "parentProductId": "M7QC0XTPOZ"
+      }
+    },
+    {
+      "id": "BGVKYBHPQU",
+      "name": "Barquillo Roasted Almond Dubai Chocolate Gift Pack (10 Pieces)",
+      "brand": "Barquillo",
+      "category": "Gift & hampers",
+      "price_paise": 66400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/30/e540fe52-6b18-4fda-8840-c75e4e8a5f9b_355703_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "VSJUYBH91F"
+      }
+    }
+  ]
+}

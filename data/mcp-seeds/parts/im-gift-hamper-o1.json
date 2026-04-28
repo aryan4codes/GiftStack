@@ -1,0 +1,671 @@
+{
+  "_meta": {
+    "sourceFile": "im-gift-hamper-o1.json",
+    "kind": "instamart_search"
+  },
+  "cached_instamart_products": [
+    {
+      "id": "NJMI93ZD3Y",
+      "name": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+      "brand": "Eat Better Co",
+      "category": "Gift & hampers",
+      "price_paise": 53300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/12/17/5138ac6a-b021-4c22-acb5-9c9fbeb64e65_NJMI93ZD3Y_MN_17122025.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "IWQT2SW9DC"
+      }
+    },
+    {
+      "id": "3ZDTD3DRA2",
+      "name": "OPEN SECRET Assorted Cookies Celebration Gift Zero Maida Healthy Snacks",
+      "brand": "OPEN SECRET",
+      "category": "Gift & hampers",
+      "price_paise": 28700,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/16/e02ccb5f-04d2-488d-a1e6-3d4ae212bcfe_1_MN_a7ab2fc4-bc27-4e74-8b2a-c7761cda4062.jpg",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "150 g",
+        "parentProductId": "VMX1OQLKAT"
+      }
+    },
+    {
+      "id": "LLE7JJXCC5",
+      "name": "Ferrero Rocher Gift",
+      "brand": "Ferrero Rocher",
+      "category": "Gift & hampers",
+      "price_paise": 16900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/9f6a333f-7cc3-4b49-86a4-685137ecdf21_1981_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "50 g",
+        "parentProductId": "9Q9K1GS2ZZ"
+      }
+    },
+    {
+      "id": "F5ONQRT9NN",
+      "name": "Open Secret Chocolates, Brownie , Cookies, Flavored Nuts, Gift Hamper | 5 Delightful Healthy Snacks",
+      "brand": "OPEN SECRET",
+      "category": "Gift & hampers",
+      "price_paise": 29400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/23/70f962d1-47f5-4d63-b854-4c68363df613_91455_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "121 g",
+        "parentProductId": "WK2XGGVEDE"
+      }
+    },
+    {
+      "id": "XOPB4UZ6LN",
+      "name": "Nestle KitKat 2F Mini Valentine Gift Box, 15 Pieces",
+      "brand": "Kitkat",
+      "category": "Gift & hampers",
+      "price_paise": 14900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/2/6a2a1db6-a193-420e-b157-52e0af0f8bd0_167189_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "181.5 g",
+        "parentProductId": "I70BHELEAT"
+      }
+    },
+    {
+      "id": "M3RQLJ9J7K",
+      "name": "Unibic Swaadesi Assorted Baklava",
+      "brand": "Unibic",
+      "category": "Gift & hampers",
+      "price_paise": 35300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/ddccb351-cd46-4b69-a2cd-48729518336a_M3RQLJ9J7K_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "WU9Z9HQR0N"
+      }
+    },
+    {
+      "id": "LCHIOHTCPK",
+      "name": "Kimirica Love Story Experience Set",
+      "brand": "Kimirica",
+      "category": "Gift & hampers",
+      "price_paise": 112000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/e2588906-5898-4d6c-bab2-400e46db4048_LCHIOHTCPK_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "LA2OVU0P07"
+      }
+    },
+    {
+      "id": "NJMI93ZD3Y",
+      "name": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+      "brand": "Eat Better Co",
+      "category": "Gift & hampers",
+      "price_paise": 53300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/12/17/5138ac6a-b021-4c22-acb5-9c9fbeb64e65_NJMI93ZD3Y_MN_17122025.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "IWQT2SW9DC"
+      }
+    },
+    {
+      "id": "BZOPA3IT9C",
+      "name": "Hershey's Kisses Milk Chocolate",
+      "brand": "Hershey's",
+      "category": "Gift & hampers",
+      "price_paise": 5100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/1ffca784-5096-4794-9c9a-6aab53fff863_BZOPA3IT9C_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "36 g",
+        "parentProductId": "CUEFU3FPAP"
+      }
+    },
+    {
+      "id": "J426OSEBEQ",
+      "name": "Hershey's Kisses Milk Chocolate",
+      "brand": "Hershey's",
+      "category": "Gift & hampers",
+      "price_paise": 20400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/4/11/0867a2d7-7276-473c-83d4-68e804b4dbdb_644097_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "36 g x 4",
+        "parentProductId": "CUEFU3FPAP"
+      }
+    },
+    {
+      "id": "GT39HYI5OI",
+      "name": "ENN Beauty Endless Love Gift Set Clay Mask Lipstick Nail Paint Tint Perfume",
+      "brand": "ENN Beauty",
+      "category": "Gift & hampers",
+      "price_paise": 50600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/5/5a073d0b-625b-46af-8881-08c7ae1bfc72_614775_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "5 pieces",
+        "parentProductId": "HQIFTYB28X"
+      }
+    },
+    {
+      "id": "F3NB03QOUL",
+      "name": "Dabur Gulabari Premium Rose Water (Paraben Free Skin Toner )",
+      "brand": "Dabur",
+      "category": "Gift & hampers",
+      "price_paise": 10800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/1700b19f-c73b-4740-a5b0-3a857f2dcb79_F3NB03QOUL_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "400 ml",
+        "parentProductId": "DRZAHBB2TW"
+      }
+    },
+    {
+      "id": "4GLQFUUJW1",
+      "name": "Fabelle Ganache Creamy Milk, Luxury Chocolates Gift Box",
+      "brand": "Fabelle",
+      "category": "Gift & hampers",
+      "price_paise": 107500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/21/76a1247a-ce80-4324-9dd9-7098c5a94c6d_572245_1_MN_7a572444-aebf-42cb-b126-d76401edc18a.jpg",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "124 g",
+        "parentProductId": "Z1FPSJH037"
+      }
+    },
+    {
+      "id": "CV0XBMTZTT",
+      "name": "Ferrero Rocher Moments Gift Pack (32 Pieces)",
+      "brand": "Ferrero Rocher",
+      "category": "Gift & hampers",
+      "price_paise": 47400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/21/93206f73-18b3-4f17-bae5-5a2b7759a390_40845_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "185.6 g",
+        "parentProductId": "5FJKZJC5NF"
+      }
+    },
+    {
+      "id": "JV7PYVFZ2K",
+      "name": "Sunfeast Fantastik! Choco Delights Assorted Chocolate Gift Pack",
+      "brand": "Sunfeast",
+      "category": "Gift & hampers",
+      "price_paise": 29900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/d15a77ee-c980-405f-9249-b055829d2c5d_JV7PYVFZ2K_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "136 g",
+        "parentProductId": "H5BLCRHV3X"
+      }
+    },
+    {
+      "id": "QA56PSU6WO",
+      "name": "Ferrero Rocher Gift Pack (8 Pieces)",
+      "brand": "Ferrero Rocher",
+      "category": "Gift & hampers",
+      "price_paise": 29100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/17/cbc8bed4-2e34-4fb2-a6e3-10369dbe77f4_40843_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "100 g",
+        "parentProductId": "FFP79Y4VL1"
+      }
+    },
+    {
+      "id": "NA9FDHFI5B",
+      "name": "Fabelle Gianduja Trilogy - Assorted Hazelnut Infused",
+      "brand": "Fabelle",
+      "category": "Gift & hampers",
+      "price_paise": 129200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/192911ff-f87b-4de9-acc7-ab8ac6cafd7e_697797_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "144 g",
+        "parentProductId": "CQJHQHHTGJ"
+      }
+    },
+    {
+      "id": "T4MYFT53P5",
+      "name": "Kimirica Love Story Moment Gift Set",
+      "brand": "Kimirica",
+      "category": "Gift & hampers",
+      "price_paise": 155700,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/d3b81476-b518-4094-83c7-42fec0503cd9_T4MYFT53P5_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "800 g",
+        "parentProductId": "3XFWHKDJO1"
+      }
+    },
+    {
+      "id": "1SYLOFN9VE",
+      "name": "Ras Luxury Skincare Brightening Indulgence gift set",
+      "brand": "Ras Luxury Skincare",
+      "category": "Gift & hampers",
+      "price_paise": 99800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/8/8/caf066af-c9d9-4589-a81d-bf3fc7d51ab1_851099_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "1JQ7EMB1VA"
+      }
+    },
+    {
+      "id": "1BJTWDIU3O",
+      "name": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 9500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/6c260d1f-f3a0-412a-85af-fa0aa25ba79a_549734_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "70 g",
+        "parentProductId": "CLUCZ05Y5Q"
+      }
+    },
+    {
+      "id": "07NCQQ789Z",
+      "name": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 19000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/9/93420e3c-e7b4-4830-9e6b-938fecf40aa7_549734_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "70 g x 2",
+        "parentProductId": "CLUCZ05Y5Q"
+      }
+    },
+    {
+      "id": "59J7H2LJAI",
+      "name": "ENN Beauty Mousse Liquid Lipstick(Test & Trail Pack )",
+      "brand": "ENN Beauty",
+      "category": "Gift & hampers",
+      "price_paise": 84900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/15ac947d-d8e0-4a09-8684-26c6e8190e54_59J7H2LJAI_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "12 ml",
+        "parentProductId": "MBLQKPJ5U3"
+      }
+    },
+    {
+      "id": "0F7YH65GRU",
+      "name": "Plum Bright Beginnings Kit",
+      "brand": "Plum",
+      "category": "Gift & hampers",
+      "price_paise": 73900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/10/29/92bb9e6f-d249-4d7c-9cf0-0499f7b15385_NPI-052570_1_20251029_115758.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "110 g",
+        "parentProductId": "BAVEUSB61L"
+      }
+    },
+    {
+      "id": "Y5LK0FTLP5",
+      "name": "Ras Luxury Skincare Oudh & Rose Body Ritual Gift Set",
+      "brand": "Ras Luxury Skincare",
+      "category": "Gift & hampers",
+      "price_paise": 100200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/8/8/a31132e3-c2c4-4884-8ad9-b3050b361470_186953_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "B8R4Y0GPC9"
+      }
+    },
+    {
+      "id": "F1MWHM3VO0",
+      "name": "Kimirica The Gulistan Indulgence Set",
+      "brand": "Kimirica",
+      "category": "Gift & hampers",
+      "price_paise": 141000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/5b7d22fc-3a66-4e50-ae66-3cce212b25fd_F1MWHM3VO0_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "T366SXI948"
+      }
+    },
+    {
+      "id": "K4B3A48JCG",
+      "name": "ENN Beauty Love Luxe Valentine Gift (Set of 4)",
+      "brand": "ENN Beauty",
+      "category": "Gift & hampers",
+      "price_paise": 107800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/8/a6e2f3f1-09df-427b-b829-8472115f206b_899275_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "NY2W7KQD43"
+      }
+    },
+    {
+      "id": "VBD6JAQG6Y",
+      "name": "Park Avenue Good Morning Grooming Kit",
+      "brand": "Park Avenue",
+      "category": "Gift & hampers",
+      "price_paise": 51900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/53075c16-4e3e-46da-9dc1-d61a6cdcd30e_VBD6JAQG6Y_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "BJ34JQ08SD"
+      }
+    },
+    {
+      "id": "Y5JX53RH00",
+      "name": "Snickers Gift Pack | 8 Bars | Peanut , Butterscotch, BerryWhip & Peanut Brownie",
+      "brand": "Snickers",
+      "category": "Gift & hampers",
+      "price_paise": 93900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/f33e1f73-ee3b-48fe-9e65-fb3af01a17c1_J7G7HAUADB_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "172 g x 3",
+        "parentProductId": "BGGQR7AJHR"
+      }
+    },
+    {
+      "id": "LFZPGIDDNM",
+      "name": "Snickers Gift Pack | 8 Bars | Peanut , Butterscotch, BerryWhip & Peanut Brownie",
+      "brand": "Snickers",
+      "category": "Gift & hampers",
+      "price_paise": 62600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/f33e1f73-ee3b-48fe-9e65-fb3af01a17c1_J7G7HAUADB_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "172 g x 2",
+        "parentProductId": "BGGQR7AJHR"
+      }
+    },
+    {
+      "id": "J7G7HAUADB",
+      "name": "Snickers Gift Pack | 8 Bars | Peanut , Butterscotch, BerryWhip & Peanut Brownie",
+      "brand": "Snickers",
+      "category": "Gift & hampers",
+      "price_paise": 31300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/f33e1f73-ee3b-48fe-9e65-fb3af01a17c1_J7G7HAUADB_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "172 g",
+        "parentProductId": "BGGQR7AJHR"
+      }
+    },
+    {
+      "id": "RIWRZ19WAL",
+      "name": "The Body Shop Trio Shower Gel",
+      "brand": "The Body Shop",
+      "category": "Gift & hampers",
+      "price_paise": 136800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/0e072041-205a-418f-b22f-81aa17d88d92_RIWRZ19WAL_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "750 ml",
+        "parentProductId": "K2QNQGGTOS"
+      }
+    },
+    {
+      "id": "5ZSQSKTVBG",
+      "name": "ENN Beauty Extra sheen Hydrating lip Gloss With Ghee Color Changing Lip Gloss Kit",
+      "brand": "ENN Beauty",
+      "category": "Gift & hampers",
+      "price_paise": 59900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/77dc84f3-20c6-408e-9dc8-806784b89cb8_5ZSQSKTVBG_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "6 ml",
+        "parentProductId": "6VM8NSC0J8"
+      }
+    },
+    {
+      "id": "ZZS0VU95U9",
+      "name": "Hershey's Kisses Choco Truffle",
+      "brand": "Hershey's",
+      "category": "Gift & hampers",
+      "price_paise": 8400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/88cff2ca-dc1d-4574-8991-ea016a462a4f_ZZS0VU95U9_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "45 g",
+        "parentProductId": "EXLY5WZSAW"
+      }
+    },
+    {
+      "id": "Q0B1TM0EC5",
+      "name": "Hershey's Kisses Choco Truffle",
+      "brand": "Hershey's",
+      "category": "Gift & hampers",
+      "price_paise": 25200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/23/f380a82f-9931-4dae-97c6-f9bbb397c7e6_371435_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "45 g x 3",
+        "parentProductId": "EXLY5WZSAW"
+      }
+    },
+    {
+      "id": "F3PPM3MLE5",
+      "name": "Fabelle Kunafa Milk chocolate- Crispy Kunafa  and Rich Pistachio Crème",
+      "brand": "Fabelle",
+      "category": "Gift & hampers",
+      "price_paise": 55100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/21/44fc0575-5d97-4c91-9f15-35a903476df7_848913_1_MN_398c3fc6-e2c9-4fda-9b9a-a8f3246e1508.jpg",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "128 g",
+        "parentProductId": "9D2U54J8G1"
+      }
+    },
+    {
+      "id": "CGNY4F9J08",
+      "name": "Munch Choco Coated Wafer Bar",
+      "brand": "Nestle",
+      "category": "Gift & hampers",
+      "price_paise": 18000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/61ee4aae-6375-4dc3-9c8e-9baacc6ffead_1710_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "158.4 g x 2",
+        "parentProductId": "O5SZDUY0NL"
+      }
+    },
+    {
+      "id": "YBSXTIEIY1",
+      "name": "Munch Choco Coated Wafer Bar",
+      "brand": "Munch",
+      "category": "Gift & hampers",
+      "price_paise": 10000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/23/b3c03569-4619-4bee-ae0f-01c7c807af76_YBSXTIEIY1_1_1ef20653-fb57-4c27-9e6c-d68d506b7533.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "158.4 g",
+        "parentProductId": "O5SZDUY0NL"
+      }
+    },
+    {
+      "id": "4BA5GC7KEI",
+      "name": "Munch Choco Coated Wafer Bar",
+      "brand": "Munch",
+      "category": "Gift & hampers",
+      "price_paise": 24600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/61ee4aae-6375-4dc3-9c8e-9baacc6ffead_1710_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "158.4 g x 3",
+        "parentProductId": "O5SZDUY0NL"
+      }
+    },
+    {
+      "id": "HKCF77SLQR",
+      "name": "Lindt Lindor Assorted Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 89900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/ab7c299f-0a72-4e98-8a62-75793819def0_HKCF77SLQR_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "LIHYCC98RP"
+      }
+    },
+    {
+      "id": "XSU4MYBQ6X",
+      "name": "Engage Gift Moments Luxury Perfume Gift Set for Women, Long Lasting Fragrance",
+      "brand": "Engage",
+      "category": "Gift & hampers",
+      "price_paise": 32400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/10/37367b63-b6fa-4723-b95d-d540b8bf74d9_67940_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "100 ml",
+        "parentProductId": "3YPE5UKNI1"
+      }
+    },
+    {
+      "id": "L45NMVSQXD",
+      "name": "Lindt Lindor Assorted Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 34900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/11/20/3297ac77-358b-4101-a4f9-d02af09cbf30_L45NMVSQXD_MN_20112025.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "75 g",
+        "parentProductId": "6OK1QQL268"
+      }
+    },
+    {
+      "id": "UBX37KL9ST",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 38200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g x 2",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "NNY5I3L73N",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 57300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g x 3",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "Y32C0W4WMI",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Gift & hampers",
+      "price_paise": 19300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/81de4610-10b9-430b-b8d3-965206fdcb71_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "2W7AEV43P3",
+      "name": "Lindt Lindor Milk Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 34900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/1d025f9d-c45b-43ee-9f4f-63ccb883cf14_2W7AEV43P3_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "75 g",
+        "parentProductId": "HE34IDJ556"
+      }
+    },
+    {
+      "id": "6R6A6T19PO",
+      "name": "Barquillo Hazelnut Dubai Chocolate Gift Pack (10 Pieces)",
+      "brand": "Barquillo",
+      "category": "Gift & hampers",
+      "price_paise": 66400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/17/08028bb6-bee7-4175-84f4-a4a3bcb1a8cf_419489_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "9Y45SPLJJO"
+      }
+    },
+    {
+      "id": "0Q0IA73XTE",
+      "name": "Lindt Lindor Assorted Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 52900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/95163129-988f-4fa3-a525-470fc2afd033_0Q0IA73XTE_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "112.5 g",
+        "parentProductId": "M7LYKT5GOW"
+      }
+    },
+    {
+      "id": "2DYYJHKULS",
+      "name": "The Gift Studio Midnight Stash",
+      "brand": "The Gift Studio",
+      "category": "Gift & hampers",
+      "price_paise": 129900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/8/22/d1b8b404-274a-4ab2-a136-d19c54f3c1ea_NPI-017063_1_20250822_102014.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Pack",
+        "parentProductId": "AY0FX5W2B2"
+      }
+    },
+    {
+      "id": "VPZ8L4GTV4",
+      "name": "Lindt Lindor Milk Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 89900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/b86a6059-d4b5-4514-af25-ed3d35599f15_VPZ8L4GTV4_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "NL3BZXQO41"
+      }
+    },
+    {
+      "id": "8LI4VNIXKV",
+      "name": "Soulflower Luxury Gift Set Lavender Try Me Box with Soap, Body and Aroma Oil",
+      "brand": "Soulflower",
+      "category": "Gift & hampers",
+      "price_paise": 69900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/10/52cc64ab-15d1-4f55-81cb-4741bde23cfc_68183_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "600 g",
+        "parentProductId": "HS04FU7TET"
+      }
+    },
+    {
+      "id": "A9DG9SVC4L",
+      "name": "Lindt Lindor Milk Gift Box",
+      "brand": "Lindt",
+      "category": "Gift & hampers",
+      "price_paise": 51900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/9720341f-2fce-4cbf-b122-7444beaafaaf_A9DG9SVC4L_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "112.5 g",
+        "parentProductId": "USYYW2TU98"
+      }
+    }
+  ]
+}

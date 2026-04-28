@@ -1,0 +1,1036 @@
+{
+  "success": true,
+  "data": {
+    "restaurant": {
+      "id": "390596",
+      "name": "Theobroma",
+      "city": "Mumbai",
+      "areaName": "Borivali West",
+      "cuisines": [
+        "Bakery",
+        "Desserts"
+      ],
+      "avgRating": 4.6,
+      "avgRatingString": "4.6",
+      "totalRatingsString": "4.5K+ ratings",
+      "costForTwoMessage": "₹400 for two",
+      "isOpen": true,
+      "deliveryTime": 33,
+      "slaString": "30-35 MINS",
+      "address": "Shop No 11, Borivali West,  I C Colony, Mumbai"
+    },
+    "categories": [
+      {
+        "title": "Croissants, Danishes & Muffins",
+        "categoryId": "40942533",
+        "items": [
+          {
+            "id": "186788772",
+            "name": "Blueberry Crumble Muffin [1 Piece]",
+            "description": "Soft and moist muffin filled with blueberry compote and topped with crispy baked crumble. Allergens ...",
+            "price": 175,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "5.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/14/d2fdfea8-5ddd-4971-b577-42f610fdc195_b10178f5-2f4c-40e8-818e-a3195b719540.jpg",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "125752378",
+            "name": "Pain Au Chocolat [1 Piece]",
+            "description": "Classic French pastry made with chocolate folded between flaky buttery laminated dough. Allergens - ...",
+            "price": 115,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "4.3",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/2/6/85022445-3789-4e1e-9616-68f243f6ae66_d357c0b1-dfe1-44c9-b680-62ff21a859d4.jpg",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "186788773",
+            "name": "Chocolate Chip Muffin [1 Piece]",
+            "description": "Soft and moist muffin loaded with chocolate chunks. Allergens - Gluten, Dairy, Soy",
+            "price": 175,
+            "inStock": 1,
+            "isVeg": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/14/89a66d1e-0c37-476e-be04-06ea4e921c61_93d70b78-f25b-43eb-9129-595bed88f2a0.jpg",
+            "hasVariants": false,
+            "hasAddons": false
+          }
+        ],
+        "totalItems": 3,
+        "hasMoreItems": false
+      },
+      {
+        "title": "Tea  Cakes",
+        "categoryId": "69653761",
+        "subcategories": [
+          {
+            "title": "Eggless",
+            "categoryId": "69653763",
+            "items": [
+              {
+                "id": "125752109",
+                "name": "Eggless Banana Cake [200g]",
+                "description": "Moist tea cake made with ripe bananas, best enjoyed with a hot beverage. Allergens - Wheat, Dairy",
+                "price": 165,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.3",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/6cb9da8b16196ff59a1c3abd88954111",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "125752153",
+                "name": "Eggless Dense Loaf [260g]",
+                "description": "A rich homestyle chocolate cake, enjoyed by all in a variety of ways - on it's own, served warm or c...",
+                "price": 255,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/a7db8b5c485a2acaa61deb90774c064e",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "80233296",
+                "name": "Eggless Mava Cake [225g]",
+                "description": "Our take on a classic Parsi recipe, this signature tea cake is loaded with generous amounts of mava ...",
+                "price": 285,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.4",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/3b0ffd5d815c404c39dc56b5797dabc5",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 3,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Egg",
+            "categoryId": "69653762",
+            "items": [
+              {
+                "id": "125996307",
+                "name": "Banana Cake [200g]",
+                "description": "Moist tea cake made with ripe bananas, best enjoyed with a hot beverage. Allergens - Wheat, Egg, Dai...",
+                "price": 165,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/bd1422c7336e4a4cf59726039464cce8",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "125996309",
+                "name": "Pound Cake [210g]",
+                "description": "Classic vanilla cake made with equal parts butter, sugar, flour and eggs. Enjoyed best along with a ...",
+                "price": 190,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/235882429e2d6e572bd5f0fd1e2c55a2",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "125752074",
+                "name": "Dense Loaf [350g]",
+                "description": "A rich homestyle chocolate cake, enjoyed by all in a variety of ways - on it's own, served warm or c...",
+                "price": 295,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.4",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fac73c048733c49b5b76b7e3b86e0d03",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "125996308",
+                "name": "Mava Cake [300g]",
+                "description": "Our take on a classic Parsi recipe, this signature tea cake is loaded with generous amounts of mava ...",
+                "price": 315,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "3.5",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/64f8452af18df7d0e58fffde0c8501a2",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 4,
+            "hasMoreItems": false
+          }
+        ],
+        "totalSubcategories": 2
+      },
+      {
+        "title": "Biscuits, Cookies & Crackers",
+        "categoryId": "40942528",
+        "subcategories": [
+          {
+            "title": "Biscuits",
+            "categoryId": "65664534",
+            "items": [
+              {
+                "id": "125752424",
+                "name": "Butter Palmiers [3 Pieces]",
+                "description": "Crisp buttery puff pastry rolled in caster sugar and caramelized. Allergens - Wheat, Dairy, Soy",
+                "price": 95,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "4.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/961b8c8cdb3eb7b513ef084aea3ffa8a",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "136015267",
+                "name": "Coconut Macaroons [8 Pieces]",
+                "description": "Crisp on the outside, soft on the inside and filled with lots of desiccated coconut, these cookies a...",
+                "price": 165,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/76f5c198d527a5cf4e2151e5754be2ba",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "125751905",
+                "name": "Almond Biscotti [150g]",
+                "description": "Double baked Italian biscuits loaded with almonds and flavoured with fennel seeds and a hint of oran...",
+                "price": 240,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/ade91058e3663ca3ceaba2d622db3328",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "140721921",
+                "name": "Chocolate Coated Biscuits [9 Pieces]",
+                "description": "Crisp biscuits dipped in milk or dark chocolate, these are loved by kids and adults alike. Allergens...",
+                "price": 300,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/26c522ecfdd20bd6a4bb2a07d21e2748",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 4,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Savoury Cookies",
+            "categoryId": "66525236",
+            "items": [
+              {
+                "id": "181935143",
+                "name": "Spicy Peanut Cookies [8 Pieces]",
+                "description": "Flavourful cookies made with roasted peanuts, onion, green chilli and curry leaves. Allergens - Milk...",
+                "price": 160,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/9/12/985f2f38-bea2-4a59-b047-883247e77457_4ac7f112-99bf-4362-a512-f01417424c21.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "181935144",
+                "name": "Chilli & Cheese Cookies [10 Pieces]",
+                "description": "Salted cookies made with cheese, red chilli flakes and butter. Allergens - Milk, Wheat, Soy",
+                "price": 170,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/9/12/754e33f2-950c-4bed-8818-bb90fbde6bf3_69b62362-30c6-4a95-9ec1-3cc8056baea3.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "181935145",
+                "name": "Jeera Cookies [10 Pieces]",
+                "description": "Buttery savoury cookies with roasted jeera, perfect for your snack time savoury cravings. Allergens ...",
+                "price": 180,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/9/12/beb1da3c-2c42-458e-aca3-69d87858ff5a_127bbc13-cf53-4aca-94fd-7c729664a762.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 3,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Sweet Cookies",
+            "categoryId": "65664536",
+            "items": [
+              {
+                "id": "180010602",
+                "name": "Oats & Raisins Big Cookie [1 Piece]",
+                "description": "Soft and chewy cookie made with the goodness of super grain oats, raisins, butter and jaggery. With ...",
+                "price": 80,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/8/18/6d7294fa-3bd2-485c-8b11-7665719c9ca6_9860f3c1-759c-4b04-a24d-66ef456efc12.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "180010601",
+                "name": "Chocolate ChipBig Cookie [1 Piece]",
+                "description": "Soft and rich cookie made with couverture chocolate and butter. Loaded with dark chocolate chunks, i...",
+                "price": 100,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/8/18/15d49d0c-9e4f-471f-8f61-a6e2062a64b8_99bd419b-0e83-47f9-9334-c8d14603633a.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "157688524",
+                "name": "Cinnamon Swirl Cookies [8 Pieces]",
+                "description": "Crisp cinnamon and butter cookies with a generous sprinkling of cinnamon sugar between the layers. A...",
+                "price": 200,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/2/6/0d6f02bd-5338-4b8e-9ffa-c9a6e78245ec_84ef14c3-8e9f-4781-b9bc-a0b28a9b7162.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "122348910",
+                "name": "Orange Cookies [12 Pieces]",
+                "description": "Soft cookies flavoured with house-made orange marmalade, best enjoyed with a hot beverage like tea o...",
+                "price": 195,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/8/7/df87c63b-3bd0-4df6-bf3f-5379cd5f787f_d4d31a25-9d78-4e5c-b72e-023d5831fc56.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "140721920",
+                "name": "Chocolate Chip Cookies [8 Pieces]",
+                "description": "Soft cookies made with dark chocolate chunks and butter. Best enjoyed with tea, coffee or milk. Alle...",
+                "price": 280,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/97813e95ee0119f836e818f4e9b805e1",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "157688523",
+                "name": "Strawberry Jam & Butter Cookies [8 Pieces]",
+                "description": "Serves 1 | Crisp buttery cookies with a centre topping of strawberry jam. Enjoy them with a hot beve...",
+                "price": 280,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/2/6/3a17044c-7999-4758-bdfe-de320d001360_d752009a-bf7a-4fd5-a5de-1af57de2bb24.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "80233307",
+                "name": "Double Choco Chip Cookies [8 Pieces]",
+                "description": "Soft cookies made chocolate cookie dough and dark chocolate chunks. Best enjoyed with tea, coffee or...",
+                "price": 290,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.5",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/1b54d4d09bf3a154480e754292d9e7cd",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "135898187",
+                "name": "Butter Cookies [10 Pieces]",
+                "description": "Crisp cookies made with almond flour that are the perfect teatime accompaniment. Allergens - Wheat, ...",
+                "price": 325,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/12f48f6d2871c90112f6e12323baed64",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "140721922",
+                "name": "Hazelnut Chocolate Cookies [10 Pieces]",
+                "description": "Crunchy cookies with hazelnut bits and hazelnut praline, coated in dark chocolate. Best enjoyed with...",
+                "price": 420,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/88ea0b5f81c1d69ffe8301703cc3f23c",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 9,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Crackers",
+            "categoryId": "65664535",
+            "items": [
+              {
+                "id": "125752437",
+                "name": "Ragi Crackers [100g]",
+                "description": "Baked crisp crackers made with wheat flour, ragi flour and enriched with the goodness of honey, flax...",
+                "price": 115,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/0e9747928bf15f9c036ffbf569695686",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "125751939",
+                "name": "Black Pepper Sourdough Crackers [100g]",
+                "description": "Baked crisp crackers made with whole wheat flour, sourdough and black pepper. Allergens - Wheat",
+                "price": 140,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/b2a62f0e7f37a0e8ea956b29c2e24828",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "121693299",
+                "name": "Sweet Sesame Crackers [100g]",
+                "description": "Thin & crisp tuilles flavoured with butter and sesame. Allergens - Wheat, Dairy, Sesame",
+                "price": 140,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/45a0001755ee7cb880ed712ff79d3d7a",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "125751970",
+                "name": "Cheese Crackers [100g]",
+                "description": "Flavourful crisp crackers made with cheese, butter and a touch of mustard with chilli. Perfect for a...",
+                "price": 200,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/0355b275bf43e4e96a621504e3dd8904",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 4,
+            "hasMoreItems": false
+          }
+        ],
+        "totalSubcategories": 4
+      },
+      {
+        "title": "Gifting",
+        "categoryId": "54780068",
+        "subcategories": [
+          {
+            "title": "Gift Hamper Bags",
+            "categoryId": "56044533",
+            "items": [
+              {
+                "id": "135638479",
+                "name": "Premium Gift Hamper Bag",
+                "description": "An assortment of our Signature offerings - Assorted Eggless Brownies Box (2pcs), Chocolate Chip Big ...",
+                "price": 725,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/21/4221be6c-d822-47dc-8719-8b42342718b4_65677f36-bd39-43e6-abf2-66818ec8377f.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "188619420",
+                "name": "Luxury Gift Hamper Bag",
+                "description": "An assortment of our Signature offerings - Assorted Eggless Brownies Box (2pcs), Chocolate Chip Big ...",
+                "price": 975,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/21/847e8986-82a5-4d24-9505-1afc86c8817f_e423df0e-4460-446b-b7b6-6b7d22170a1f.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "150732577",
+                "name": "Customised Gift Hamper Bag (Eggless)",
+                "description": "Select from our range of assorted brownie boxes, teacakes, biscuits-cookies-crackers.",
+                "price": 685,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/62752001183a1801168e8dbf414601cd",
+                "hasVariants": true,
+                "hasAddons": false
+              },
+              {
+                "id": "150732578",
+                "name": "Customised Gift Hamper Bag",
+                "description": "Select from our range of assorted brownie boxes, teacakes, biscuits-cookies-crackers.",
+                "price": 455,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/62752001183a1801168e8dbf414601cd",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 4,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Gift Hamper Baskets",
+            "categoryId": "56044532",
+            "items": [
+              {
+                "id": "76939237",
+                "name": "Premium Gift Hamper Basket",
+                "description": "An assortment of our Signature offerings - Assorted Eggless Brownies Box (6pcs), Chocolate Chip Big ...",
+                "price": 2495,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/6/d6d3b707-4524-477e-ba72-a450b65d2121_3242293f-b741-47af-b080-3d608f53f35b.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "76939238",
+                "name": "Luxury Gift Hamper Basket",
+                "description": "An assortment of our Signature offerings - Assorted Eggless Brownies Box (12pcs), Chocolate Chip Big...",
+                "price": 3350,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/6/48afc1e1-644f-4c4b-ab22-00ae4c482ea9_eaa9fc9b-41a5-41de-9948-9f530311265e.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 2,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Chocolates",
+            "categoryId": "55184704",
+            "items": [
+              {
+                "id": "184475022",
+                "name": "55% Dark Chocolate with Cranberry [60g]",
+                "description": "Artisanal chocolate bar that brings together flavours of the finest Indian cocoa beans, with a uniqu...",
+                "price": 210,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/10/24/188afff7-1ae8-496e-802b-5d88625b41c2_d0fc725c-d804-4364-a5d5-4546e0839a80.jpg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "125751907",
+                "name": "Almond Rocks (500g)",
+                "description": "Perfectly toasted and crisp almonds coated in dark chocolate. Allergens - Nuts, Soya",
+                "price": 1300,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/28/9958de3c-e9cd-4169-bb2b-f0ae21af49aa_ce3bd960-156e-4f30-bebe-569b75d22fdb.jpg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "184475023",
+                "name": "55% Dark Chocolate with Sea Salt & Almond [60g]",
+                "description": "Artisanal chocolate bar crafted with unique flavours of the finest Indian cocoa beans, roasted almon...",
+                "price": 210,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/10/24/c92121af-2a52-4d1a-a3f6-6aaaa97afb9b_05d89df3-8dbd-4f96-9b41-e329aaf3ef30.jpg",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 3,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Gift Hamper Box",
+            "categoryId": "66684207",
+            "items": [
+              {
+                "id": "188619421",
+                "name": "Premium Gift Hamper Box",
+                "description": "An assortment of our Signature offerings - Assorted Eggless Brownies Box (2pcs), Chocolate Chip Big ...",
+                "price": 1475,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/21/103f2d0b-838f-4a11-9ec2-8662a6fb90e5_211846dd-840a-4a5d-a610-d92ab9c11900.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "181161308",
+                "name": "Luxury Gift Hamper Box",
+                "description": "An assortment of our Signature offerings - Assorted Eggless Brownies Box (2pcs), Chocolate Chip Big ...",
+                "price": 1950,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/21/5fae7dfc-d2de-4092-b678-985f2849126f_b1e31a11-53f7-4acd-88f4-3634d5068846.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 2,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Assortments",
+            "categoryId": "55184707",
+            "items": [
+              {
+                "id": "172925053",
+                "name": "Assorted Eggless Brownies Box (4 pcs)",
+                "description": "An assortment of our signature eggless brownies - Walnut (1), Choco Chip (1), Millionaire (1), Cooki...",
+                "price": 455,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/7/f231f720-a036-4724-9632-34df9da0e084_9edefd83-84af-47d7-86c9-4e1f9ad791b6.jpg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "172925052",
+                "name": "Assorted Brownies Box (4 pcs)",
+                "description": "An assortment of our signature brownies - Choco Chip (1), Millionaire (1), Cookie (1), Walnut (1)",
+                "price": 455,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/7/dbd6037d-e930-47ed-9b13-4be97229253c_fae39ddc-a0b6-47a0-8786-66ff1f5218cc.jpg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "125751931",
+                "name": "Assorted Eggless Brownies Box [6 Pieces]",
+                "description": "An assortment of our signature eggless brownies - Walnut (1), Choco Chip (2), Millionaire (1), Cooki...",
+                "price": 695,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/23/2aa8ac17-8aaa-4ab6-b9db-9bd1c248ff64_c35c107e-6b6e-4ede-8964-70b8ce591ede.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "125751925",
+                "name": "Assorted Brownies Box [6 Pieces]",
+                "description": "An assortment of our signature brownies - Walnut (1), Choco Chip (2), Millionaire (1), Cookie (1), O...",
+                "price": 695,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/23/2aa8ac17-8aaa-4ab6-b9db-9bd1c248ff64_c35c107e-6b6e-4ede-8964-70b8ce591ede.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "152709406",
+                "name": "Assorted Eggless Brownies Gift Box [6 Pieces]",
+                "description": "An assortment of our signature eggless brownies - Walnut (1), Choco Chip (2), Millionaire (1), Cooki...",
+                "price": 710,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/7/25/967ba267-052e-46ba-b33b-1113e5b977b8_97b0d4f7-ace7-46e6-ae36-6040654674c7.jpg_compressed",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "152709400",
+                "name": "Assorted Brownies Gift Box [6 Pieces]",
+                "description": "An assortment of our signature brownies - Walnut (1), Choco Chip (2), Millionaire (1), Cookie (1), O...",
+                "price": 710,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/7/15be5392-161e-470e-ae0f-362a206b3272_e9abf4e4-caa8-489f-9b54-c282b2ddb91c.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "141439230",
+                "name": "Assorted Eggless Brownies Box [9 Pieces]",
+                "description": "An assortment of our signature eggless brownies - Walnut (2), Choco Chip (2), Millionaire (1), Cooki...",
+                "price": 1050,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/12/8fece5ae-ccab-4d95-b369-3ea5cdb717af_ac90246a-54d0-4234-a127-159fdc06ad73.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "141439232",
+                "name": "Assorted Brownies Box [9 Pieces]",
+                "description": "An assortment of our signature brownies - Walnut (2), Choco Chip (2), Millionaire (1), Cookie (2), O...",
+                "price": 1050,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/23/2df0e828-5be9-46db-86ad-69a15d547ae1_2ab61c25-341d-4240-a5a9-4234e84d7576.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "125751928",
+                "name": "Assorted Eggless Brownies Box [12 Pieces]",
+                "description": "An assortment of our signature eggless brownies - Walnut (3), Choco Chip (3), Millionaire (2), Cooki...",
+                "price": 1405,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/23/bbda2813-07f2-4307-a4c7-4e3f0ec94e19_09ffd62e-7995-471b-8c94-0fdb1b8c15bf.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "125751917",
+                "name": "Assorted Brownies Box [12 Pieces]",
+                "description": "An assortment of our signature brownies - Walnut (2), Choco Chip (4), Millionaire (2), Cookie (2), O...",
+                "price": 1405,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/23/bbda2813-07f2-4307-a4c7-4e3f0ec94e19_09ffd62e-7995-471b-8c94-0fdb1b8c15bf.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 12,
+            "hasMoreItems": true
+          }
+        ],
+        "totalSubcategories": 5
+      },
+      {
+        "title": "Anniversary Specials",
+        "categoryId": "68378407",
+        "items": [
+          {
+            "id": "185896203",
+            "name": "Anniversary Special Cake - Eggless Dutch Truffle [500g]",
+            "description": "Layers of dark cocoa ganache and moist chocolate sponge cake, with a special 'Happy Anniversary' top...",
+            "price": 670,
+            "inStock": 1,
+            "isVeg": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/1/8970a375-9f0e-47d9-8c6f-df552451e329_c6548237-0355-4da2-bf5e-b7efbe7eb28f.jpg",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "185896204",
+            "name": "Anniversary Special Cake - Eggless Fresh Cream Pineapple [500g]",
+            "description": "Layers of fresh cream, house-made pineapple compote and vanilla sponge cake with a special 'Happy An...",
+            "price": 695,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "5.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/1/a7d9845c-443a-461e-8c48-3cf4b1cfc832_09ab84fa-a68a-4450-bd56-f048b050da53.jpg",
+            "hasVariants": false,
+            "hasAddons": false
+          }
+        ],
+        "totalItems": 2,
+        "hasMoreItems": false
+      },
+      {
+        "title": "Breads",
+        "categoryId": "40942539",
+        "items": [
+          {
+            "id": "71553857",
+            "name": "Wheat Bread Loaf [400g]",
+            "description": "Soft bread made with whole wheat and wheat flour. Allergens - Wheat, Soy",
+            "price": 90,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "5.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/71790e5b9cccc8b876c9fa7eb4dc2f3c",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "86095242",
+            "name": "French Baguette [140g]",
+            "description": "French bread loaf with a crisp outer crust, chewy texture and a soft crumb. Perfect accompaniment fo...",
+            "price": 100,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.6",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/117e9f0626993b1823d0cfb8cada5eb5",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "71553855",
+            "name": "Multigrain Loaf [400g]",
+            "description": "Soft & hearty bread with the goodness of super grains and seeds like jowar, ragi, soya, oats, waterm...",
+            "price": 110,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.6",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/6efd945769b25a8ef4a9cb2c0dfe5b53",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "80233292",
+            "name": "Sourdough Bread  [350g]",
+            "description": "Crisp on the outside and slightly chewy on the inside, our sourdough is naturally fermented without ...",
+            "price": 120,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "5.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/c9b67eea53d49b0f8822b6e57bdd5b96",
+            "hasVariants": false,
+            "hasAddons": false
+          }
+        ],
+        "totalItems": 4,
+        "hasMoreItems": false
+      },
+      {
+        "title": "Chocolates",
+        "categoryId": "69613401",
+        "subcategories": [
+          {
+            "title": "Dragees & Almond Rocks",
+            "categoryId": "71811843",
+            "items": [
+              {
+                "id": "71553847",
+                "name": "Almond Rocks (250g)",
+                "description": "Perfectly toasted and crisp almonds coated in dark chocolate. Allergens - Nuts, Soya",
+                "price": 650,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/28/9177465f-fcb8-42f2-a73d-2c7ebcc31fe4_5a246eb5-403e-4ee5-bb9c-0b2b66cacab9.jpg",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 1,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Bars & Barks",
+            "categoryId": "71811844",
+            "items": [
+              {
+                "id": "188770309",
+                "name": "55% Dark Chocolate with Cranberry [60 g]",
+                "description": "Artisanal chocolate bar that brings together flavours of the finest Indian cocoa beans, with a uniqu...",
+                "price": 210,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/10/24/188afff7-1ae8-496e-802b-5d88625b41c2_d0fc725c-d804-4364-a5d5-4546e0839a80.jpg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "188770314",
+                "name": "Chocolate Bars Collection Set of  3",
+                "description": "A gift set of 3 from our range of artisanal chocolate bars crafted from single origin Indian cocoa -...",
+                "price": 650,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/9/68ea4d3e-0642-4c34-a988-b02231379456_d712830d-e5de-4fbb-ac5d-76ae0e8be4a4.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "188770310",
+                "name": "55% Dark         Chocolate with Rum & Raisin [60g]",
+                "description": "Artisanal chocolate bar that brings together flavours of the finest Indian cocoa beans with raisins ...",
+                "price": 210,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/9/d4340ee5-5af1-4566-b677-0913dbc2ceb2_7a648295-de82-47b0-9fc3-4f9b387bfdc9.jpg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "188770311",
+                "name": "60% Dark Chocolate [60g]",
+                "description": "Artisanal chocolate bar crafted through careful fermentation and roasting of the finest Indian cocoa...",
+                "price": 210,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/9/1c1bf281-6a2e-40f6-9120-3aa1bd914dc3_0255cd3b-6bf1-4b2b-918f-2f4d94591ac0.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "188770312",
+                "name": "55% Dark Chocolate with Sea Salt & Almond [60 g]",
+                "description": "Artisanal chocolate bar crafted with unique flavours of the finest Indian cocoa beans, roasted almon...",
+                "price": 210,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/10/24/c92121af-2a52-4d1a-a3f6-6aaaa97afb9b_05d89df3-8dbd-4f96-9b41-e329aaf3ef30.jpg",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 5,
+            "hasMoreItems": false
+          }
+        ],
+        "totalSubcategories": 2
+      },
+      {
+        "title": "Beverages",
+        "categoryId": "40942534",
+        "subcategories": [
+          {
+            "title": "Cold Beverages",
+            "categoryId": "45127116",
+            "items": [
+              {
+                "id": "170681957",
+                "name": "Peach Iced Tea [300 ml]",
+                "description": "Fruity and refreshing peach flavoured iced tea to quench your thirst on those hot days.Enjoy it chil...",
+                "price": 104,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.6",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/4/30/8ec94253-361b-4773-a981-68c07a395cd9_9a816d20-d355-4062-af29-0fef55b8624a.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "125752510",
+                "name": "Valencia Orange Juice [200 ml]",
+                "description": "100% natural cold-pressed Valencia Orange juice, with no added sugar or preservatives. Allergens - N...",
+                "price": 170,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/1/5/fe790523-d12c-465c-b488-cfc7d2baac77_1e32fb06-897b-44e1-b103-804830e1f618.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "118022622",
+                "name": "Mango & Pineapple Juice (200ml)",
+                "description": "A blend of 100% natural cold-pressed mango and pineapple juice, with no added sugar orpreservatives....",
+                "price": 170,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/1/5/3596e767-d699-400d-9e36-2ace06bf7ae9_44008da0-fc49-4cbe-a0fc-4ba5ad5fd231.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "125752048",
+                "name": "Classic Cold Coffee [300ml]",
+                "description": "Refreshing and ready-to-drink, our classic cold coffee is an all-time favourite. Enjoy it chilled. A...",
+                "price": 170,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/1/5/f209a8c4-5911-4f34-a417-698f4095c6d5_453f4503-1808-48e5-b3cd-373301e617f5.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 4,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Hot Beverages",
+            "categoryId": "45127115",
+            "items": [
+              {
+                "id": "80233322",
+                "name": "Cappuccino [250ml]",
+                "description": "Espresso with equal parts hot milk and steamed milk foam. An all-time favourite. Allergens - Dairy",
+                "price": 155,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/b38cf12ee25fd19905717ea6a40e43e2",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "71553853",
+                "name": "Latte [250ml]",
+                "description": "A rich espresso with extra milk and a layer of steamed milk foam. Allergens - Dairy",
+                "price": 155,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.6",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/137ca2aa2d41fd90d01d551ec049da95",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "80233323",
+                "name": "Hot Chocolate [250ml]",
+                "description": "Smooth, creamy and comforting. Our signature hot chocolate is made with rich dark cocoa, fresh cream...",
+                "price": 195,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.6",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/1/19/3768792b-c59c-4481-ae39-29fbec937795_229a7d5a-e901-4efc-abb7-d226e03f665e.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 3,
+            "hasMoreItems": false
+          }
+        ],
+        "totalSubcategories": 2
+      }
+    ],
+    "totalCategories": 20,
+    "page": 2,
+    "pageSize": 8,
+    "hasMore": true
+  },
+  "message": "Menu for Theobroma: Showing page 2 (8 of 20 categories). Use page=3 to see more."
+}

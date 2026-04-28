@@ -1,0 +1,866 @@
+{
+  "_meta": {
+    "sourceFile": "im-chocolate-box-o0.json",
+    "kind": "instamart_search"
+  },
+  "cached_instamart_products": [
+    {
+      "id": "R9DQX970Z1",
+      "name": "Ferrero Rocher Moments Chocolate",
+      "brand": "Ferrero Rocher",
+      "category": "Chocolate & sweets",
+      "price_paise": 22900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/21/e84bfa11-54d1-4f07-aeee-41f143933856_40844_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "92.8 g",
+        "parentProductId": "5CFFZKVWSD"
+      }
+    },
+    {
+      "id": "6R6A6T19PO",
+      "name": "Barquillo Hazelnut Dubai Chocolate Gift Pack (10 Pieces)",
+      "brand": "Barquillo",
+      "category": "Chocolate & sweets",
+      "price_paise": 66400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/17/08028bb6-bee7-4175-84f4-a4a3bcb1a8cf_419489_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "9Y45SPLJJO"
+      }
+    },
+    {
+      "id": "XOPB4UZ6LN",
+      "name": "Nestle KitKat 2F Mini Valentine Gift Box, 15 Pieces",
+      "brand": "Kitkat",
+      "category": "Chocolate & sweets",
+      "price_paise": 14900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/2/6a2a1db6-a193-420e-b157-52e0af0f8bd0_167189_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "181.5 g",
+        "parentProductId": "I70BHELEAT"
+      }
+    },
+    {
+      "id": "BGVKYBHPQU",
+      "name": "Barquillo Roasted Almond Dubai Chocolate Gift Pack (10 Pieces)",
+      "brand": "Barquillo",
+      "category": "Chocolate & sweets",
+      "price_paise": 66400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/30/e540fe52-6b18-4fda-8840-c75e4e8a5f9b_355703_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "VSJUYBH91F"
+      }
+    },
+    {
+      "id": "BZOPA3IT9C",
+      "name": "Hershey's Kisses Milk Chocolate",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 5100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/1ffca784-5096-4794-9c9a-6aab53fff863_BZOPA3IT9C_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "36 g",
+        "parentProductId": "CUEFU3FPAP"
+      }
+    },
+    {
+      "id": "J426OSEBEQ",
+      "name": "Hershey's Kisses Milk Chocolate",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 20400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/4/11/0867a2d7-7276-473c-83d4-68e804b4dbdb_644097_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "36 g x 4",
+        "parentProductId": "CUEFU3FPAP"
+      }
+    },
+    {
+      "id": "P392YNUNPQ",
+      "name": "Barquillo Red Velvet Cheesecake Dubai Chocolate Gift Pack (10 Pieces)",
+      "brand": "Barquillo",
+      "category": "Chocolate & sweets",
+      "price_paise": 75900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/2/d657193f-431f-42a1-81d8-b45a0eb16c15_P392YNUNPQ.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "C8Y043CI8G"
+      }
+    },
+    {
+      "id": "M5RWVLATPD",
+      "name": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 10000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/21/06a67120-60dc-403e-a3fb-59160df0085b_40111_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "54.88 g x 2",
+        "parentProductId": "QXJ4ZY4XJ4"
+      }
+    },
+    {
+      "id": "HQV22MZZ0D",
+      "name": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 5000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/aa11adf3-5d9f-42d0-b617-872e595bdfee_40111_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "54.88 g",
+        "parentProductId": "QXJ4ZY4XJ4"
+      }
+    },
+    {
+      "id": "NA9FDHFI5B",
+      "name": "Fabelle Gianduja Trilogy - Assorted Hazelnut Infused",
+      "brand": "Fabelle",
+      "category": "Chocolate & sweets",
+      "price_paise": 129200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/192911ff-f87b-4de9-acc7-ab8ac6cafd7e_697797_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "144 g",
+        "parentProductId": "CQJHQHHTGJ"
+      }
+    },
+    {
+      "id": "CGNY4F9J08",
+      "name": "Munch Choco Coated Wafer Bar",
+      "brand": "Nestle",
+      "category": "Chocolate & sweets",
+      "price_paise": 18000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/61ee4aae-6375-4dc3-9c8e-9baacc6ffead_1710_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "158.4 g x 2",
+        "parentProductId": "O5SZDUY0NL"
+      }
+    },
+    {
+      "id": "YBSXTIEIY1",
+      "name": "Munch Choco Coated Wafer Bar",
+      "brand": "Munch",
+      "category": "Chocolate & sweets",
+      "price_paise": 10000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/23/b3c03569-4619-4bee-ae0f-01c7c807af76_YBSXTIEIY1_1_1ef20653-fb57-4c27-9e6c-d68d506b7533.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "158.4 g",
+        "parentProductId": "O5SZDUY0NL"
+      }
+    },
+    {
+      "id": "4BA5GC7KEI",
+      "name": "Munch Choco Coated Wafer Bar",
+      "brand": "Munch",
+      "category": "Chocolate & sweets",
+      "price_paise": 24600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/61ee4aae-6375-4dc3-9c8e-9baacc6ffead_1710_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "158.4 g x 3",
+        "parentProductId": "O5SZDUY0NL"
+      }
+    },
+    {
+      "id": "XOPB4UZ6LN",
+      "name": "Nestle KitKat 2F Mini Valentine Gift Box, 15 Pieces",
+      "brand": "Kitkat",
+      "category": "Chocolate & sweets",
+      "price_paise": 14900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/2/6a2a1db6-a193-420e-b157-52e0af0f8bd0_167189_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "181.5 g",
+        "parentProductId": "I70BHELEAT"
+      }
+    },
+    {
+      "id": "NNY5I3L73N",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 57300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g x 3",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "UBX37KL9ST",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 38200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g x 2",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "Y32C0W4WMI",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 19300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/81de4610-10b9-430b-b8d3-965206fdcb71_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "R9DQX970Z1",
+      "name": "Ferrero Rocher Moments Chocolate",
+      "brand": "Ferrero Rocher",
+      "category": "Chocolate & sweets",
+      "price_paise": 22900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/21/e84bfa11-54d1-4f07-aeee-41f143933856_40844_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "92.8 g",
+        "parentProductId": "5CFFZKVWSD"
+      }
+    },
+    {
+      "id": "5DX2RKZKN4",
+      "name": "Cadbury Dairy Milk Chocolate Home Treats",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 11500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/10/b550fe9a-a28b-4511-953e-c0831fa63a31_595_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "98 g",
+        "parentProductId": "Q49UBEM6C2"
+      }
+    },
+    {
+      "id": "5AXZ908ARM",
+      "name": "Cadbury Dairy Milk Chocolate Home Treats",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 46000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/9/b6c428b5-6880-42e2-9cfe-e402408f0ef9_595_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "98 g x 4",
+        "parentProductId": "Q49UBEM6C2"
+      }
+    },
+    {
+      "id": "17UMCU3NNR",
+      "name": "Cadbury Dairy Milk Chocolate Home Treats",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 23000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/9/b6c428b5-6880-42e2-9cfe-e402408f0ef9_595_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "98 g x 2",
+        "parentProductId": "Q49UBEM6C2"
+      }
+    },
+    {
+      "id": "M5RWVLATPD",
+      "name": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 10000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/21/06a67120-60dc-403e-a3fb-59160df0085b_40111_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "54.88 g x 2",
+        "parentProductId": "QXJ4ZY4XJ4"
+      }
+    },
+    {
+      "id": "HQV22MZZ0D",
+      "name": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 5000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/aa11adf3-5d9f-42d0-b617-872e595bdfee_40111_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "54.88 g",
+        "parentProductId": "QXJ4ZY4XJ4"
+      }
+    },
+    {
+      "id": "FXUDWDXF0F",
+      "name": "Nestle Milkybar Creamy Milky Treat",
+      "brand": "Milky Bar",
+      "category": "Chocolate & sweets",
+      "price_paise": 7200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/12/fed84bcb-0605-4b96-ad19-2596b731fad3_10096_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "42 g x 2",
+        "parentProductId": "6MG60KYRJ2"
+      }
+    },
+    {
+      "id": "RWZ7H6R96B",
+      "name": "Nestle Milkybar Creamy Milky Treat",
+      "brand": "Milkybar",
+      "category": "Chocolate & sweets",
+      "price_paise": 4000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/e8b40fe2-f0fd-4efa-ad7e-2ed3973bd2bd_10096_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "42 g",
+        "parentProductId": "6MG60KYRJ2"
+      }
+    },
+    {
+      "id": "6J7BCSHJIC",
+      "name": "Nestle Milkybar Creamy Milky Treat",
+      "brand": "Milky Bar",
+      "category": "Chocolate & sweets",
+      "price_paise": 9900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/12/fed84bcb-0605-4b96-ad19-2596b731fad3_10096_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "42 g x 3",
+        "parentProductId": "6MG60KYRJ2"
+      }
+    },
+    {
+      "id": "CV0XBMTZTT",
+      "name": "Ferrero Rocher Moments Gift Pack (32 Pieces)",
+      "brand": "Ferrero Rocher",
+      "category": "Chocolate & sweets",
+      "price_paise": 47400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/21/93206f73-18b3-4f17-bae5-5a2b7759a390_40845_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "185.6 g",
+        "parentProductId": "5FJKZJC5NF"
+      }
+    },
+    {
+      "id": "LLE7JJXCC5",
+      "name": "Ferrero Rocher Gift",
+      "brand": "Ferrero Rocher",
+      "category": "Chocolate & sweets",
+      "price_paise": 16900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/9f6a333f-7cc3-4b49-86a4-685137ecdf21_1981_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "50 g",
+        "parentProductId": "9Q9K1GS2ZZ"
+      }
+    },
+    {
+      "id": "NNY5I3L73N",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 57300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g x 3",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "UBX37KL9ST",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 38200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g x 2",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "Y32C0W4WMI",
+      "name": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 19300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/81de4610-10b9-430b-b8d3-965206fdcb71_20273_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "179.66 g",
+        "parentProductId": "GO929E54U7"
+      }
+    },
+    {
+      "id": "1BJTWDIU3O",
+      "name": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 9500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/6c260d1f-f3a0-412a-85af-fa0aa25ba79a_549734_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "70 g",
+        "parentProductId": "CLUCZ05Y5Q"
+      }
+    },
+    {
+      "id": "07NCQQ789Z",
+      "name": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 19000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/9/93420e3c-e7b4-4830-9e6b-938fecf40aa7_549734_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "70 g x 2",
+        "parentProductId": "CLUCZ05Y5Q"
+      }
+    },
+    {
+      "id": "MNQUDV6QG4",
+      "name": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 16500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/b4a623f5d88d5f68df76dc7e20b56652",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "33.6 g x 3",
+        "parentProductId": "NL3IOXHI46"
+      }
+    },
+    {
+      "id": "L6R6YV82V7",
+      "name": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 5500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/406cd57b-9995-4964-8009-ca629f895319_L6R6YV82V7_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "33.6 g",
+        "parentProductId": "NL3IOXHI46"
+      }
+    },
+    {
+      "id": "38HLUYN6O8",
+      "name": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 10900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/b4a623f5d88d5f68df76dc7e20b56652",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "33.6 g x 2",
+        "parentProductId": "NL3IOXHI46"
+      }
+    },
+    {
+      "id": "ENSA39QOUK",
+      "name": "Cadbury Nutties Chocolate",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 4500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/cd895f37-400f-4c83-a1b6-1e3f40a6c081_ENSA39QOUK_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "30 g",
+        "parentProductId": "JQIMWR5MUM"
+      }
+    },
+    {
+      "id": "OHLP05T2UZ",
+      "name": "Ferrero Rocher Gift Pack (24 Pieces)",
+      "brand": "Ferrero Rocher",
+      "category": "Chocolate & sweets",
+      "price_paise": 167000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/6/8597a8b8-c15e-4e92-a11c-ae3c16ff8905_878_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "300 g x 2",
+        "parentProductId": "HTPQ476J5O"
+      }
+    },
+    {
+      "id": "XJNGY8Z3KN",
+      "name": "Ferrero Rocher Gift Pack (24 Pieces)",
+      "brand": "Ferrero Rocher",
+      "category": "Chocolate & sweets",
+      "price_paise": 83500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/17/203b4186-83c3-4d5e-9856-9446e68d0f50_878_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "300 g",
+        "parentProductId": "HTPQ476J5O"
+      }
+    },
+    {
+      "id": "QA56PSU6WO",
+      "name": "Ferrero Rocher Gift Pack (8 Pieces)",
+      "brand": "Ferrero Rocher",
+      "category": "Chocolate & sweets",
+      "price_paise": 29100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/17/cbc8bed4-2e34-4fb2-a6e3-10369dbe77f4_40843_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "100 g",
+        "parentProductId": "FFP79Y4VL1"
+      }
+    },
+    {
+      "id": "4GLQFUUJW1",
+      "name": "Fabelle Ganache Creamy Milk, Luxury Chocolates Gift Box",
+      "brand": "Fabelle",
+      "category": "Chocolate & sweets",
+      "price_paise": 107500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/21/76a1247a-ce80-4324-9dd9-7098c5a94c6d_572245_1_MN_7a572444-aebf-42cb-b126-d76401edc18a.jpg",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "124 g",
+        "parentProductId": "Z1FPSJH037"
+      }
+    },
+    {
+      "id": "VQTN6M3ZQU",
+      "name": "Cadbury Dairy Milk Silk Chocolate Bar",
+      "brand": "Cadbury",
+      "category": "Chocolate & sweets",
+      "price_paise": 9600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/16/78ab031d-db5a-4f77-b501-145e63b93146_85416_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "60 g",
+        "parentProductId": "Y1JN1GT8WQ"
+      }
+    },
+    {
+      "id": "ZZS0VU95U9",
+      "name": "Hershey's Kisses Choco Truffle",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 8400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/88cff2ca-dc1d-4574-8991-ea016a462a4f_ZZS0VU95U9_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "45 g",
+        "parentProductId": "EXLY5WZSAW"
+      }
+    },
+    {
+      "id": "Q0B1TM0EC5",
+      "name": "Hershey's Kisses Choco Truffle",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 25200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/23/f380a82f-9931-4dae-97c6-f9bbb397c7e6_371435_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "45 g x 3",
+        "parentProductId": "EXLY5WZSAW"
+      }
+    },
+    {
+      "id": "RHL8D039NV",
+      "name": "Elvan Truffle Assortment Mini Bag 1",
+      "brand": "Elvan",
+      "category": "Chocolate & sweets",
+      "price_paise": 34900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/17/ea967adf-5d65-469f-974b-0c583545c455_Creative2_AL2_f3913f81-d56c-41f1-92a2-1de8df5d2bff.jpg",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "140 g",
+        "parentProductId": "YVU7Z2R7ZG"
+      }
+    },
+    {
+      "id": "GWPYZ4NQZI",
+      "name": "Fabelle Dessert Collection- 5 Handcrafted Dessert Inspired Chocolate Truffles",
+      "brand": "Fabelle",
+      "category": "Chocolate & sweets",
+      "price_paise": 72200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/28/998d9f6a-0818-49aa-9268-f2614d58b7ec_732485_1_MN_74b0f44e-ee82-4d29-96c2-397ddf6580d3.jpg",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "66 g",
+        "parentProductId": "H4CR1MI50Z"
+      }
+    },
+    {
+      "id": "ES3WPPN2G7",
+      "name": "Hershey's Kisses Strawberry Creme - Flavored Center Filled Chocolate",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 8100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/11/26/c1300710-1d1e-4d3e-9377-8f47c5944a78_NPI-064462_1_20251126_092914.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "40.5 g",
+        "parentProductId": "X3TYLNT6OJ"
+      }
+    },
+    {
+      "id": "3ZDTD3DRA2",
+      "name": "OPEN SECRET Assorted Cookies Celebration Gift Zero Maida Healthy Snacks",
+      "brand": "OPEN SECRET",
+      "category": "Chocolate & sweets",
+      "price_paise": 28700,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/16/e02ccb5f-04d2-488d-a1e6-3d4ae212bcfe_1_MN_a7ab2fc4-bc27-4e74-8b2a-c7761cda4062.jpg",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "150 g",
+        "parentProductId": "VMX1OQLKAT"
+      }
+    },
+    {
+      "id": "XRM4C7LR85",
+      "name": "Cadbury Studio Brownie Aux Noix Signature Pralines Chocolate Gift",
+      "brand": "Cadbury Studio",
+      "category": "Chocolate & sweets",
+      "price_paise": 62300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/6/18/1f461f03-bb83-4cd0-93c9-7a4f04bfdf76_54761_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "130 g x 2",
+        "parentProductId": "HNTDUP3HKG"
+      }
+    },
+    {
+      "id": "61FG8T5USQ",
+      "name": "Cadbury Studio Brownie Aux Noix Signature Pralines Chocolate Gift",
+      "brand": "Cadbury Studio",
+      "category": "Chocolate & sweets",
+      "price_paise": 33400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/11/39b4e90e-3fa7-4a14-898b-7f809eaeb9af_54761.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "130 g",
+        "parentProductId": "HNTDUP3HKG"
+      }
+    },
+    {
+      "id": "F5ONQRT9NN",
+      "name": "Open Secret Chocolates, Brownie , Cookies, Flavored Nuts, Gift Hamper | 5 Delightful Healthy Snacks",
+      "brand": "OPEN SECRET",
+      "category": "Chocolate & sweets",
+      "price_paise": 29400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/23/70f962d1-47f5-4d63-b854-4c68363df613_91455_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "121 g",
+        "parentProductId": "WK2XGGVEDE"
+      }
+    },
+    {
+      "id": "MUJ2N844JH",
+      "name": "Hershey's Kisses Milk Chocolate",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 28700,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/28/80d0a98b-5a9c-4680-9c58-da8a9b79adba_4BAQOVB9H6.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "108 g x 2",
+        "parentProductId": "IVIQ0I0KLD"
+      }
+    },
+    {
+      "id": "4BAQOVB9H6",
+      "name": "Hershey's Kisses Milk Chocolate",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 14500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/3ad1caae-f4f8-4088-8aa5-de6317484c34_4BAQOVB9H6_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "108 g",
+        "parentProductId": "IVIQ0I0KLD"
+      }
+    },
+    {
+      "id": "JV7PYVFZ2K",
+      "name": "Sunfeast Fantastik! Choco Delights Assorted Chocolate Gift Pack",
+      "brand": "Sunfeast",
+      "category": "Chocolate & sweets",
+      "price_paise": 29900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/d15a77ee-c980-405f-9249-b055829d2c5d_JV7PYVFZ2K_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "136 g",
+        "parentProductId": "H5BLCRHV3X"
+      }
+    },
+    {
+      "id": "AB4LRM9NH8",
+      "name": "Geisha Chocolates",
+      "brand": "Geisha",
+      "category": "Chocolate & sweets",
+      "price_paise": 89900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/25cac9f3-1354-44a6-a18d-5b7ed36b5961_AB4LRM9NH8_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "160 g",
+        "parentProductId": "TZXINK3YZ0"
+      }
+    },
+    {
+      "id": "UPEVIBNZYB",
+      "name": "Snickers Best of Minis Assorted Chocolate",
+      "brand": "Snickers",
+      "category": "Chocolate & sweets",
+      "price_paise": 47900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/24/84b0db5b-d36a-4a81-b121-f215f1afc384_250031_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "195.5 g",
+        "parentProductId": "PFY8W252F4"
+      }
+    },
+    {
+      "id": "BLQMTUCPRN",
+      "name": "Snickers Best of Minis Assorted Chocolate",
+      "brand": "Snickers",
+      "category": "Chocolate & sweets",
+      "price_paise": 143700,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/28/fd0d3808-9939-41ec-ae91-38d98fe3f3ac_250031_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "195.5 g x 3",
+        "parentProductId": "PFY8W252F4"
+      }
+    },
+    {
+      "id": "YXWOUJ67DC",
+      "name": "Snickers Best of Minis Assorted Chocolate",
+      "brand": "Snickers",
+      "category": "Chocolate & sweets",
+      "price_paise": 191600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/28/fd0d3808-9939-41ec-ae91-38d98fe3f3ac_250031_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "195.5 g x 4",
+        "parentProductId": "PFY8W252F4"
+      }
+    },
+    {
+      "id": "UHTZ1SQH69",
+      "name": "Snickers Best of Minis Assorted Chocolate",
+      "brand": "Snickers",
+      "category": "Chocolate & sweets",
+      "price_paise": 95800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/28/fd0d3808-9939-41ec-ae91-38d98fe3f3ac_250031_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "195.5 g x 2",
+        "parentProductId": "PFY8W252F4"
+      }
+    },
+    {
+      "id": "028Q1OR5HI",
+      "name": "Cadbury Studio Signature Pralines, Gianduja Hazelnut, 52 g",
+      "brand": "Cadbury Studio",
+      "category": "Chocolate & sweets",
+      "price_paise": 26600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/5/30/cc35db4e-f986-4085-9ee7-6b62acbad114_84360_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "52 g x 2",
+        "parentProductId": "X3ZNL8N89D"
+      }
+    },
+    {
+      "id": "T5XUWHJXT2",
+      "name": "Cadbury Studio Signature Pralines, Gianduja Hazelnut, 52 g",
+      "brand": "Cadbury Studio",
+      "category": "Chocolate & sweets",
+      "price_paise": 14200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/11/0caa30a6-51d4-4da9-8593-0ce2c2c12413_84360.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "52 g",
+        "parentProductId": "X3ZNL8N89D"
+      }
+    },
+    {
+      "id": "1U857NXJI9",
+      "name": "Cadbury Studio Signature Pralines, Gianduja Hazelnut, 52 g",
+      "brand": "Cadbury Studio",
+      "category": "Chocolate & sweets",
+      "price_paise": 39900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/5/30/cc35db4e-f986-4085-9ee7-6b62acbad114_84360_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "52 g x 3",
+        "parentProductId": "X3ZNL8N89D"
+      }
+    },
+    {
+      "id": "8C6OY0JBNA",
+      "name": "Fabelle Loaded Secret - Dark Chocolate Bar with visible Almonds",
+      "brand": "Fabelle",
+      "category": "Chocolate & sweets",
+      "price_paise": 49700,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/f7c26c4a-5dd0-48fd-bced-2856abcb0545_181237_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "115 g",
+        "parentProductId": "M7QC0XTPOZ"
+      }
+    },
+    {
+      "id": "K0TO38GVVE",
+      "name": "Hershey's Kisses Almond Chocolate",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 5500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/e17903a6-5c11-4e6c-a54d-81a2af71405e_K0TO38GVVE_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "33.6 g",
+        "parentProductId": "6PF2UBOXXI"
+      }
+    },
+    {
+      "id": "1VQRY36ONR",
+      "name": "Hershey's Kisses Almond Chocolate",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 16500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/13/f1ca18da-0ecb-450f-9397-6f6f92556af4_2771_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "33.6 g x 3",
+        "parentProductId": "6PF2UBOXXI"
+      }
+    },
+    {
+      "id": "KXKUXS30GY",
+      "name": "Hershey's Kisses Almond Chocolate",
+      "brand": "Hershey's",
+      "category": "Chocolate & sweets",
+      "price_paise": 10900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/13/f1ca18da-0ecb-450f-9397-6f6f92556af4_2771_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "33.6 g x 2",
+        "parentProductId": "6PF2UBOXXI"
+      }
+    }
+  ]
+}

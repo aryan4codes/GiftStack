@@ -1,0 +1,1271 @@
+{
+  "success": true,
+  "data": {
+    "restaurant": {
+      "id": "52967",
+      "name": "Oven Story Pizza",
+      "city": "Mumbai",
+      "areaName": "Borivali West",
+      "cuisines": [
+        "Pizzas",
+        "Pastas"
+      ],
+      "avgRating": 4,
+      "avgRatingString": "4.0",
+      "totalRatingsString": "5.3K+ ratings",
+      "costForTwoMessage": "₹400 for two",
+      "isOpen": true,
+      "deliveryTime": 17,
+      "slaString": "15-20 MINS",
+      "address": "Thomas compound near cytheria gym opp snt. Thomas church I C colony no 2 borovali west"
+    },
+    "categories": [
+      {
+        "title": "Minimum 50% off",
+        "categoryId": "-1",
+        "items": [
+          {
+            "id": "187968538",
+            "name": "3 Medium Veg pizza",
+            "description": "How many pizzas are too many Not three, certainly! We got you this mouth-watering combo of 3 medium ...",
+            "price": 1399,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/a2de394c-e0e1-40f8-a83d-cfcd9e0a2fd1_9c6be237-9ca4-42af-83d0-e3f1040a459a.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "187968539",
+            "name": "3 Medium Non-Veg pizza",
+            "description": "Tell the world you are partying without telling them you are partying with this lip-smacking combo o...",
+            "price": 1399,
+            "inStock": 1,
+            "isVeg": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/1c52e3a5-4c1a-4f26-860f-05c71ec4d5f8_88e970b0-f422-49bf-8074-4b5e8aea140d.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "166013258",
+            "name": "3 Veg or Non-Veg Medium Pizza",
+            "description": "This out-of-this-world combo of 3 non-veg pizzas is all you need when you are in the mood to party w...",
+            "price": 1399,
+            "inStock": 1,
+            "isVeg": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/032c3f9b-1cd3-4321-aa47-4a7dd52ccab1_f7b5db14-d6bc-4964-91e4-c7e03dcf965c.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          }
+        ],
+        "totalItems": 3,
+        "hasMoreItems": false
+      },
+      {
+        "title": "Items starting at 89",
+        "categoryId": "123456",
+        "items": [
+          {
+            "id": "187968573",
+            "name": "Cheesy Garlic Bread..",
+            "description": "New Neapolitan-style garlic bread - perfectly baked, airy, and seasoned at the edges, embraced by a ...",
+            "price": 139,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "3.9",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/3/ed893e90-970a-4928-a3ad-65bcffd8f698_82a412b7-e343-42c9-b83a-e785f36ea58f.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "169554965",
+            "name": "Choco Lava Cake + Lemon Soda",
+            "description": "Molten Choco lava cake and refreshing lemon soda - a stunning combo! (Energy: 456KCal, Carbohydrates...",
+            "price": 179,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/b9c1c4fe-2659-4297-acf8-f85272841e88_476b7b9a-8403-4ca0-8faa-d7c28475ba08.jpeg",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "172578546",
+            "name": "Korean Cheesy Garlic Bread",
+            "description": "New Neapolitan-style garlic bread perfectly baked, airy, and seasoned at the edges, filled with hot ...",
+            "price": 149,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "3.3",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/3/ab4bfe7d-3b32-4c66-957e-ddd656ce6441_4fadb140-25e3-42ad-8883-04e45cf298a8.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "157029164",
+            "name": "1+1 Veg Cheesy Pizza Mania",
+            "description": "Get your taste buds ready to savour this cheesy pizza mania duo of veg pizzas.",
+            "price": 299,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "3.7",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/746ea501-cfac-455d-b9e2-e2bdb59212de_11feacd0-4a12-45ae-807b-3a7499829d2e.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "157029165",
+            "name": "1+1 Non-Veg Cheesy Pizza Mania",
+            "description": "Calling out all our non-veg pizza fanatics. Set your tables with 2 non-veg pizza mania for double tr...",
+            "price": 299,
+            "inStock": 1,
+            "isVeg": false,
+            "isBestseller": true,
+            "rating": "4.5",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/1934a865-9467-49af-9c31-7da2bcf42659_06e64e96-ef92-4857-898f-698484ffbefe.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "157029166",
+            "name": "1 Veg & 1 Non-Veg Cheesy Pizza",
+            "description": "Get the best of both worlds and dont share. 1 veg and 1 non-veg cheesy personal pizza mania only for...",
+            "price": 299,
+            "inStock": 1,
+            "isVeg": false,
+            "rating": "5.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/16/6e36545d-307a-4ca4-9277-229376f77574_ef653d08-3721-47f4-82ac-cdad72af79fc.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "184221314",
+            "name": "Garden Fresh Veggie Thin Crust Pizza",
+            "description": "\"Crisp capsicum, juicy tomatoes, onions, and more stacked on a thin, crunchy crust.\nIts a clean, cla...",
+            "price": 399,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/cce10adb-47bb-428b-92eb-976542767511_059a8112-e47f-4a74-95d8-40324cb4d8bf.jpeg",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "184221312",
+            "name": "Margherita Thin Crust Pizza",
+            "description": "A crunchy thin crust, that rich tomato zing, and a mozzarella melt that makes your soul sigh. Its th...",
+            "price": 299,
+            "inStock": 1,
+            "isVeg": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/5aed64d1-b75d-4322-ad68-86a75961eb9c_b937570a-c492-47af-bd82-37a1589c820b.jpeg",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "191543224",
+            "name": "Veg Overloaded Pizza.",
+            "description": "Indulge in the loaded delight with Mushroom, Jalapeno, Olives, Onion, Capsicum, Corn, Tomato & Chees...",
+            "price": 529,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "3.7",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/3/5d2e6864-b832-48f9-8031-362ee4a72bae_c9994a4b-b9cd-461d-973e-158e07656fe8.jpeg",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "188340993",
+            "name": "Double Chicken Feast Thin Crust Pizza",
+            "description": "Chicken tikka meets juicy meatballs on a crisp thin crust. Big on flavour, big on bite this double c...",
+            "price": 529,
+            "inStock": 1,
+            "isVeg": false,
+            "rating": "4.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/4/dd4ac5bf-64b4-4067-88e2-e699a64bc0c8_624d4e97-5aa3-4a00-8369-537b7a4bd2c7.jpeg",
+            "hasVariants": false,
+            "hasAddons": false
+          }
+        ],
+        "totalItems": 19,
+        "hasMoreItems": true
+      },
+      {
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "96649159",
+            "name": "Margherita Pizza",
+            "description": "A classic treat for all the pizza lovers out there! Served on our new Neapolitan crust perfectly bak...",
+            "price": 149,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "3.7",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/85ccff8c-bfec-4161-8550-85f81d8d8676_411b13c2-7b4c-4806-b5bf-654cf37affd7.jpeg",
+            "hasVariants": true,
+            "hasAddons": true
+          },
+          {
+            "id": "96649170",
+            "name": "Tandoori Paneer Tikka Pizza",
+            "description": "Take your taste buds on a flavourful adventure with paneer tikka chunks onions tomatoes and cheese J...",
+            "price": 269,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "4.1",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/d2e8545d-a348-4c7c-b8d9-09ed557c2d96_0c8da475-c206-412a-b8e4-247b8ab9a1f9.jpeg",
+            "hasVariants": true,
+            "hasAddons": true
+          },
+          {
+            "id": "157029164",
+            "name": "1+1 Veg Cheesy Pizza Mania",
+            "description": "Get your taste buds ready to savour this cheesy pizza mania duo of veg pizzas.",
+            "price": 299,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "3.7",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/746ea501-cfac-455d-b9e2-e2bdb59212de_11feacd0-4a12-45ae-807b-3a7499829d2e.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "157029165",
+            "name": "1+1 Non-Veg Cheesy Pizza Mania",
+            "description": "Calling out all our non-veg pizza fanatics. Set your tables with 2 non-veg pizza mania for double tr...",
+            "price": 299,
+            "inStock": 1,
+            "isVeg": false,
+            "isBestseller": true,
+            "rating": "4.5",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/1934a865-9467-49af-9c31-7da2bcf42659_06e64e96-ef92-4857-898f-698484ffbefe.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "101356492",
+            "name": "Chicken Maximus Pizza",
+            "description": "Max out on chicken with bbq chicken chicken meatballs sausage chicken kheema and cheese Served on ou...",
+            "price": 349,
+            "inStock": 1,
+            "isVeg": false,
+            "rating": "3.8",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/0ebaf20e-376b-46b2-9b67-a4842a3816bb_c26ee72b-1c74-4b3c-952e-94fc2d537845.jpeg",
+            "hasVariants": true,
+            "hasAddons": true
+          },
+          {
+            "id": "157029166",
+            "name": "1 Veg & 1 Non-Veg Cheesy Pizza",
+            "description": "Get the best of both worlds and dont share. 1 veg and 1 non-veg cheesy personal pizza mania only for...",
+            "price": 299,
+            "inStock": 1,
+            "isVeg": false,
+            "rating": "5.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/16/6e36545d-307a-4ca4-9277-229376f77574_ef653d08-3721-47f4-82ac-cdad72af79fc.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "96649169",
+            "name": "Garden Fresh Veggie Pizza",
+            "description": "Hearts going garden garden on this one! Pizza topped with Onions Corn Tomato Capsicum and cheese Ser...",
+            "price": 239,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "3.9",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/1/31/47791e58-9e81-48b0-bfb8-85912b69a2b5_233ddd1a-a291-402f-b7c4-084bec4b9c9e.png",
+            "hasVariants": true,
+            "hasAddons": true
+          },
+          {
+            "id": "172005564",
+            "name": "Veg Overloaded Pizza",
+            "description": "Indulge in the loaded delight with mushroom jalapeno olives onion capsicum corn tomato and cheese A ...",
+            "price": 279,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "3.7",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/230ad6f0-bfea-456f-8241-d4f26cc2b500_08bdcc90-b209-41c0-9a9c-42c12ba7c548.jpeg",
+            "hasVariants": true,
+            "hasAddons": true
+          },
+          {
+            "id": "187968538",
+            "name": "3 Medium Veg pizza",
+            "description": "How many pizzas are too many Not three, certainly! We got you this mouth-watering combo of 3 medium ...",
+            "price": 1399,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "4.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/a2de394c-e0e1-40f8-a83d-cfcd9e0a2fd1_9c6be237-9ca4-42af-83d0-e3f1040a459a.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "96649210",
+            "name": "Bbq Chicken Pizza",
+            "description": "Indulge in this stunner topped with BBQed chicken onion capsicum and cheese! Served on our new Neapo...",
+            "price": 269,
+            "inStock": 1,
+            "isVeg": false,
+            "isBestseller": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/ab0f3f5d-0356-4cc5-910e-c75f1780f22f_9875cb8b-56a2-409a-a93a-7bf60675be4f.jpeg",
+            "hasVariants": true,
+            "hasAddons": true
+          }
+        ],
+        "totalItems": 20,
+        "hasMoreItems": true
+      },
+      {
+        "title": "Super Saver Deals",
+        "categoryId": "62626030",
+        "items": [
+          {
+            "id": "166013254",
+            "name": "2 Medium Veg Pizza",
+            "description": "2 Medium Veg Pizza",
+            "price": 999,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "2.9",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/1c6c1c8c-99db-4baf-93a5-494e70ea8c95_2cca87a1-3a69-4bdc-9c00-dfa128aa4f21.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "166013256",
+            "name": "2 Medium Non Veg Pizza",
+            "description": "2 Medium Non-Veg Pizza",
+            "price": 999,
+            "inStock": 1,
+            "isVeg": false,
+            "rating": "3.7",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/761ecbac-d9d4-4325-86ad-400427fbaa7c_3cc9f0ba-24d8-4ec2-826e-f0dde3fd6626.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "166013255",
+            "name": "1 Medium Veg & 1 Non Veg Pizza",
+            "description": "We got you the best of both worlds in this one combo. 1 loaded veg pizza for the veggie lovers and a...",
+            "price": 999,
+            "inStock": 1,
+            "isVeg": false,
+            "rating": "2.9",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/876001ab-dda0-4322-b58e-2f30f1dd75aa_cc0e2937-ec28-4dd2-8d1f-10d17427f12a.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "187968538",
+            "name": "3 Medium Veg pizza",
+            "description": "How many pizzas are too many Not three, certainly! We got you this mouth-watering combo of 3 medium ...",
+            "price": 1399,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "4.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/a2de394c-e0e1-40f8-a83d-cfcd9e0a2fd1_9c6be237-9ca4-42af-83d0-e3f1040a459a.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "187968539",
+            "name": "3 Medium Non-Veg pizza",
+            "description": "Tell the world you are partying without telling them you are partying with this lip-smacking combo o...",
+            "price": 1399,
+            "inStock": 1,
+            "isVeg": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/1c52e3a5-4c1a-4f26-860f-05c71ec4d5f8_88e970b0-f422-49bf-8074-4b5e8aea140d.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "166013258",
+            "name": "3 Veg or Non-Veg Medium Pizza",
+            "description": "This out-of-this-world combo of 3 non-veg pizzas is all you need when you are in the mood to party w...",
+            "price": 1399,
+            "inStock": 1,
+            "isVeg": false,
+            "rating": "5.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/032c3f9b-1cd3-4321-aa47-4a7dd52ccab1_f7b5db14-d6bc-4964-91e4-c7e03dcf965c.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "169554965",
+            "name": "Choco Lava Cake + Lemon Soda",
+            "description": "Molten Choco lava cake and refreshing lemon soda - a stunning combo! (Energy: 456KCal, Carbohydrates...",
+            "price": 179,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/b9c1c4fe-2659-4297-acf8-f85272841e88_476b7b9a-8403-4ca0-8faa-d7c28475ba08.jpeg",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "176557390",
+            "name": "Lasagne+Starter (Veg)",
+            "description": "A Veggie lover's dream come true with layers of cheese stacked together, sided with a delectable sta...",
+            "price": 369,
+            "inStock": 1,
+            "isVeg": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/4/30/e21e276a-045a-4500-8548-3dcadd57d0d9_8285e0a3-420e-49c4-bcef-15a4d8ed1f06.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "176557391",
+            "name": "Pasta+Starter (Veg)",
+            "description": "Tender and creamy Veg Fusion Pastas complemented together with flavourful starters, leaving your tas...",
+            "price": 399,
+            "inStock": 1,
+            "isVeg": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/4/23/632c8dd8-b68b-4a87-b530-94831f98f88e_747dc7cf-664b-459d-b18b-35490821e955.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "176557392",
+            "name": "Lasagne+Starter (Non-Veg)",
+            "description": "Layers of cheesy bliss perfectly paired with a delicious starter to kickstart your meal time adventu...",
+            "price": 429,
+            "inStock": 1,
+            "isVeg": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/4/23/0af5ba88-5fb2-4bd7-89c4-3eb7a4b9b1f9_bbcd29f5-9e6a-4ca0-abf9-1ed7ecd6b500.jpeg",
+            "hasVariants": false,
+            "hasAddons": true
+          }
+        ],
+        "totalItems": 19,
+        "hasMoreItems": true
+      },
+      {
+        "title": "Cheesy Pizza Mania",
+        "categoryId": "69282244",
+        "subcategories": [
+          {
+            "title": "Cheesy Pizza mania Combos",
+            "categoryId": "69282247",
+            "items": [
+              {
+                "id": "137636706",
+                "name": "Pack Of 4 Veg Cheesy Pizza Mania.",
+                "description": "Call in your gang and let the pizza party begin with this pack of 4 cheesy veg pizza mania. (Energy:...",
+                "price": 499,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/1/13/681b95f2-018d-4dfc-8ca2-863f439d318a_be2c17b9-ba70-458b-904c-a1c1ded8e266.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "191543228",
+                "name": "Pack Of 4 Non-Veg Cheesy Pizza Mania.",
+                "description": "The perfect pack of 4 cheesy non-veg pizza mania for the chicken lovers - topped with chicken tikka,...",
+                "price": 499,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/f113539a-c3b8-43da-9775-0163a81b7dcd_69bb9165-b902-4138-b47e-1ef057e68827.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "157029164",
+                "name": "1+1 Veg Cheesy Pizza Mania",
+                "description": "Get your taste buds ready to savour this cheesy pizza mania duo of veg pizzas.",
+                "price": 299,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "3.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/746ea501-cfac-455d-b9e2-e2bdb59212de_11feacd0-4a12-45ae-807b-3a7499829d2e.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "157029165",
+                "name": "1+1 Non-Veg Cheesy Pizza Mania",
+                "description": "Calling out all our non-veg pizza fanatics. Set your tables with 2 non-veg pizza mania for double tr...",
+                "price": 299,
+                "inStock": 1,
+                "isVeg": false,
+                "isBestseller": true,
+                "rating": "4.5",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/16/1934a865-9467-49af-9c31-7da2bcf42659_06e64e96-ef92-4857-898f-698484ffbefe.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "157029166",
+                "name": "1 Veg & 1 Non-Veg Cheesy Pizza",
+                "description": "Get the best of both worlds and dont share. 1 veg and 1 non-veg cheesy personal pizza mania only for...",
+                "price": 299,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/16/6e36545d-307a-4ca4-9277-229376f77574_ef653d08-3721-47f4-82ac-cdad72af79fc.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 5,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Veg Pizza Mania",
+            "categoryId": "69282248",
+            "items": [
+              {
+                "id": "187968568",
+                "name": "Onion Pizza Mania",
+                "description": "Pizza cravings hitting hard Get this crunchy onions and cheese pizza mania. Served on our new Neapol...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/27/932096af-3f37-475d-81a9-d16c2593965d_7b759710-7da3-476c-bde7-3fe05d125187.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "187968566",
+                "name": "Corn Pizza Mania",
+                "description": "Pizza mania but make it classic. Juicy golden corns and melted cheese is all that you need. Served o...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/27/347481c0-a128-41e2-b939-01222e6307d7_bf955123-6477-44ba-817a-5e2a435f8782.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "187968567",
+                "name": "Capsicum Pizza Mania",
+                "description": "Crunchy capsicum on a cheesy canvas. Served on our new Neapolitan crust, perfectly baked airy and se...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/27/c029883c-6bb4-42bc-9e56-6c225467e0a0_093cf288-3a90-4a83-900e-b5c2adf635b9.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "172005567",
+                "name": "Tomato Pizza Mania",
+                "description": "Try this tangy yet wholesome pizza mania! Your pizza topped with thinly cut fresh tomato, melted che...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/27/455432a9-feac-49a1-a840-71f3ce74856a_e2077e8c-8da5-4335-8d6c-28a19affd19d.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "187968569",
+                "name": "Corn & Capsicum Pizza Mania",
+                "description": "Just the pizza mania you asked for golden corns, cheese and crunchy capsicum sprinkled generously. S...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/27/6be64135-0f89-4857-ae2e-a040324bb567_5b543bff-183b-41f9-bbbb-d3bbd2728689.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "187968570",
+                "name": "Paneer Tikka & Onion Pizza Mania",
+                "description": "Flavour-packed paneer tikka chunks with onions and Cheese for the perfect crunchy pizza mania Served...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.3",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/27/8784f064-c3a7-43bd-8ceb-67565f3e0d58_4e949363-c01a-4ebd-8b5f-4a2e8e1e8a9a.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 6,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Non-Veg Pizza Mania",
+            "categoryId": "71704051",
+            "items": [
+              {
+                "id": "187968572",
+                "name": "Chicken Tikka & Onion Pizza Mania",
+                "description": "Here is a pizza mania you cant say no to Flavourful chicken tikka chunks complemented with crispy on...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/27/9f11dbc9-a55e-470b-ac37-7503c2d4e56f_3cd0601d-75db-4771-8f65-30a04e988519.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "193213317",
+                "name": "Chicken Sausage & Capsicum Pizza Mania",
+                "description": " (Energy: 549KCal, Carbohydrates: 65gm, Proteins: 13gm, Fats: 24gm, Sodium: 930mg)",
+                "price": 159,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/1/31/d55036b9-396b-45e0-a16e-bafaea38cd8d_454338ac-78b3-42f6-a4d2-b181e9a4ab2d.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 2,
+            "hasMoreItems": false
+          }
+        ],
+        "totalSubcategories": 3
+      },
+      {
+        "title": "India's Magic Makhani Pizza",
+        "categoryId": "72350209",
+        "subcategories": [
+          {
+            "title": "Makhani Pizza",
+            "categoryId": "72350210",
+            "items": [
+              {
+                "id": "194991281",
+                "name": "Makhani Paneer Tikka Pizza",
+                "description": "A generous spread of rich, buttery makhani sauce topped with soft paneer tikka, onions, capsicum and...",
+                "price": 299,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/20/73cd815f-a7d5-41eb-9a5e-98b902a12c58_9feb6360-538d-42b4-983d-e446b6f72321.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "115872290",
+                "name": "Makhani Chicken Tikka Pizza",
+                "description": "Thick, flavourful makhani sauce layered with juicy chicken tikka and a generous topping of cheese. B...",
+                "price": 309,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/20/096686db-0d60-4ace-97b8-c58ac4c21148_7cbb16fd-e4dd-4277-a2a0-64eb6a1f21e9.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "194991289",
+                "name": "Makhani Veggie Farmhouse Pizza",
+                "description": "Rich makhani sauce spread evenly and topped with mushrooms, capsicum, onions, tomatoes, sweet corn a...",
+                "price": 269,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/20/98a66a4f-1061-4831-88bb-c10b0efa5266_adf2df7a-48c9-4de9-8646-272280f9607c.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "194991291",
+                "name": "Makhani Garden Fresh Veggie Pizza",
+                "description": "Smooth, well-seasoned makhani sauce layered with onions, tomatoes, capsicum and cheese. Simple toppi...",
+                "price": 269,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/20/ed85b349-03f8-4403-812a-6fef77a14dd6_d5fc4992-7b0e-4dc2-bc30-ed241bc476d6.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "194991293",
+                "name": "Makhani Margherita Pizza",
+                "description": "A thick layer of authentic makhani sauce finished with plenty of melted cheese. Buttery, balanced an...",
+                "price": 239,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/20/7deb2b69-7944-4898-9d3d-d59f03661fa5_6f57a257-8148-40cf-b795-88258de1dede.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 5,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Pizza Mania",
+            "categoryId": "72350211",
+            "items": [
+              {
+                "id": "194991297",
+                "name": "Makhani Paneer Tikka Pizza Mania",
+                "description": "Soft Paneer Tikka with creamy makhani sauce and melted cheese in a perfect personal portion. A small...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/20/b595b12c-7427-4ba8-b7b3-ed8cfa5202e9_29cbf826-240c-456e-bbae-d94f9a668150.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "194991299",
+                "name": "Makhani Chicken Tikka Pizza Mania",
+                "description": "Juicy Chicken Tikka layered on rich makhani sauce with gooey cheese. A personal treat thats full of ...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/20/b42f8b7a-7259-46b0-b907-afe9e660187b_219550ad-4bc6-4424-9ee7-ba0fc2bdef48.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 2,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Garlic Bread",
+            "categoryId": "72350212",
+            "items": [
+              {
+                "id": "194991300",
+                "name": "Makhani Cheesy Garlic Bread",
+                "description": "Golden garlic bread topped with rich makhani sauce and plenty of melted cheese. Buttery, comforting ...",
+                "price": 149,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/20/226f49fa-2f03-4ff3-b992-f87dd9c276a1_b11addda-f762-4cb2-b30b-58d6a3e04d48.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "194991301",
+                "name": "Makhani Paneer Tikka Garlic Bread",
+                "description": "Crispy garlic bread loaded with Paneer Tikka, creamy makhani sauce & melted cheese. A flavourful sid...",
+                "price": 189,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/20/35d0a090-afa7-4ac0-93f4-8ff2487143be_23c17adc-87c6-4c37-9b00-4a5f33932838.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "194991302",
+                "name": "Makhani Chicken Tikka Garlic Bread",
+                "description": "Garlic bread topped with juicy Chicken Tikka, rich makhani sauce and bubbling cheese. A bold and sat...",
+                "price": 189,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/20/9a842869-5621-4c95-a009-ef29822843b0_481b022a-7a60-49ec-be98-9557d06c9c63.jpeg",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 3,
+            "hasMoreItems": false
+          }
+        ],
+        "totalSubcategories": 3
+      },
+      {
+        "title": "Thin Crust Pizza",
+        "categoryId": "69431638",
+        "subcategories": [
+          {
+            "title": "Veg Thin Crust Pizza",
+            "categoryId": "69431639",
+            "items": [
+              {
+                "id": "184221312",
+                "name": "Margherita Thin Crust Pizza",
+                "description": "A crunchy thin crust, that rich tomato zing, and a mozzarella melt that makes your soul sigh. Its th...",
+                "price": 299,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/5aed64d1-b75d-4322-ad68-86a75961eb9c_b937570a-c492-47af-bd82-37a1589c820b.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "184221313",
+                "name": "Double Cheese Margherita Thin Crust Pizza",
+                "description": "A double dose of molten mozzarella magic, Absolutely drool-worthy this ones got that golden thin cru...",
+                "price": 399,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/78cb3c1d-dff6-4145-85e4-ac25ee1ae70b_1038781a-292d-4394-bc47-36abbb2fcd84.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "184221314",
+                "name": "Garden Fresh Veggie Thin Crust Pizza",
+                "description": "\"Crisp capsicum, juicy tomatoes, onions, and more stacked on a thin, crunchy crust.\nIts a clean, cla...",
+                "price": 399,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/cce10adb-47bb-428b-92eb-976542767511_059a8112-e47f-4a74-95d8-40324cb4d8bf.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "184221315",
+                "name": "Veggie Farmhouse Thin Crust Pizza",
+                "description": "\"A garden-fresh medley of mushrooms, tomatoes, onions, and capsicum on a crispy thin crust.\nCheesy, ...",
+                "price": 399,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/198a0038-e18a-481c-8ad9-cd33df7bf52c_a37f88ea-ed2b-4a3f-85f8-92f135a5bbb7.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "184221316",
+                "name": "Magic Mushroom Thin Crust Pizza",
+                "description": " (Energy: 1026KCal, Carbohydrates: 121gm, Proteins: 45gm, Fats: 39gm, Sodium: 2695mg)",
+                "price": 449,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/4ce2d90e-2f67-48a2-80cb-d7cc8070a82e_be6895da-304e-407d-a618-8abaf5a644ac.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "184221317",
+                "name": "Paneer Golden Delight Thin Crust Pizza",
+                "description": "Soft paneer, golden corn, and a crisp thin crust that never misses. Mildly spiced, cheesy, and full ...",
+                "price": 449,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/827af253-a55a-4300-8984-2ec759d04804_deabbaff-aa32-4c50-8443-c66701ec9e2c.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "184221318",
+                "name": "Tandoori Paneer Tikka Thin Crust Pizza",
+                "description": "Tender paneer tikka, sweet corn, and onions on a light, crispy thin crust. Finished with melty mozza...",
+                "price": 479,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/787e0083-c6b6-436e-86a8-3645a743dae7_e6ba381f-f83c-4699-a5a6-f0b7831a0a33.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "184221319",
+                "name": "Signature Korean Paneer Thin Crust Pizza",
+                "description": "Soft paneer tossed in Korean-style sauce on a crunchy thin crust. Cheesy, tangy, and packed with uma...",
+                "price": 499,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "2.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/9e9c1822-e180-4ed2-b98c-4d0229a8f7b4_fa54d082-1583-47f0-b70b-b2b43bd3ee55.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "184221320",
+                "name": "Dragonfire Paneer Thin Crust Pizza",
+                "description": "Spicy schezwan meets soft, juicy paneer on a crunchy thin crust. Cheesy, fiery, and full of flair th...",
+                "price": 529,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/fe146a1b-7bb0-424b-a36b-2ff3ef55184a_b162d902-080b-4b84-8e3a-0d6a80199bb9.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "184221321",
+                "name": "Veg Overload Thin Crust Pizza",
+                "description": "Packed with capsicum, onions, and tomatoes all on a crisp thin crust. Cheesy, vibrant, and overloade...",
+                "price": 529,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/6/5/652334bf-b086-4723-9b2d-3ac74c7bbc27_6ffed789-32a2-407e-aad9-782028fc9957.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 10,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Non-Veg Thin Crust Pizza",
+            "categoryId": "69431640",
+            "items": [
+              {
+                "id": "188340987",
+                "name": "Smoked Chicken Sausage Thin Crust Pizza",
+                "description": "\"Loaded with smoky chicken sausage on a crisp thin crust.\nCheesy, hearty, and full of flavour this o...",
+                "price": 429,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/4/669968af-f1bf-4e1d-a405-7b55487652f2_18d9e800-ba50-4ddc-905a-b0660e46407d.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "188340989",
+                "name": "BBQ Chicken Thin Crust Pizza",
+                "description": "Tender BBQ chicken on a crisp thin crust, with melty cheese and a hint of sweet heat in every bite. ...",
+                "price": 479,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/4/77044c6d-14f8-4115-a319-afa9b4748b9a_30841aca-ce9f-4a15-aded-111347f5d6a5.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "188340990",
+                "name": "Tandoori Chicken Tikka Thin Crust Pizza",
+                "description": "Smoky tandoori flavour, cheesy indulgence, and a perfectly crisp base.\nThis ones a bold desi bite wi...",
+                "price": 499,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/4/1565a4c5-3897-4daa-8672-0d1ea6c5268c_fff889d5-2471-4229-8482-2c848a1077f1.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "188340991",
+                "name": "Golden Chicken Delight Thin Crust Pizza",
+                "description": "\"Juicy chicken tikka, sweet golden corn, and a crunchy thin crust that brings it all together.\nIts a...",
+                "price": 499,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/4/62d1a8fd-d3a5-408b-93dc-3fd6e9f64756_b2b7a156-c670-4649-96f5-51d8b276deea.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "188340992",
+                "name": "Roasted Chicken Thin Crust Pizza",
+                "description": "\"Juicy roasted chicken laid over a crisp thin crust, topped with gooey cheese.\nRich, savoury, and sa...",
+                "price": 499,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/4/c738b2b5-e99a-42fe-9efb-ba39ecb4f152_2446080f-83d3-4fe1-9ab1-bfa4bbaf60c8.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "188340993",
+                "name": "Double Chicken Feast Thin Crust Pizza",
+                "description": "Chicken tikka meets juicy meatballs on a crisp thin crust. Big on flavour, big on bite this double c...",
+                "price": 529,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/4/dd4ac5bf-64b4-4067-88e2-e699a64bc0c8_624d4e97-5aa3-4a00-8369-537b7a4bd2c7.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "188340994",
+                "name": "Dragonfire Chicken Thin Crust Pizza",
+                "description": "\"Bold schezwan sauce, juicy chicken, and a crunchy thin crust that means business.\nEvery slice of th...",
+                "price": 549,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/4/17122491-0604-4454-995a-dd94c6fde6e7_561b818c-81c9-400d-98a8-0bf404be18b9.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "188340995",
+                "name": "Signature Korean Chicken Thin Crust Pizza",
+                "description": "Juicy chicken tossed in Korean-style sauce, laid on a crisp thin crust. Cheesy, savoury, and just th...",
+                "price": 549,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/4/4c429462-406f-4480-bc59-b33f2a406432_218f8fa8-3482-4040-b275-ed4a0c4bc830.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "188340996",
+                "name": "Chicken Maximus Thin Crust Pizza",
+                "description": "Big on chicken, bigger on flavour.\nA meaty medley of juicy chicken chunks, marinara and cheesy goodn...",
+                "price": 599,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/4/1bd23a06-4f5e-4464-95a6-25369d03310c_0c41e38b-79c7-4a37-acdb-450d8847a5c7.jpeg",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 9,
+            "hasMoreItems": false
+          }
+        ],
+        "totalSubcategories": 2
+      },
+      {
+        "title": "Classic Italian Pizza",
+        "categoryId": "62626032",
+        "subcategories": [
+          {
+            "title": "Classic Veg Pizza",
+            "categoryId": "62626043",
+            "items": [
+              {
+                "id": "96649159",
+                "name": "Margherita Pizza",
+                "description": "A classic treat for all the pizza lovers out there! Served on our new Neapolitan crust perfectly bak...",
+                "price": 149,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "3.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/85ccff8c-bfec-4161-8550-85f81d8d8676_411b13c2-7b4c-4806-b5bf-654cf37affd7.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "187968557",
+                "name": "Corn and Cheese Pizza",
+                "description": "Corny and Cheesy and that,s what we all like! Golden American corns and melted cheese blended perfec...",
+                "price": 229,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/a7d5e4f2-558f-4e07-8b92-acdf4a6c56c3_7d7344e8-db3f-4ac3-80f0-4db94c15e4ac.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "96649167",
+                "name": "Corn Veggie Delight Pizza",
+                "description": "A veggie lover,s BFF because it,s corny savory and tangy! Corns Onion tomatoes and cheese are here t...",
+                "price": 229,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/67ed130e-8a02-4d7a-93e4-2f9fe9fb9b70_7fde85c4-81ee-45ff-bbf6-6150b263a946.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "187968547",
+                "name": "Tomato and Capsicum Pizza",
+                "description": "Tangy tomatoes crunchy capsicum and cheese simple comforting and delightful! Served on our new Neapo...",
+                "price": 229,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/d25ee39d-af22-4468-a5d1-18c451677c93_141ca029-6d68-490d-adf3-34d82f2dc57e.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "167463521",
+                "name": "Veggie Farmhouse Pizza",
+                "description": "Every veggie lover,s dream this pizza is loaded with mushrooms tomato onion Green Capsicum and chees...",
+                "price": 239,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.4",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/c9d6c53d-e89b-4d19-ab26-28769dce336c_40913cab-4519-4c7f-90a9-51171db486b2.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "96649169",
+                "name": "Garden Fresh Veggie Pizza",
+                "description": "Hearts going garden garden on this one! Pizza topped with Onions Corn Tomato Capsicum and cheese Ser...",
+                "price": 239,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/1/31/47791e58-9e81-48b0-bfb8-85912b69a2b5_233ddd1a-a291-402f-b7c4-084bec4b9c9e.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "187968550",
+                "name": "Dragon fire Margherita Pizza",
+                "description": "A spicy touch to your classic margherita with fiery hot garlic sauce and cheese Served on our new Ne...",
+                "price": 239,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.4",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/c1b22f6d-63bc-4c6c-80f3-4964ced369d4_7dc6a03d-8b8f-40d4-aeff-ec0ff8afdab8.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "187968554",
+                "name": "Mushroom Pizza",
+                "description": "Earthy mushrooms and juicy tomatoes with cheese together make a simple yet classic delight Served on...",
+                "price": 249,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/c0f31915-1de2-4f31-b3a4-ad8bf54e2344_c7ce36ec-328a-4c8d-b06f-a874789de353.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "171777373",
+                "name": "Paneer Golden Delight Pizza",
+                "description": "Golden corns and flavoursome paneer tikka cooked together with a rich pizza sauce and cheese our Gol...",
+                "price": 259,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/94cd5272-6deb-4e2a-80a1-372a8d6ce9a0_fef64424-3426-4a0e-85b8-6b00e4a09c12.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "96649160",
+                "name": "Double Cheese Margherita Pizza",
+                "description": "Overloaded with cheese and that,s a classic deal! Served on our new Neapolitan crust perfectly baked...",
+                "price": 259,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.6",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/2f08b2ca-87d6-4c40-b0ad-c31f9e46fe7d_2b4de4f5-36a1-4ae8-bcbe-49662367de7f.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 11,
+            "hasMoreItems": true
+          },
+          {
+            "title": "Classic Non-Veg Pizza",
+            "categoryId": "62626044",
+            "items": [
+              {
+                "id": "96649206",
+                "name": "Smoked Chicken Sausage Pizza",
+                "description": "Savor the smoky goodness! Chicken Sausage onions capsicum mozzarella with delish pizza sauce Served ...",
+                "price": 239,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.5",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/241437ea-809e-4bc4-8a06-2e9f309abe64_0acad680-8980-4338-a240-db26f1724496.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "186882953",
+                "name": "Grilled BBQ Chicken Pizza",
+                "description": "Turn up the heat with Grilled Chicken BBQ Pizza, featuring tender grilled chicken, rich BBQ sauce, a...",
+                "price": 259,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/15/3d6404ca-9f55-42f4-a5e7-f35bf2edf0ab_7314787a-6e2a-4e16-89ae-711e764c9aca.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "187968558",
+                "name": "Chicken Kheema and Sausage Pizza",
+                "description": "Savory chicken kheema flavorful chicken sausage crisp onion tangy tomato cheese and indulgent pizza ...",
+                "price": 269,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/e824f457-8d54-4256-a4e0-7395563d4b4e_1ffad9b7-8092-4d1f-8700-995bfaa0cd07.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "96649210",
+                "name": "Bbq Chicken Pizza",
+                "description": "Indulge in this stunner topped with BBQed chicken onion capsicum and cheese! Served on our new Neapo...",
+                "price": 269,
+                "inStock": 1,
+                "isVeg": false,
+                "isBestseller": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/ab0f3f5d-0356-4cc5-910e-c75f1780f22f_9875cb8b-56a2-409a-a93a-7bf60675be4f.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "186882951",
+                "name": "BBQ Chicken & Jalapeno Pizza",
+                "description": "Feeling fiery, Smoky BBQ chicken meets spicy jalapenos, rich pizza sauce, and loads of cheese for th...",
+                "price": 269,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/15/13c862e7-0eaf-48ed-8ca6-4abe684d3bbf_ea7646c5-007e-489d-9d3d-d36b06ab77e0.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "96649212",
+                "name": "Chicken Tikka Pizza",
+                "description": "Here,s a pizza mania you can,t say no to Flavourful chicken tikka chunks complimented with crispy on...",
+                "price": 279,
+                "inStock": 1,
+                "isVeg": false,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/4c7ac427-91c5-4e82-b469-590bddf7bf45_e696fe10-834d-4f3f-8980-22fee45c191c.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "171777375",
+                "name": "Golden Chicken Delight Pizza",
+                "description": "A delight for your taste buds because flavourful chicken tikka golden corns and cheese perfectly pai...",
+                "price": 279,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/33129ef5-6f19-4947-861e-96d46e01aaad_3f9e000b-f05e-4666-b04b-39d76aa44be6.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "188746645",
+                "name": "BBQ Chicken & Kheema Pizza",
+                "description": "Chicken grill meets Kheema thrill! Smoky BBQ chicken and juicy chicken kheema with rich pizza sauce ...",
+                "price": 319,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/12/8/97246d1f-43b8-4c4b-b640-cc888a0e3495_94062433-7486-4200-b29c-fe0dbadd2078.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "96649195",
+                "name": "Butter Chicken Pizza",
+                "description": "Dil bole Butter Chicken! Desi vibes to your Italian delicacy with savory butter chicken gravy chicke...",
+                "price": 349,
+                "inStock": 1,
+                "isVeg": false,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/11/25/93cffd01-039b-4f2c-b9e2-e5a7bb026588_56d5e9db-fc86-4420-9bbb-360939ff7ea6.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 9,
+            "hasMoreItems": false
+          }
+        ],
+        "totalSubcategories": 2
+      }
+    ],
+    "totalCategories": 18,
+    "page": 1,
+    "pageSize": 8,
+    "hasMore": true
+  },
+  "message": "Menu for Oven Story Pizza: Showing page 1 (8 of 18 categories). Use page=2 to see more."
+}

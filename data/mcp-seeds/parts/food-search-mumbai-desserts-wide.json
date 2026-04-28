@@ -1,0 +1,189 @@
+{
+  "_meta": {
+    "sourceFile": "food-search-mumbai-desserts-wide.json",
+    "kind": "food_search"
+  },
+  "cached_food_restaurants": [
+    {
+      "id": "782418",
+      "name": "Deliciae by Bunty Mahajan",
+      "cuisine": [
+        "Desserts",
+        "Bakery"
+      ],
+      "area": "Kandivali West",
+      "city": "Mumbai",
+      "rating": 4.7,
+      "delivery_time": "50-60 MINS",
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/RX_THUMBNAIL/IMAGES/VENDOR/2026/4/1/048f831e-a4b2-47af-99df-35a0309ef6de_782418.JPG",
+      "availability_status": "OPEN",
+      "raw_data": {
+        "distanceKm": 5
+      }
+    },
+    {
+      "id": "555018",
+      "name": "Good Flippin' Burgers",
+      "cuisine": [
+        "Burgers",
+        "American",
+        "Fast Food",
+        "Beverages"
+      ],
+      "area": "Borivali West",
+      "city": "Mumbai",
+      "rating": 4.6,
+      "delivery_time": "30-35 MINS",
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/RX_THUMBNAIL/IMAGES/VENDOR/2025/8/8/2c94253d-15a4-4146-83e6-c62fefea0a81_555018.JPG",
+      "availability_status": "OPEN",
+      "raw_data": {
+        "distanceKm": 3
+      }
+    },
+    {
+      "id": "1312078",
+      "name": "abcoffee",
+      "cuisine": [
+        "Beverages",
+        "Cafe",
+        "Bakery"
+      ],
+      "area": "Bohra Colony",
+      "city": "Mumbai",
+      "rating": 4.3,
+      "delivery_time": "40-45 MINS",
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/RX_THUMBNAIL/IMAGES/VENDOR/2026/3/11/ea7e1b6e-03da-4b60-9958-6a85ae2ff12c_1312078.JPG",
+      "availability_status": "OPEN",
+      "raw_data": {
+        "distanceKm": 4.3
+      }
+    },
+    {
+      "id": "47646",
+      "name": "Cheelizza - India ka Pizza",
+      "cuisine": [
+        "Pizzas",
+        "Pastas",
+        "Fast Food"
+      ],
+      "area": "Kandivali West",
+      "city": "Mumbai",
+      "rating": 4.2,
+      "delivery_time": "45-55 MINS",
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/f58a1b772e5eeea45ff8ead3890703ed",
+      "availability_status": "OPEN",
+      "raw_data": {
+        "distanceKm": 3
+      }
+    },
+    {
+      "id": "621508",
+      "name": "Biryani Can - Biryanis & Bowls",
+      "cuisine": [
+        "Biryani",
+        "Kebabs",
+        "Desserts"
+      ],
+      "area": "Kandivali West",
+      "city": "Mumbai",
+      "rating": 4,
+      "delivery_time": "45-50 MINS",
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/3119220ebb79daca5313f41c2e618416",
+      "availability_status": "OPEN",
+      "raw_data": {
+        "distanceKm": 3
+      }
+    },
+    {
+      "id": "74051",
+      "name": "NIC Ice Creams",
+      "cuisine": [
+        "Ice Cream",
+        "Desserts"
+      ],
+      "area": "Borivali West",
+      "city": "Mumbai",
+      "rating": 4.6,
+      "delivery_time": "20-25 MINS",
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/RX_THUMBNAIL/IMAGES/VENDOR/2026/4/22/a4926981-3fa8-41e2-8f0c-b44c8fdd0e0d_74051.JPG",
+      "availability_status": "OPEN",
+      "raw_data": {
+        "distanceKm": 1.4
+      }
+    },
+    {
+      "id": "789920",
+      "name": "Parsi Dairy Farm",
+      "cuisine": [
+        "Indian"
+      ],
+      "area": "Borivali West",
+      "city": "Mumbai",
+      "rating": 4.7,
+      "delivery_time": "25-30 MINS",
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/RX_THUMBNAIL/IMAGES/VENDOR/2025/11/12/260c6d2e-2f00-4f06-b7a3-a408e1b105d5_789920.JPG",
+      "availability_status": "OPEN",
+      "raw_data": {
+        "distanceKm": 1.5
+      }
+    },
+    {
+      "id": "628732",
+      "name": "New York Waffles & Dinges",
+      "cuisine": [
+        "Waffle",
+        "Desserts",
+        "Beverages"
+      ],
+      "area": "Borivali West, Mumbai",
+      "city": "Mumbai",
+      "rating": 3.6,
+      "delivery_time": "35-45 MINS",
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/x7kaddrorytmnfg7eh22",
+      "availability_status": "OPEN",
+      "raw_data": {
+        "distanceKm": 1.6
+      }
+    },
+    {
+      "id": "617726",
+      "name": "Third Wave Coffee",
+      "cuisine": [
+        "Cafe",
+        "Beverages",
+        "Desserts",
+        "Fast Food",
+        "Pizzas"
+      ],
+      "area": "Borivali West",
+      "city": "Mumbai",
+      "rating": 4.6,
+      "delivery_time": "30-35 MINS",
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/RX_THUMBNAIL/IMAGES/VENDOR/2025/7/15/a58000bf-63b4-42bd-9c00-1f3f321e8586_617726.JPG",
+      "availability_status": "OPEN",
+      "raw_data": {
+        "distanceKm": 2.2
+      }
+    },
+    {
+      "id": "258305",
+      "name": "Love & Cheesecake",
+      "cuisine": [
+        "Cakes & Pastries",
+        "Desserts",
+        "Bakery",
+        "Cafe",
+        "Beverages"
+      ],
+      "area": "Kandivali West",
+      "city": "Mumbai",
+      "rating": 4.6,
+      "delivery_time": "30-35 MINS",
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/RX_THUMBNAIL/IMAGES/VENDOR/2025/12/30/52a8bb5c-f243-4bff-91b0-63d9d1ac7109_258305.JPG",
+      "availability_status": "OPEN",
+      "raw_data": {
+        "distanceKm": 2.8
+      }
+    }
+  ]
+}

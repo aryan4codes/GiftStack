@@ -1,0 +1,814 @@
+{
+  "_meta": {
+    "sourceFile": "im-premium-sweets-o0.json",
+    "kind": "instamart_search"
+  },
+  "cached_instamart_products": [
+    {
+      "id": "05TAA87SKJ",
+      "name": "Happilo Celebrations Diwali Gift Box | Premium Dry Fruits Hamper | Dove | Sweets | Mithai 1 Pack",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 99500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/91f4c159-40a3-43fd-bcc7-d4ef360832fe_52712_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Pack x 5",
+        "parentProductId": "GVKASJ3EBI"
+      }
+    },
+    {
+      "id": "2ZOAY0LXHW",
+      "name": "Happilo Celebrations Diwali Gift Box | Premium Dry Fruits Hamper | Dove | Sweets | Mithai 1 Pack",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 39800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/91f4c159-40a3-43fd-bcc7-d4ef360832fe_52712_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Pack x 2",
+        "parentProductId": "GVKASJ3EBI"
+      }
+    },
+    {
+      "id": "XAS0HYQGG9",
+      "name": "Happilo Celebrations Diwali Gift Box | Premium Dry Fruits Hamper | Dove | Sweets | Mithai 1 Pack",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 19900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/91f4c159-40a3-43fd-bcc7-d4ef360832fe_52712_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Pack",
+        "parentProductId": "GVKASJ3EBI"
+      }
+    },
+    {
+      "id": "40GKTLUNWN",
+      "name": "Happilo Premium Dry Fruit Sweet Diwali Gift Pack | No Added Sugar | Celebration Guilt Free Mithai 120g",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 159200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/42b0cf48-a98f-4af5-9cd3-d99b9cf5121b_668713_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "120 g x 8",
+        "parentProductId": "D43WOVOP1A"
+      }
+    },
+    {
+      "id": "SW8R0OYHBF",
+      "name": "Happilo Premium Dry Fruit Sweet Diwali Gift Pack | No Added Sugar | Celebration Guilt Free Mithai 120g",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 99500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/42b0cf48-a98f-4af5-9cd3-d99b9cf5121b_668713_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "120 g x 5",
+        "parentProductId": "D43WOVOP1A"
+      }
+    },
+    {
+      "id": "8FTH2U7XPG",
+      "name": "Happilo Premium Dry Fruit Sweet Diwali Gift Pack | No Added Sugar | Celebration Guilt Free Mithai 120g",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 39800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/42b0cf48-a98f-4af5-9cd3-d99b9cf5121b_668713_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "120 g x 2",
+        "parentProductId": "D43WOVOP1A"
+      }
+    },
+    {
+      "id": "HEIWYGR8N9",
+      "name": "Happilo Premium Dry Fruit Sweet Diwali Gift Pack | No Added Sugar | Celebration Guilt Free Mithai 120g",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 19900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/42b0cf48-a98f-4af5-9cd3-d99b9cf5121b_668713_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "120 g",
+        "parentProductId": "D43WOVOP1A"
+      }
+    },
+    {
+      "id": "14ZCQ9OCW9",
+      "name": "Happilo Date Bites Diwali Celebration Gift Pack | Healthy Sweets | Guilt Free Mithai Premium Hamper 60g",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 79200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/5b4f91f0-866a-406e-985b-1316e7e7e6ac_534027_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "60 g x 8",
+        "parentProductId": "8S9US1MJ7F"
+      }
+    },
+    {
+      "id": "BUIALM7ED3",
+      "name": "Happilo Date Bites Diwali Celebration Gift Pack | Healthy Sweets | Guilt Free Mithai Premium Hamper 60g",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 49500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/5b4f91f0-866a-406e-985b-1316e7e7e6ac_534027_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "60 g x 5",
+        "parentProductId": "8S9US1MJ7F"
+      }
+    },
+    {
+      "id": "47B8XZUVHI",
+      "name": "Happilo Date Bites Diwali Celebration Gift Pack | Healthy Sweets | Guilt Free Mithai Premium Hamper 60g",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 19800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/5b4f91f0-866a-406e-985b-1316e7e7e6ac_534027_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "60 g x 2",
+        "parentProductId": "8S9US1MJ7F"
+      }
+    },
+    {
+      "id": "JT2B01FUXE",
+      "name": "Happilo Date Bites Diwali Celebration Gift Pack | Healthy Sweets | Guilt Free Mithai Premium Hamper 60g",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 9900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/5b4f91f0-866a-406e-985b-1316e7e7e6ac_534027_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "60 g",
+        "parentProductId": "8S9US1MJ7F"
+      }
+    },
+    {
+      "id": "M3RQLJ9J7K",
+      "name": "Unibic Swaadesi Assorted Baklava",
+      "brand": "Unibic",
+      "category": "Chocolate & sweets",
+      "price_paise": 35300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/ddccb351-cd46-4b69-a2cd-48729518336a_M3RQLJ9J7K_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "WU9Z9HQR0N"
+      }
+    },
+    {
+      "id": "4BCX32O7V0",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 29900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "O4EDSRM88S",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 239200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 8",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "50ESNMNGV0",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 149500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 5",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "KO6XOHGHQQ",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 59800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 2",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "SZCCKMIBDJ",
+      "name": "Happilo Zesty Orange Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 29900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/67fc646f-0ff8-48b9-8d3d-748c1de002b6_860653_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "I2F6GKUF71"
+      }
+    },
+    {
+      "id": "AVAACFE2G3",
+      "name": "Happilo Zesty Orange Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 239200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/67fc646f-0ff8-48b9-8d3d-748c1de002b6_860653_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 8",
+        "parentProductId": "I2F6GKUF71"
+      }
+    },
+    {
+      "id": "G3750KKDHE",
+      "name": "Happilo Zesty Orange Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 149500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/67fc646f-0ff8-48b9-8d3d-748c1de002b6_860653_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 5",
+        "parentProductId": "I2F6GKUF71"
+      }
+    },
+    {
+      "id": "NJMI93ZD3Y",
+      "name": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+      "brand": "Eat Better Co",
+      "category": "Chocolate & sweets",
+      "price_paise": 53300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/12/17/5138ac6a-b021-4c22-acb5-9c9fbeb64e65_NJMI93ZD3Y_MN_17122025.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "IWQT2SW9DC"
+      }
+    },
+    {
+      "id": "ODX2DXXS7W",
+      "name": "Farmley Classic Delight Date Bites Dry Fruit Burfi| No Added Sugar Mithai Box",
+      "brand": "Farmley",
+      "category": "Chocolate & sweets",
+      "price_paise": 34600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/5/29/07b9b853-cfae-4eee-98d4-b21fbdffd5fa_31813_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "T5QZWR66LW"
+      }
+    },
+    {
+      "id": "JSMOMQ2OP4",
+      "name": "LAL Mysore Pak Premium & LAL Besan Laddoo Classic",
+      "brand": "LAL",
+      "category": "Chocolate & sweets",
+      "price_paise": 22100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/4/a43b95f9-b6f5-4682-8b0c-f8d4f37fc0db_VC_8ZKKOHXQI.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Combo",
+        "parentProductId": "8TXTATPE68"
+      }
+    },
+    {
+      "id": "D6OA9PU4CJ",
+      "name": "Happilo Cranberry Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 29900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/e5c21459-2cc4-4467-bae7-86902243047a_947090_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "IFKMK7D5PQ"
+      }
+    },
+    {
+      "id": "HOCI71069N",
+      "name": "Happilo Cranberry Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 239200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/e5c21459-2cc4-4467-bae7-86902243047a_947090_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 8",
+        "parentProductId": "IFKMK7D5PQ"
+      }
+    },
+    {
+      "id": "X46Z8AXKB0",
+      "name": "Happilo Cranberry Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 149500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/e5c21459-2cc4-4467-bae7-86902243047a_947090_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 5",
+        "parentProductId": "IFKMK7D5PQ"
+      }
+    },
+    {
+      "id": "KNYWAJHBBX",
+      "name": "Happilo Cranberry Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+      "brand": "Happilo",
+      "category": "Chocolate & sweets",
+      "price_paise": 59800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/e5c21459-2cc4-4467-bae7-86902243047a_947090_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 2",
+        "parentProductId": "IFKMK7D5PQ"
+      }
+    },
+    {
+      "id": "SI811W1DTZ",
+      "name": "Open Secret Healthy Party Snacks Box Baked Bhujia, Flavoured Nuts, Puffs, Chocolate Cookies(7 items)",
+      "brand": "OPEN SECRET",
+      "category": "Chocolate & sweets",
+      "price_paise": 39500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/24/90173090-bb36-47b8-9025-98ecd8c790af_919697_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "L5T24NXK1B"
+      }
+    },
+    {
+      "id": "R4FZDO3PVF",
+      "name": "LAL Mysore Pak Premium",
+      "brand": "LAL",
+      "category": "Chocolate & sweets",
+      "price_paise": 27200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/19/f781035f-1d88-41f8-b3de-2886a24f730c_11408_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 2",
+        "parentProductId": "NZ0T1XWYU3"
+      }
+    },
+    {
+      "id": "AA7VSMHPJK",
+      "name": "LAL Mysore Pak Premium",
+      "brand": "LAL",
+      "category": "Chocolate & sweets",
+      "price_paise": 13600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/18/bfdb5448-17f1-4a41-9128-19476e100da7_AA7VSMHPJK_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "NZ0T1XWYU3"
+      }
+    },
+    {
+      "id": "P0W9Q3K8J0",
+      "name": "Karachi Bakery Milk Mysore Pak",
+      "brand": "Karachi Bakery Sweets",
+      "category": "Chocolate & sweets",
+      "price_paise": 10100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/dce626a3-b161-45a5-9316-dff9bbd7b3d5_P0W9Q3K8J0_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "NHH7K5R36F"
+      }
+    },
+    {
+      "id": "8W2X8OIAMU",
+      "name": "Karachi Bakery Karachi Halwa",
+      "brand": "Karachi Bakery Sweets",
+      "category": "Chocolate & sweets",
+      "price_paise": 10100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/29/1b509417-9df0-4d15-9b83-108d55c406a1_759234_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "W2GNYN8T5Q"
+      }
+    },
+    {
+      "id": "GLS4DH7LWI",
+      "name": "LET'S TRY Fig Bites",
+      "brand": "Let's Try",
+      "category": "Chocolate & sweets",
+      "price_paise": 31500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/98ae6b46-d6bc-41c2-afa2-6ad457372c31_GLS4DH7LWI_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "O9CQN586V1"
+      }
+    },
+    {
+      "id": "M0HIU6Z9C9",
+      "name": "LMB Kaju Katli",
+      "brand": "LMB",
+      "category": "Chocolate & sweets",
+      "price_paise": 70000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2024/11/6/c490fc4c-4349-4143-a595-d252a421b7d9_746118_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "400 g",
+        "parentProductId": "JCS4J9PRNQ"
+      }
+    },
+    {
+      "id": "WQH3J95IWC",
+      "name": "Daadi's Mysore Pak Ghee",
+      "brand": "Daadi's",
+      "category": "Chocolate & sweets",
+      "price_paise": 15800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/10/8fa4321f-94b8-4074-83ea-93e969f6b091_24558_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "D6YN8SFX0U"
+      }
+    },
+    {
+      "id": "RDP4CB1UQV",
+      "name": "Let's Try Purani Delhi Kaju Katli",
+      "brand": "Let's Try",
+      "category": "Chocolate & sweets",
+      "price_paise": 31500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/d60672db-b76b-4ec2-87f3-75c88e63fb10_RDP4CB1UQV_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "250 g",
+        "parentProductId": "RZLX2KXOSO"
+      }
+    },
+    {
+      "id": "MX1EG7UDEL",
+      "name": "Sweet Karam Coffee Original Ghee Mysore Pak - Authentic South Indian & Sweet Karam Coffee Indian Masala Kerala Tapioca Chips",
+      "brand": "Sweet Karam Coffee",
+      "category": "Chocolate & sweets",
+      "price_paise": 18100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/4/c57190fa-b154-450a-bdbd-706615356a9d_VC_7P8SQAYCB.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Combo",
+        "parentProductId": "0294I0ESEB"
+      }
+    },
+    {
+      "id": "FAFVC28IPJ",
+      "name": "GO DESi Premium Kaju Katli | 61% Cashews | More Cashews, Less Sugar | Sweets",
+      "brand": "Go Desi",
+      "category": "Chocolate & sweets",
+      "price_paise": 24300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/6/f94ce296-29ba-4d79-a122-d4bb6b5b1868_990359_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "180 g",
+        "parentProductId": "FO3Y80NEUN"
+      }
+    },
+    {
+      "id": "81ZDTY0RCD",
+      "name": "Karachi Bakery Classic Soanpapdi",
+      "brand": "Karachi Bakery Sweets",
+      "category": "Chocolate & sweets",
+      "price_paise": 5900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/29/07b2cbb4-b31d-43d2-8e50-dbe012cfaf99_957475_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "KGTF2XV8YZ"
+      }
+    },
+    {
+      "id": "ZIMU3483T0",
+      "name": "Karachi Bakery Classic Soanpapdi",
+      "brand": "Karachi Bakery Sweets",
+      "category": "Chocolate & sweets",
+      "price_paise": 11800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/29/07b2cbb4-b31d-43d2-8e50-dbe012cfaf99_957475_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 2",
+        "parentProductId": "KGTF2XV8YZ"
+      }
+    },
+    {
+      "id": "YY4PSBYVFE",
+      "name": "Sweet Karam Coffee Cocoa Mysore Pak - No Palm Oil",
+      "brand": "Sweet Karam Coffee",
+      "category": "Chocolate & sweets",
+      "price_paise": 28400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/25/691f68fc-7503-4742-b4a1-bf25ce50bff6_533904_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "100 g x 2",
+        "parentProductId": "UHWVOB8EXA"
+      }
+    },
+    {
+      "id": "41NPCWU5AD",
+      "name": "Sweet Karam Coffee Cocoa Mysore Pak - No Palm Oil",
+      "brand": "Sweet Karam Coffee",
+      "category": "Chocolate & sweets",
+      "price_paise": 14200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/2/1c880110-a4ea-4525-a762-74944ba63a42_533904_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "100 g",
+        "parentProductId": "UHWVOB8EXA"
+      }
+    },
+    {
+      "id": "0TZ5WW7S1M",
+      "name": "Karachi Bakery Anjeer Burfi",
+      "brand": "Karachi Bakery Sweets",
+      "category": "Chocolate & sweets",
+      "price_paise": 16600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/29/c5697ebe-92d8-4955-9bcf-b5a6b9417522_630217_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "OSVNDZNVXB"
+      }
+    },
+    {
+      "id": "2QE6D3W3K9",
+      "name": "Sweet Karam Coffee Original Ghee Mysore Pak - Authentic South Indian",
+      "brand": "Sweet Karam Coffee",
+      "category": "Chocolate & sweets",
+      "price_paise": 24200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/2/db4ab855-f177-4093-b78e-43c03b648081_803604_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "100 g x 2",
+        "parentProductId": "VMCSHXZARZ"
+      }
+    },
+    {
+      "id": "6492OL88AC",
+      "name": "Sweet Karam Coffee Original Ghee Mysore Pak - Authentic South Indian",
+      "brand": "Sweet Karam Coffee",
+      "category": "Chocolate & sweets",
+      "price_paise": 12100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/2/db4ab855-f177-4093-b78e-43c03b648081_803604_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "100 g",
+        "parentProductId": "VMCSHXZARZ"
+      }
+    },
+    {
+      "id": "19186M1OAQ",
+      "name": "Go Desi Badam Coconut Barfi Sweets Box",
+      "brand": "Go Desi",
+      "category": "Chocolate & sweets",
+      "price_paise": 9800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/28/1a13e3d0-fd81-4788-bce8-4ef1075e9e84_14188_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Pack",
+        "parentProductId": "6HFIHRWRJI"
+      }
+    },
+    {
+      "id": "CKZAVTLQF4",
+      "name": "Go Desi Badam Coconut Barfi Sweets Box",
+      "brand": "Go Desi",
+      "category": "Chocolate & sweets",
+      "price_paise": 19600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/28/1a13e3d0-fd81-4788-bce8-4ef1075e9e84_14188_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Pack x 2",
+        "parentProductId": "6HFIHRWRJI"
+      }
+    },
+    {
+      "id": "QMTGXRS940",
+      "name": "Chitale Bandhu Special Burfi Combo",
+      "brand": "Chitale Bandhu",
+      "category": "Chocolate & sweets",
+      "price_paise": 27000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/11/df4a9a2a-7940-4a7e-a67c-314fa101eb61_758387_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "250 g",
+        "parentProductId": "ZR5S1T3KW5"
+      }
+    },
+    {
+      "id": "JXVQQDF4T3",
+      "name": "Eat Better Co - Assorted Dry Fruit Laddoos - 6 Flavours - No Added Sugar - Healthy Snacks",
+      "brand": "Eat Better Co",
+      "category": "Chocolate & sweets",
+      "price_paise": 32500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/17/10b88695-436c-4b57-9adf-bd04d99d5cf1_260026_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "240 g",
+        "parentProductId": "VILF9JWQ48"
+      }
+    },
+    {
+      "id": "LPREN2JJL4",
+      "name": "LAL Soan Papdi Premium",
+      "brand": "LAL",
+      "category": "Chocolate & sweets",
+      "price_paise": 27900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/4/26/d2e0e72f-ea53-4ca1-bcd3-2f9956976226_25990_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 3",
+        "parentProductId": "FJD5FWG4KN"
+      }
+    },
+    {
+      "id": "GISJ6ADWFJ",
+      "name": "LAL Soan Papdi Premium",
+      "brand": "LAL",
+      "category": "Chocolate & sweets",
+      "price_paise": 9300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/e7d7e422-e7f3-4e7b-aaf7-d02aa3eeba19_GISJ6ADWFJ_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "FJD5FWG4KN"
+      }
+    },
+    {
+      "id": "CUJ0G4AUJF",
+      "name": "Daadi's Coconut Burfi Ghee Box",
+      "brand": "Daadi's",
+      "category": "Chocolate & sweets",
+      "price_paise": 15800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/10/c62b95c7-05bd-47f3-92b7-b056fd4d46bc_28166_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "P44775B9YM"
+      }
+    },
+    {
+      "id": "DJ8COFVMXX",
+      "name": "Chitale Bandhu Kaju Katali",
+      "brand": "Chitale Bandhu",
+      "category": "Chocolate & sweets",
+      "price_paise": 35000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/11/dbe33c10-9063-40e8-8b6f-20f87a21ecaa_9632_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "250 g",
+        "parentProductId": "5N0K21BQ4J"
+      }
+    },
+    {
+      "id": "1YHUYPIN7A",
+      "name": "LAL Kaju Katli",
+      "brand": "LAL",
+      "category": "Chocolate & sweets",
+      "price_paise": 19200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/19/bb29e368-ae92-4b50-b0f9-5ce835521f03_25987_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "7MANMD2YLX"
+      }
+    },
+    {
+      "id": "NOZ5ZF2KB2",
+      "name": "The State Plate Gujarat's Famous Dry Fruits Barfi",
+      "brand": "The State Plate",
+      "category": "Chocolate & sweets",
+      "price_paise": 49500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/ad32c8fc-7d54-407c-aa6f-370d9eec3643_NOZ5ZF2KB2_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "250 g",
+        "parentProductId": "LLNTTTPR4D"
+      }
+    },
+    {
+      "id": "B77LWVKIP7",
+      "name": "Farmley Classic Delight Date Bites Dry Fruit Burfi- No Added Sugar & Farmley Makhana Munchies - Andhra Masala Crisps",
+      "brand": "Farmley",
+      "category": "Chocolate & sweets",
+      "price_paise": 37500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/4/e6769aec-393d-434d-b0ad-40c1e4083800_VC_YSOWAZ9J5(1).png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Combo",
+        "parentProductId": "6JNIRORQGZ"
+      }
+    },
+    {
+      "id": "W0TTWQG1HO",
+      "name": "LAL Baklava",
+      "brand": "LAL",
+      "category": "Chocolate & sweets",
+      "price_paise": 35200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/5/13/a3550a6b-d4a7-497b-814f-fb7ef98041d3_116713_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "K168MDV227"
+      }
+    },
+    {
+      "id": "956WQLCJIO",
+      "name": "GO DESi Dates Dry Fruit Barfi | 93% Dry Fruits | No Added Sugar | Sweets | Burfi",
+      "brand": "Go Desi",
+      "category": "Chocolate & sweets",
+      "price_paise": 27600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/9/f5f4cd99-eeec-463c-8cfa-ec8a8f74b047_956WQLCJIO_1_25997eeb-54fe-4a42-98c6-a4979f9f10cb.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "454GTOPNI0"
+      }
+    },
+    {
+      "id": "D5EJHJQ0OC",
+      "name": "LAL Dates Ghee Halwa",
+      "brand": "LAL",
+      "category": "Chocolate & sweets",
+      "price_paise": 28200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/4/26/49c4ece0-4ac5-4eaa-9f99-33415dc888b4_936312_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 2",
+        "parentProductId": "UKVFQPKUTM"
+      }
+    },
+    {
+      "id": "TIP5W7N8U6",
+      "name": "LAL Dates Ghee Halwa",
+      "brand": "LAL",
+      "category": "Chocolate & sweets",
+      "price_paise": 14100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/422bede4-ae34-48aa-81da-fe6c8e01f271_TIP5W7N8U6_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "UKVFQPKUTM"
+      }
+    },
+    {
+      "id": "2XQP33FGJ0",
+      "name": "Daadi's Kaju Katli",
+      "brand": "Daadi's",
+      "category": "Chocolate & sweets",
+      "price_paise": 22000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/10/f4a7e4a9-987b-4063-87ce-560a56259d9b_24559_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "7LJ0NT07OT"
+      }
+    },
+    {
+      "id": "OBVP30Q721",
+      "name": "Sweet Karam Coffee Filter Coffee Burfi",
+      "brand": "Sweet Karam Coffee",
+      "category": "Chocolate & sweets",
+      "price_paise": 18300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/2/90a153f8-2fbb-4b2f-9798-82d2048e64f5_840492_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "125 g",
+        "parentProductId": "E0P6TTVPYY"
+      }
+    },
+    {
+      "id": "5K63H5U65Q",
+      "name": "Amul Kaju Katri",
+      "brand": "Amul",
+      "category": "Chocolate & sweets",
+      "price_paise": 52500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/7dcfa6d0-6146-460b-b391-97d722d9f277_5K63H5U65Q_MN_11022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "500 g",
+        "parentProductId": "TSTMM8PMS3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "_meta": {
+    "sourceFile": "im-dryfruit-hamper-o0.json",
+    "kind": "instamart_search"
+  },
+  "cached_instamart_products": [
+    {
+      "id": "93Z70HP4YW",
+      "name": "True Elements Panchmeva Trail Mix",
+      "brand": "True Elements",
+      "category": "Gift & hampers",
+      "price_paise": 105000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/5daeea15-2fd9-4c31-8bcf-0c622813947a_93Z70HP4YW_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1.2 kg",
+        "parentProductId": "JUIGCVJ7BM"
+      }
+    },
+    {
+      "id": "F5ONQRT9NN",
+      "name": "Open Secret Chocolates, Brownie , Cookies, Flavored Nuts, Gift Hamper | 5 Delightful Healthy Snacks",
+      "brand": "OPEN SECRET",
+      "category": "Gift & hampers",
+      "price_paise": 29400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/23/70f962d1-47f5-4d63-b854-4c68363df613_91455_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "121 g",
+        "parentProductId": "WK2XGGVEDE"
+      }
+    },
+    {
+      "id": "AHUJS52HCW",
+      "name": "Farmley Mix Dry Fruits Panchmeva Snacks- Almond, Cashew, Dates, Green and Black Raisins",
+      "brand": "Farmley",
+      "category": "Gift & hampers",
+      "price_paise": 41900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/8d8382d1-bf1d-4c5f-b1e5-e12e6fe3ea5b_AHUJS52HCW_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "405 g",
+        "parentProductId": "Y4W8W7P0WH"
+      }
+    },
+    {
+      "id": "NJMI93ZD3Y",
+      "name": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+      "brand": "Eat Better Co",
+      "category": "Gift & hampers",
+      "price_paise": 53300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/12/17/5138ac6a-b021-4c22-acb5-9c9fbeb64e65_NJMI93ZD3Y_MN_17122025.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 pack",
+        "parentProductId": "IWQT2SW9DC"
+      }
+    },
+    {
+      "id": "4BCX32O7V0",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Gift & hampers",
+      "price_paise": 29900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "O4EDSRM88S",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Gift & hampers",
+      "price_paise": 239200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 8",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "50ESNMNGV0",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Gift & hampers",
+      "price_paise": 149500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 5",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "KO6XOHGHQQ",
+      "name": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+      "brand": "Happilo",
+      "category": "Gift & hampers",
+      "price_paise": 59800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 2",
+        "parentProductId": "RWL03QWJ0Y"
+      }
+    },
+    {
+      "id": "8A03Q8HR8L",
+      "name": "Supreme Harvest Cashew Whole",
+      "brand": "Supreme Harvest",
+      "category": "Gift & hampers",
+      "price_paise": 13300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/19/16e7651c-1ed9-42ec-89b9-0c228e19f123_21607_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "100 g",
+        "parentProductId": "39OG4Q3WUR"
+      }
+    },
+    {
+      "id": "66BQFJWQ65",
+      "name": "Delight Nuts Mix Nuts Roasted And Salted & Arabian Dates Combo",
+      "brand": "Delight Nuts",
+      "category": "Gift & hampers",
+      "price_paise": 46000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/a698032cc53ff98a2736baf953ac3009",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Combo",
+        "parentProductId": "KYJ4WVK2SF"
+      }
+    },
+    {
+      "id": "M8QOKD5MXQ",
+      "name": "Supreme Harvest Mixed Dry Fruits (Panchmeva)",
+      "brand": "Supreme Harvest",
+      "category": "Gift & hampers",
+      "price_paise": 18000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/3fb75379-c8b6-4fda-a303-8d7e27edd20d_M8QOKD5MXQ_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "250 g",
+        "parentProductId": "WYAOL73662"
+      }
+    },
+    {
+      "id": "5Q0Z7N3AIH",
+      "name": "Orika Grill and Chill Celebrate And Marinate",
+      "brand": "Orika",
+      "category": "Gift & hampers",
+      "price_paise": 68500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/28/e633b4e5-a7ee-4929-b98f-0adbb8c0c15f_646396_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "335 g",
+        "parentProductId": "2GL5M93LR7"
+      }
+    },
+    {
+      "id": "Y7J04LPAAG",
+      "name": "Supreme Harvest Cashew Whole",
+      "brand": "Supreme Harvest",
+      "category": "Gift & hampers",
+      "price_paise": 45200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/15/06a89b71-9e9b-4c37-912b-923bef9ad2fc_15751_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 2",
+        "parentProductId": "FGWFI8WQ9K"
+      }
+    },
+    {
+      "id": "DNQBDQ1V4T",
+      "name": "Supreme Harvest Cashew Whole",
+      "brand": "Supreme Harvest",
+      "category": "Gift & hampers",
+      "price_paise": 22600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/19/5ab912ba-bddf-4e83-85c6-89d204886c2d_15751_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "FGWFI8WQ9K"
+      }
+    },
+    {
+      "id": "Y4H182946L",
+      "name": "Snack Amor Roasted Tiger Nuts 100g & Macadamia Nuts 50g",
+      "brand": "Snack Amor",
+      "category": "Gift & hampers",
+      "price_paise": 43500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/3/27/dcf25b5c-3e9b-49e6-90b8-e379e51ff71d_NPIC-008630_20260327_074533.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Combo",
+        "parentProductId": "BJKGYVTOCU"
+      }
+    },
+    {
+      "id": "DK83PLR7AY",
+      "name": "Supreme Harvest Cashew Whole",
+      "brand": "Supreme Harvest",
+      "category": "Gift & hampers",
+      "price_paise": 90400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/15/a4d6c494-9bfb-4b12-b5c5-9d2926594473_15752_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "500 g x 2",
+        "parentProductId": "OQ98UE3YZ1"
+      }
+    },
+    {
+      "id": "ALZO6Y4Y6S",
+      "name": "Supreme Harvest Cashew Whole",
+      "brand": "Supreme Harvest",
+      "category": "Gift & hampers",
+      "price_paise": 45200,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/19/5ac453d3-2937-4a60-b6b8-11d2e75eb4ca_15752_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "500 g",
+        "parentProductId": "OQ98UE3YZ1"
+      }
+    },
+    {
+      "id": "3MCTOJO3TX",
+      "name": "True Elements Panchmewa & Sattva Ratna Trail Mix",
+      "brand": "True Elements",
+      "category": "Gift & hampers",
+      "price_paise": 77400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2024/10/15/4a0bd713-e9a2-48c5-8ca9-4e8617727b44_883843.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Combo",
+        "parentProductId": "KKY6RYV2MS"
+      }
+    },
+    {
+      "id": "3POCNOBZJM",
+      "name": "Yogabar Panchmeva, Nuts and Dry Fruits Mix, Almonds, Cashews, Raisins,Dates",
+      "brand": "Yogabar",
+      "category": "Gift & hampers",
+      "price_paise": 72100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/25/74caed1f-9fb6-4a4d-8806-5ef5af3a2007_289638_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "850 g",
+        "parentProductId": "ZW9G7ICZ6J"
+      }
+    },
+    {
+      "id": "RKGSBNGVSD",
+      "name": "Sapphire Dry Nuts Trail Mix",
+      "brand": "Sapphire Dry Nuts",
+      "category": "Gift & hampers",
+      "price_paise": 40900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/df46136f-155a-4802-ae0d-34f7189955e7_RKGSBNGVSD_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "500 g",
+        "parentProductId": "68U6GF6PV9"
+      }
+    },
+    {
+      "id": "AXDF3GDJUK",
+      "name": "True Elements Panchmewa - Cashews, Almonds, Raisins, Black Currants and Dates",
+      "brand": "True Elements",
+      "category": "Gift & hampers",
+      "price_paise": 77400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/8/25/e49f9c5b-3f45-4e10-b258-dc292944b1e5_52941_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "400 g x 2",
+        "parentProductId": "D8HQWUNRB9"
+      }
+    },
+    {
+      "id": "VQ7JMTS1KL",
+      "name": "True Elements Panchmewa - Cashews, Almonds, Raisins, Black Currants and Dates",
+      "brand": "True Elements",
+      "category": "Gift & hampers",
+      "price_paise": 38700,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/8f7a7fda-4ea5-462b-8dee-47e429c6b916_VQ7JMTS1KL_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "400 g",
+        "parentProductId": "D8HQWUNRB9"
+      }
+    },
+    {
+      "id": "7O8XVNJGJ4",
+      "name": "Snack Amor Roasted Tiger Nuts",
+      "brand": "Snack Amor",
+      "category": "Gift & hampers",
+      "price_paise": 18900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/b2b0a634-c55b-4e15-9605-371768792970_7O8XVNJGJ4_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "100 g",
+        "parentProductId": "MXJLS9DYTC"
+      }
+    },
+    {
+      "id": "5XN1X7FQBO",
+      "name": "Snack Amor Roasted Tiger Nuts",
+      "brand": "Snack Amor",
+      "category": "Gift & hampers",
+      "price_paise": 37800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/b2b0a634-c55b-4e15-9605-371768792970_7O8XVNJGJ4_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "100 g x 2",
+        "parentProductId": "MXJLS9DYTC"
+      }
+    },
+    {
+      "id": "NPDGSJTXAZ",
+      "name": "Delight Nuts Almond Roasted And Salted Roasted & Salted Pistachios Kalmi Dates",
+      "brand": "Delight Nuts",
+      "category": "Gift & hampers",
+      "price_paise": 85600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/53eeba9ea459ad79dbe4908714133545",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Combo",
+        "parentProductId": "52Z7VZKS7R"
+      }
+    },
+    {
+      "id": "UB6BSCL406",
+      "name": "Livyor Mix dry fruits & Trail Mix |8 in 1 Nuts and Berries Mix",
+      "brand": "Livyor",
+      "category": "Gift & hampers",
+      "price_paise": 19900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/895d2a34-30d2-47cb-a091-0709dfd2fd34_UB6BSCL406_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "ANSQC6T2R3"
+      }
+    },
+    {
+      "id": "SJAIAUQVC6",
+      "name": "Nutraj Roasted & Salted Almond / Badam ",
+      "brand": "Nutraj",
+      "category": "Gift & hampers",
+      "price_paise": 23900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/9c137f74-e2c1-4f3a-aaba-b0d823d6aa63_SJAIAUQVC6_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "150 g",
+        "parentProductId": "L8EWCY7CST"
+      }
+    },
+    {
+      "id": "715SJ0C6RQ",
+      "name": "Farmley Premium Trail Mix Dry Fruits Jar | 7 Superfoods in 1 Mix | Contains Almonds, Cashews, Cranberries, Black Currant, Blueberry",
+      "brand": "Farmley",
+      "category": "Gift & hampers",
+      "price_paise": 43100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/6/2e51080e-55fe-47c9-bf85-0b6ffad68d00_317503_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "325 g",
+        "parentProductId": "EIS2IMCM9G"
+      }
+    },
+    {
+      "id": "INJR18PTXQ",
+      "name": "Snack Amor Macadamia Nuts",
+      "brand": "Snack Amor",
+      "category": "Gift & hampers",
+      "price_paise": 24600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/7e6fadce-4ae8-4125-910b-dd0895a51fcc_INJR18PTXQ_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "50 g",
+        "parentProductId": "6Z5W6VNMUG"
+      }
+    },
+    {
+      "id": "B59PI9RJFF",
+      "name": "Farmley Panchmeva Mix Dry Fruits Jar",
+      "brand": "Farmley",
+      "category": "Gift & hampers",
+      "price_paise": 92300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/12/a7354b87-9907-4021-9c55-ec7b0cf859c0_443488_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "905 g",
+        "parentProductId": "69P19V1DV2"
+      }
+    },
+    {
+      "id": "2K1O191S1T",
+      "name": "Delight Nuts Mixed Nuts Roasted And Salted",
+      "brand": "Delight Nuts",
+      "category": "Gift & hampers",
+      "price_paise": 36300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/b8091d9a-d265-47b1-9428-f05cf7c83088_2K1O191S1T_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "JW3MH3JOPJ"
+      }
+    },
+    {
+      "id": "7ZBY6BM1TN",
+      "name": "Tata Sampann Luxe Dry Fruit & Nut Mix",
+      "brand": "Tata Sampann",
+      "category": "Gift & hampers",
+      "price_paise": 23800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/cdcedab2-4a05-429c-81d3-6db0791bac62_7ZBY6BM1TN_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "A3GID4FSFY"
+      }
+    },
+    {
+      "id": "ZQ6K0LGW95",
+      "name": "Open Secret Panchmeva DryFruits Mix - Fasting Vrat Special",
+      "brand": "OPEN SECRET",
+      "category": "Gift & hampers",
+      "price_paise": 16000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/fdd67fb8-0c4f-40d8-8ca7-fe6b68622891_ZQ6K0LGW95_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "VO4N5LMET5"
+      }
+    },
+    {
+      "id": "BR9RFQRCA0",
+      "name": "Open secret premium whole cashews (kaju) & Open Secret premium california almonds (badam) & open secret premium dates (khajur)",
+      "brand": "OPEN SECRET",
+      "category": "Gift & hampers",
+      "price_paise": 66100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2024/12/14/31b27f77-44b4-4186-8042-14660b2f1b23_829304.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Combo",
+        "parentProductId": "J68GIUH6HV"
+      }
+    },
+    {
+      "id": "CYPT0IU4DA",
+      "name": "Paper Boat Absolute Health - Supermix",
+      "brand": "Paper Boat",
+      "category": "Gift & hampers",
+      "price_paise": 130300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/40408dfa-1d4a-4a0d-a52c-c47435e06294_CYPT0IU4DA_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 kg",
+        "parentProductId": "MHMQNKHPAF"
+      }
+    },
+    {
+      "id": "GM3D6NMCQR",
+      "name": "Bolas Panchmewa",
+      "brand": "Bolas",
+      "category": "Gift & hampers",
+      "price_paise": 60800,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/cd3a4d8a-7063-4a59-8eba-2589935e24e6_GM3D6NMCQR_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "500 g",
+        "parentProductId": "1O7CW0WOJ3"
+      }
+    },
+    {
+      "id": "S49R8VI4LY",
+      "name": "Paper Boat Mega Omega Dry Fruit Trail Mix",
+      "brand": "Paper Boat",
+      "category": "Gift & hampers",
+      "price_paise": 48100,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/3dee1fef-e43d-45e2-b6e7-3b2633184cf7_S49R8VI4LY_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "300 g",
+        "parentProductId": "117R89TMTA"
+      }
+    },
+    {
+      "id": "U1HQ3VVXRB",
+      "name": "True Elements Sattva Ratna Trail Mix - Cashews, Almonds, Raisins, Black Currants, Dates",
+      "brand": "True Elements",
+      "category": "Gift & hampers",
+      "price_paise": 77400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/8/12/05bb3bc9-58b5-43f5-958a-67b3ccb518de_56124_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "425 g x 2",
+        "parentProductId": "VFTD5NQAMS"
+      }
+    },
+    {
+      "id": "HGZR6QL72F",
+      "name": "True Elements Sattva Ratna Trail Mix - Cashews, Almonds, Raisins, Black Currants, Dates",
+      "brand": "True Elements",
+      "category": "Gift & hampers",
+      "price_paise": 38700,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/8/12/05bb3bc9-58b5-43f5-958a-67b3ccb518de_56124_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "425 g",
+        "parentProductId": "VFTD5NQAMS"
+      }
+    },
+    {
+      "id": "FH8182JOC9",
+      "name": "True Elements Kaaju Kishmish Badaam",
+      "brand": "True Elements",
+      "category": "Gift & hampers",
+      "price_paise": 26900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/12/10b278a3-9c76-4752-bc95-91e375bf1aeb_551610_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "210 g",
+        "parentProductId": "CZ6N7LVI0U"
+      }
+    },
+    {
+      "id": "SXVQI6OP1J",
+      "name": "Farmley Mix Dry Fruits Panchmeva",
+      "brand": "Farmley",
+      "category": "Gift & hampers",
+      "price_paise": 29600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/702cce60-5157-4eee-8085-f66079ec0c6b_SXVQI6OP1J_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "160 g",
+        "parentProductId": "LPPGAZ25L9"
+      }
+    },
+    {
+      "id": "X00T34J4Y8",
+      "name": "Wonderland Foods Platinum Mix Dry Fruits",
+      "brand": "Wonderland Foods",
+      "category": "Gift & hampers",
+      "price_paise": 19000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/29/3b631dfe-354f-47b6-b867-099d111b4a57_63179_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "3G7FSDTU6M"
+      }
+    },
+    {
+      "id": "6DBHLCLIDN",
+      "name": "Wonderland Foods Platinum Mix Dry Fruits",
+      "brand": "Wonderland Foods",
+      "category": "Gift & hampers",
+      "price_paise": 38000,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2024/4/25/692190f1-e0c0-4a06-a428-5ae29fb48412_driedfruitsnutsandseeds_X00T34J4Y8_MN.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g x 2",
+        "parentProductId": "3G7FSDTU6M"
+      }
+    },
+    {
+      "id": "UWTISPV14M",
+      "name": "Supreme Harvest Roasted & Salted Pistachio",
+      "brand": "Supreme Harvest",
+      "category": "Gift & hampers",
+      "price_paise": 28300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/19/21249f46-a82b-48a7-b5e1-a2717fa701f9_15742_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "O6F87TMVXV"
+      }
+    },
+    {
+      "id": "JN29DAQI35",
+      "name": "Khari Foods Premium California Pistachios, Roasted & Salted Dry Fruits",
+      "brand": "Khari Foods",
+      "category": "Gift & hampers",
+      "price_paise": 31500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/19/11c72094-6f9e-47cd-9c8b-c719adc3df36_325818_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "200 g",
+        "parentProductId": "G1VYU92ED3"
+      }
+    },
+    {
+      "id": "4UXIBWT43D",
+      "name": "Happilo Classic Panchmewa Dry Fruit Mix",
+      "brand": "Happilo",
+      "category": "Gift & hampers",
+      "price_paise": 34400,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/c6a60490-01e8-4d54-b1a7-13a3cc1c4bc2_4UXIBWT43D_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "405 g",
+        "parentProductId": "TSG1O04603"
+      }
+    },
+    {
+      "id": "H8YXQIRBID",
+      "name": "Farmley Mix Dry Fruits Panchmeva",
+      "brand": "Farmley",
+      "category": "Gift & hampers",
+      "price_paise": 4600,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/18/c35f0deb-4376-44a0-a301-c687ec2e561a_54053_1.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "30 g",
+        "parentProductId": "H3DRAAHUHA"
+      }
+    },
+    {
+      "id": "OXQLVS5LYH",
+      "name": "Bolas Salted Macadamia Nuts",
+      "brand": "Bolas",
+      "category": "Gift & hampers",
+      "price_paise": 29300,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/b6afb4e8-ba68-43ab-8d7e-02b29308e48b_OXQLVS5LYH_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "50 g",
+        "parentProductId": "8WXW09QQWY"
+      }
+    },
+    {
+      "id": "DPYTZE9BMF",
+      "name": "Farmley Premium Seeds Combo Pack Of 4 (Chia Seeds, Brown Flax Seeds, Pumpkin Seeds, Sunflower Seeds)",
+      "brand": "Farmley",
+      "category": "Gift & hampers",
+      "price_paise": 49500,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/9d25ccd6-7896-4acb-867c-0e0c55cda0e7_DPYTZE9BMF_MN_18022026.png",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "800 g",
+        "parentProductId": "U4V0QPXDS0"
+      }
+    },
+    {
+      "id": "N1G66Q9P2P",
+      "name": "Delight Nuts Almond Rstd & Salted Rstd & Salted Pistachios Delight Cashew Rstd & Salted",
+      "brand": "Delight Nuts",
+      "category": "Gift & hampers",
+      "price_paise": 102900,
+      "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/0d544cd6a9381f7180c983c13ff597b8",
+      "city": "Mumbai",
+      "raw_data": {
+        "quantityDescription": "1 Combo",
+        "parentProductId": "5DAU3CTF8L"
+      }
+    }
+  ]
+}

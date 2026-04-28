@@ -1,0 +1,1383 @@
+{
+  "success": true,
+  "data": {
+    "restaurant": {
+      "id": "698075",
+      "name": "La Pino'z Pizza",
+      "city": "Mumbai",
+      "areaName": "Shimpoli,Borivali west",
+      "cuisines": [
+        "Pizzas",
+        "Italian"
+      ],
+      "avgRating": 4.1,
+      "avgRatingString": "4.1",
+      "totalRatingsString": "1.8K+ ratings",
+      "costForTwoMessage": "₹400 for two",
+      "isOpen": true,
+      "deliveryTime": 39,
+      "slaString": "35-40 MINS",
+      "address": "Shop No 2 & 3, Ground Floor, Borivali Shree Neminath Co Operative Housnig Society Limited, Kastur Park,  Shimpoli Road, Borivali ( West )  Mumbai"
+    },
+    "categories": [
+      {
+        "title": "Minimum 50% off",
+        "categoryId": "-1",
+        "items": [
+          {
+            "id": "192361293",
+            "name": "Spring Fling Large Pizza",
+            "description": "Quintessentially veg with capsicum, sweet corn and flavoured chunks of paneer.Serves upto 4 people",
+            "price": 849,
+            "inStock": 1,
+            "isVeg": true,
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "192361292",
+            "name": "Macroni Special Large Pizza",
+            "description": "A special fusion cheesy mac pizza loaded with creamy macaroni and cheese, topped with onions, olives...",
+            "price": 849,
+            "inStock": 1,
+            "isVeg": true,
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "192361294",
+            "name": "Veg Hawaiian Large Pizza",
+            "description": "Nothing says Hawaiian quite like the perfect blend of pineapple, paneer, and sweet corn, topped with...",
+            "price": 849,
+            "inStock": 1,
+            "isVeg": true,
+            "hasVariants": false,
+            "hasAddons": true
+          }
+        ],
+        "totalItems": 3,
+        "hasMoreItems": false
+      },
+      {
+        "title": "Items starting at 75",
+        "categoryId": "123456",
+        "items": [
+          {
+            "id": "175293084",
+            "name": "Cheese & Herb Pizza",
+            "description": "Delicious pizza topped with a blend of savory cheese and aromatic herbs, offering a flavorful and sa...",
+            "price": 89,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "3.8",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/2/17/087dc7d7-b66a-497d-8475-e3f0c9777be9_61a8bd4d-88c5-472f-9519-44b1dec9ad30.png",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "114611669",
+            "name": "Tomatoes Pizza",
+            "description": "Thinly cut fresh tomatoes on a cheesy base with in house sauce. [Fat-6.9 per 100 g, Protein-5.1 per ...",
+            "price": 95,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.1",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/beb8a6d7-def6-4f6a-b14a-53a9c952b6b4_621dca3e-2eca-46ef-8c2e-6cc4d84cdf92.png",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "153717028",
+            "name": "Sweet Corn Pizza Regular",
+            "description": "Experience A Delightful Burst Of Flavor With Our Sweet Corn Pizza!",
+            "price": 125,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "3.9",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/25/449c9ce6-b3f2-4cd6-b25a-0d4590a18b0c_1c347937-0e67-4f6f-97d8-c08affeeb451.JPG",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "114611683",
+            "name": "Capsicum, Paneer & Red Paprika Pizza",
+            "description": "Flavorful trio of Juicy Paneer, Crisp Capsicum with Spicy Red Paprika. [Fat-10.2 per 100 g, Protein-...",
+            "price": 155,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "4.1",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/99938afe-32ca-4c6e-a8b2-8a163ece79b6_302b8399-d8cb-4d2b-bc72-06609bd0c6dd.png",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "147780264",
+            "name": "Cheezo Garlic Bread Stick",
+            "description": "A golden, crispy delight with rich melted cheese and a bold garlic flavor.",
+            "price": 155,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "4.1",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/81ebd28d-e97c-48b4-9d78-38d6c17d71d0_b0a84a6f-6e33-4424-aece-731c6e9c8484.png",
+            "hasVariants": false,
+            "hasAddons": false
+          },
+          {
+            "id": "114611681",
+            "name": "Onions & Paneer Pizza",
+            "description": "A delectable combination of freshly cooked onions & paneer with our in house sauce. [Fat-21.2 per 10...",
+            "price": 155,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "4.3",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/3882cef3-bd49-4a18-ac51-bdf6161df082_5b88c9f7-70c8-477e-bf51-961b2580d42a.png",
+            "hasVariants": false,
+            "hasAddons": true
+          }
+        ],
+        "totalItems": 6,
+        "hasMoreItems": false
+      },
+      {
+        "title": "Recommended",
+        "items": [
+          {
+            "id": "114611684",
+            "name": "Jalapenos, Sweet Corns & Paneer Pizza",
+            "description": "Appetizing Combination of Juicy Paneer, Sweet Corn and Jalapeno in our in House Sauce. [Fat-9.8 per ...",
+            "price": 165,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "4.5",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/02b13e2c-4722-4e20-a7ea-44b2368d19a6_28a7ad2a-ff02-4d47-8646-cb92deca9947.png",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "114611611",
+            "name": "Cheezy-7  Pizza",
+            "description": "An Exotic Combination of White Mozzarilla, Cream White Cheese, Cheddar, Monterey Jack, Cream Orange ...",
+            "price": 328,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.3",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/03400557-823e-4702-b396-1873fc3f3937_f0c5ed05-39c1-43eb-836b-b2fc86b23ea0.png",
+            "hasVariants": true,
+            "hasAddons": true
+          },
+          {
+            "id": "114611536",
+            "name": "Margherita Pizza (personal Giant Slice (22.5 Cm))",
+            "description": "A classic cheesy Margherita. Cant go wrong. [Fat-14.3 per 100 g, Protein-12.6 per 100 g, Carbohydrat...",
+            "price": 154,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "3.7",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/4a1db7bf-c67f-423c-96b4-5fbe40511371_08034486-45ae-4561-946f-976d3f8df81b.JPG",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "114611591",
+            "name": "Margherita  Pizza",
+            "description": "A classic cheesy Margherita. Cant go wrong. [Fat-14.3 per 100 g, Protein-12.6 per 100 g, Carbohydrat...",
+            "price": 182,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "4.1",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/239e356f-df91-4ec4-9103-ae3cfe1e1d68_267019a7-9ed6-4e7e-9fdd-ad43a7d1c036.png",
+            "hasVariants": true,
+            "hasAddons": true
+          },
+          {
+            "id": "114611657",
+            "name": "Paneer Tikka Stuffed Garlic Bread",
+            "description": "Paneer Tikka Butter Masala. [Fat-12.8 per 100 g, Protein-8.9 per 100 g, Carbohydrate-45.2 per 100 g,...",
+            "price": 195,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "4.7",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/7001106e-5fda-428a-8648-15460c6aa5de_27dbbba5-a6e8-44e6-9fc7-585b7de2bd76.JPG",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "114611658",
+            "name": "Americano White Sauce Pasta Veg",
+            "description": "A blend of American Flavours in your Favorite Pasta Onion, capsicum, sweet corn, mushroom, olives wi...",
+            "price": 199,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "3.9",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/c2exmldyjrtqgj7rqcap",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "114611613",
+            "name": "Paneer Tikka Butter Masala Pizza",
+            "description": "An indian Speciality on a La Pinoz Pizza. Exotic Paneer Tikka, Onion, Capsicum & Red Paprika. [Fat-1...",
+            "price": 306,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "3.7",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/e414755b-4e3f-44b5-86a2-05a0ecd47b2a_d7f082f4-6c71-4eb0-8fb6-ff8b42a75523.png",
+            "hasVariants": true,
+            "hasAddons": true
+          },
+          {
+            "id": "114611596",
+            "name": "Double Cheese Margherita  Pizza",
+            "description": "Loaded with Extra Cheese",
+            "price": 227,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "3.5",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/4366abc3-8ea1-4b7b-b229-d2eeb55df40e_f630b191-e2a2-49a8-ba82-cea374f0e8ab.png",
+            "hasVariants": true,
+            "hasAddons": true
+          },
+          {
+            "id": "114611600",
+            "name": "Farm Villa Pizza",
+            "description": "The freshness of capsicum, tomatoes, with the flavour of paneer and red paprika topped with Korma di...",
+            "price": 306,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "3.8",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/0e05439d-98dd-4468-8c4e-7be6ca309539_6f0d883f-6428-4b7b-a738-ca5848b69fe0.png",
+            "hasVariants": true,
+            "hasAddons": true
+          },
+          {
+            "id": "114611665",
+            "name": "Macaroni & Cheese Veg",
+            "description": "Quintessential veg macaroni n cheese, la pinoz style. [Fat-5 per 100 g, Protein-7.2 per 100 g, Carbo...",
+            "price": 177,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "3.4",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/6a869ded-25ff-4674-9b52-202611be28ec_92ba18cd-31b9-49f7-a6c2-6517cb6db2f8.png",
+            "hasVariants": false,
+            "hasAddons": false
+          }
+        ],
+        "totalItems": 20,
+        "hasMoreItems": true
+      },
+      {
+        "title": "Veg Pizza",
+        "categoryId": "34058839",
+        "subcategories": [
+          {
+            "title": "Speciality Veg",
+            "categoryId": "34058848",
+            "items": [
+              {
+                "id": "114611611",
+                "name": "Cheezy-7  Pizza",
+                "description": "An Exotic Combination of White Mozzarilla, Cream White Cheese, Cheddar, Monterey Jack, Cream Orange ...",
+                "price": 328,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.3",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/03400557-823e-4702-b396-1873fc3f3937_f0c5ed05-39c1-43eb-836b-b2fc86b23ea0.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611623",
+                "name": "English Retreat Pizza",
+                "description": "Olives,Red Paprika, Tomatoes, Paneer, Capsicum, Cheese, Jalapeno Dip. An English special. [Fat-11.9 ...",
+                "price": 328,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/3639a40b-1c7f-4824-adc6-5382d2e73b49_60148497-1d3a-4d05-8789-85fd5e565885.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611597",
+                "name": "Spicy Veggie 65",
+                "description": "Red Peprika,jalapenos,capsicum,onion,paneer 65 with extra cheese",
+                "price": 328,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/398527ce-5769-489e-b80a-fcd3f8c0b591_433422d5-aac8-4770-babc-226cd66177ca.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611606",
+                "name": "Ala Mexican Pizza",
+                "description": "Onion,Sweet Corns,Mushroom,Baby Corns,Mexican Salsa Dip",
+                "price": 328,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "1.6",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/28/b8043c52-ea4a-4bea-b4c1-0d0ed74ecd55_1de9247a-96f5-4bca-87ff-846358dee599.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611642",
+                "name": "La Pino'z Paneer Pizza",
+                "description": "A La Pinoz special. Onion, Capsicum, Paneer, Sweet Corn & Olives With Cheese Dip. [Fat-8.4 per 100 g...",
+                "price": 328,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.4",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/505ec71a-33a6-4dfd-8cf4-8419cfcb22e1_f1f7390f-348c-4a28-a9a1-0cbde4664e9f.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611646",
+                "name": "Peri Peri Veg Pizza",
+                "description": "Milder, but just as tasty. Onion, Capsicum, Mushroom, Paneer, Olives With Peri Peri Dip. [Fat-6.1 pe...",
+                "price": 328,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/2f05305f-8309-45c2-a14e-4984c688fd3b_c30ead1c-8a76-48ed-8b0b-c022384d6666.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611609",
+                "name": "Authentic Veg Pizza",
+                "description": "Onion, Capsicum, Paneer With Jalapenos Dip",
+                "price": 328,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/704eb622-9ceb-48fa-aff4-37f027740a71_d46c1e10-fe43-4d89-ad5e-3ea240360375.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611648",
+                "name": "Tandoori Special Pizza",
+                "description": "Capsicum, Sweet Corn, Red Paprika, Double Paneer With Korma Dip",
+                "price": 328,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.5",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611622",
+                "name": "Cheesy Macaroni Veg Pizza",
+                "description": "Paneer, Onions, Capsicum, Olives, Baby Corn With Loads Of Cheese",
+                "price": 328,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/28/85525f2b-1275-4ec1-abb2-ff66066dcccd_27daf695-cbed-49dc-80b8-4ad9b463437a.jpeg",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611644",
+                "name": "Las Vegas Treat Pizza",
+                "description": "Mushrooms, Jalapenos, Capsicum, Baby Corn, Tomatoes With Peri Peri Dip.",
+                "price": 328,
+                "inStock": 1,
+                "isVeg": true,
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/5c7eeb07-49cd-42cb-94f3-3524e383b165_97e934c3-4607-4717-a43d-aca9089e63fb.png",
+                "hasVariants": true,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 17,
+            "hasMoreItems": true
+          },
+          {
+            "title": "Exotic Veg",
+            "categoryId": "34058847",
+            "items": [
+              {
+                "id": "114611600",
+                "name": "Farm Villa Pizza",
+                "description": "The freshness of capsicum, tomatoes, with the flavour of paneer and red paprika topped with Korma di...",
+                "price": 306,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "3.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/0e05439d-98dd-4468-8c4e-7be6ca309539_6f0d883f-6428-4b7b-a738-ca5848b69fe0.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611613",
+                "name": "Paneer Tikka Butter Masala Pizza",
+                "description": "An indian Speciality on a La Pinoz Pizza. Exotic Paneer Tikka, Onion, Capsicum & Red Paprika. [Fat-1...",
+                "price": 306,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/e414755b-4e3f-44b5-86a2-05a0ecd47b2a_d7f082f4-6c71-4eb0-8fb6-ff8b42a75523.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611616",
+                "name": "Tandoori Paneer Pizza",
+                "description": "Capsicum, Onion, Paneer, Sweet Corn in Korma Dip",
+                "price": 306,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "1.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/10a5a97c-8a82-422a-9809-a84a7320e0ee_2a2fe0f2-3a37-48d3-aef7-0b388e5d137e.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611604",
+                "name": "Sweet Heat Pizza",
+                "description": "[Available in Jain] Jalapenos, Pineapples, Sweet Corns, Red Paprika",
+                "price": 306,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "1.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/bee166f4-6f62-4084-accf-e22fe8bb2dae_0f2091a6-5209-41ca-ba73-b754bf36ecdf.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611593",
+                "name": "Paneer 65",
+                "description": "A Combination Of Onion, Capsicum, Red Paprika, Paneer 65 With Extra Cheese",
+                "price": 306,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/a0f249a1-cbd2-49f6-b9d1-85d4a789728d_d2df5c4d-7745-48e6-9234-7f1809b4e457.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611610",
+                "name": "Burn To Hell Pizza",
+                "description": "A fiery and lethal combination of hot & garlic dip, jalapenos, mushrooms, olives and capsicum. [Fat-...",
+                "price": 306,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/ee2b3c8d-befb-4836-9561-6222d776e736_c1ccfbe0-7846-4bda-a8de-d61995c0de2a.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611601",
+                "name": "Garden Special Pizza",
+                "description": "A close cousin of the gardne delight. Capsicum,Mushrooms,Onion, and Fresh Tomatoes. [Fat-18.8 per 10...",
+                "price": 306,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/cedbfecd-2906-4dcc-903c-cbf1b7cf50b9_bb0a8b49-56ac-4202-aedc-bcb31fa2b7a5.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611602",
+                "name": "Paneer Special Pizza",
+                "description": "Onion, Capsicum, Double Paneer, Red Paprika in Korma Dip",
+                "price": 306,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.6",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/cd506d69-fd0c-4b3a-90d5-3b9d06686c38_e791a5c0-aa9b-47bc-9f75-9126fac6f31d.png",
+                "hasVariants": true,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 8,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Classic Veg",
+            "categoryId": "34058844",
+            "items": [
+              {
+                "id": "114611591",
+                "name": "Margherita  Pizza",
+                "description": "A classic cheesy Margherita. Cant go wrong. [Fat-14.3 per 100 g, Protein-12.6 per 100 g, Carbohydrat...",
+                "price": 182,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "4.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/239e356f-df91-4ec4-9103-ae3cfe1e1d68_267019a7-9ed6-4e7e-9fdd-ad43a7d1c036.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611595",
+                "name": "Sweet Corns Delight",
+                "description": "A combination of juicy Sweet Corns & Cheese",
+                "price": 182,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/26/55b26b72-a07a-447a-b69a-e00c0d1d64e7_2c7308c7-96b8-4824-89f8-0a51a7e999c5.JPG",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611592",
+                "name": "Makhani Do Pyaza",
+                "description": "Makhani Gravy, Onion & Cheese",
+                "price": 182,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/2c1f9d65-b18c-47e1-ad4f-e5c1cd0c32a5_f71684ab-d703-4b70-b188-fb030a840ab0.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611594",
+                "name": "Onion Twist",
+                "description": "Twisted combination of Onion & Cheese",
+                "price": 182,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/ed7cafb9-091c-458b-b420-94f84eb46732_97bce1c0-1639-40a0-be65-a405c30f829a.png",
+                "hasVariants": true,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 4,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Simply Veg",
+            "categoryId": "34058845",
+            "items": [
+              {
+                "id": "114611596",
+                "name": "Double Cheese Margherita  Pizza",
+                "description": "Loaded with Extra Cheese",
+                "price": 227,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.5",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/4366abc3-8ea1-4b7b-b229-d2eeb55df40e_f630b191-e2a2-49a8-ba82-cea374f0e8ab.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611603",
+                "name": "Spring Fling Pizza",
+                "description": "Quintessentially veg with Paneer, Fresh Tomatoes, Capsicum, Sweet Corns. [Fat-12.1 per 100 g, Protei...",
+                "price": 227,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/c3b28f4f-a3f8-4d44-91e5-bd4885b75b2e_53dcdcb6-fc0b-47b0-8d8a-9d359d3589a6.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611598",
+                "name": "Lovers Bite Pizza",
+                "description": "A wholesome combination of tossed mushrooms, olives and juicy sweet corn. [Fat-9 per 100 g, Protein-...",
+                "price": 227,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.4",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/2317a2c3-7680-49b3-b793-5afa171c6657_1c79209b-4d98-4698-8ea0-d86395a003af.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611614",
+                "name": "Pesto & Basil Special Pizza",
+                "description": "Capsicum, Jalapenos, Paneer with Pesto & Basil Dip",
+                "price": 227,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/58dd246d-8c10-4474-8043-497871bca70d_ab07ab21-efa4-44f3-9601-3f6b03fd77bd.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611599",
+                "name": "Mac Special Pizza",
+                "description": "A special fusion Cheesy mac pizza with Onions,Sweet Corns and Mushrooms",
+                "price": 227,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/c51de558-05c0-481b-afc3-07d4902963cc_ecf511c0-2cb8-412e-ad1f-c075f7f961b4.png",
+                "hasVariants": true,
+                "hasAddons": true
+              },
+              {
+                "id": "114611605",
+                "name": "Veg Hawaiian Pizza",
+                "description": "Nothing says Hawaiian like pineapple, paneer, and sweet corn with extra cheese. [Fat-20.3 per 10 g, ...",
+                "price": 227,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/ed712de1-f113-4756-b73b-cd1a2e5e7df3_f814d36e-0e87-49a6-b579-6f6894825371.png",
+                "hasVariants": true,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 6,
+            "hasMoreItems": false
+          }
+        ],
+        "totalSubcategories": 4
+      },
+      {
+        "title": "Sides",
+        "categoryId": "34058841",
+        "subcategories": [
+          {
+            "title": "Garlic Sticks",
+            "categoryId": "48867797",
+            "items": [
+              {
+                "id": "147780264",
+                "name": "Cheezo Garlic Bread Stick",
+                "description": "A golden, crispy delight with rich melted cheese and a bold garlic flavor.",
+                "price": 155,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "4.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/81ebd28d-e97c-48b4-9d78-38d6c17d71d0_b0a84a6f-6e33-4424-aece-731c6e9c8484.png",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "114611657",
+                "name": "Paneer Tikka Stuffed Garlic Bread",
+                "description": "Paneer Tikka Butter Masala. [Fat-12.8 per 100 g, Protein-8.9 per 100 g, Carbohydrate-45.2 per 100 g,...",
+                "price": 195,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "4.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/7001106e-5fda-428a-8648-15460c6aa5de_27dbbba5-a6e8-44e6-9fc7-585b7de2bd76.JPG",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611655",
+                "name": "Sweet Corn Stuffed Garlic Bread",
+                "description": "Sweet corns, Jalapenos With Cheese. [Fat-16.2 per 100 g, Protein-10.9 per 100 g, Carbohydrate-65.4 p...",
+                "price": 184,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.3",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/af83e396-6086-42dc-bac3-8a886fcb7bd9_a148cdf9-84b4-44f7-b1f2-35b7dbb3fdff.jpg",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611654",
+                "name": "Garlic Bread Sticks",
+                "description": "Crunch your way through our cheesy garlic sticks. [Fat-11.3 per 100 g, Protein-7.6 per 100 g, Carboh...",
+                "price": 150,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/b1b3ea7d-019d-49f2-8f92-e52a3ab502c0_78894e4e-2312-4c41-9b36-8a63d671732b.png",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 4,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Pasta",
+            "categoryId": "34058851",
+            "items": [
+              {
+                "id": "114611658",
+                "name": "Americano White Sauce Pasta Veg",
+                "description": "A blend of American Flavours in your Favorite Pasta Onion, capsicum, sweet corn, mushroom, olives wi...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "3.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/c2exmldyjrtqgj7rqcap",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611660",
+                "name": "Italiano Pasta Veg",
+                "description": "An Italian classic with an india twist. Onion, capsicum, paneer, mushroom. [Fat-9.2 per 100 g, Prote...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/c73bb164-1950-4129-b66c-21dc76d86c57_1de7ab0e-ab61-483a-a1cb-b4b27bb2678f.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611659",
+                "name": "Indiana Pasta Veg",
+                "description": "A perfect blend of India flavours and pasta topped with Onion, capsicum, paneer, mushroom, red papri...",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/00ae8f5e-448a-482d-872b-825de8dca8d5_af950777-4161-4694-80d3-47405058a2c0.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611661",
+                "name": "Mexicana Red Sauce Pasta Veg",
+                "description": "Exotic red sauce with onion, capsicum, mushroom, olives and cheese. [Fat-10.1 per 100 g, Protein-12....",
+                "price": 199,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.6",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/28/7254d71e-8364-488e-87e2-d6b80e69adf7_4eecefae-6a73-4b06-9ee1-40ab2b600ba8.jpg",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 4,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Garlic Bread",
+            "categoryId": "48867796",
+            "items": [
+              {
+                "id": "114611651",
+                "name": "Cheesy Garlic Bread",
+                "description": "Garlic bread baked to perfection with cheese. [Fat-16 per 100 g, Protein-9.7 per 100 g, Carbohydrate...",
+                "price": 139,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.6",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/735783ca-e02c-46fc-9071-e4df186f123f_bae3b94c-14d5-4667-85fc-ca2b05090cb4.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611653",
+                "name": "Paneer Tikka Garlic Bread",
+                "description": "Cheesy garlic bread topped with Chunks of juicy paneer & red paprika. [Fat-18.4 per 100 g, Protein-1...",
+                "price": 169,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/7585d82e-ce36-4e32-8eb0-b677073c60df_0aff1726-728a-42a3-a64c-1d29b917e530.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611650",
+                "name": "Plain Garlic Bread",
+                "description": "The quintessential garlic bread side for your pizza. [Fat-12.4 per 100 g, Protein-7.8  per 100 g, Ca...",
+                "price": 119,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.6",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/7e2a39d8-a67b-43d3-960a-70422c979bc0_2778642c-a7a0-4e61-97fb-a7c4d99049ea.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611652",
+                "name": "Supreme Garlic Bread",
+                "description": "Super cheesy garlic bread topped with onions, jalapinos, sweet corn & olives. [Fat-9.6 per 100 g, Pr...",
+                "price": 159,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.5",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/15f90914-77bd-4aa5-ad7f-8fc051bc9ba8_e9e0f1b7-067f-491d-a197-5a0b674bb832.png",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 4,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Dip",
+            "categoryId": "48867798",
+            "items": [
+              {
+                "id": "114611585",
+                "name": "Cheesey Dip",
+                "description": "Creamy, savory delight, cheese dip enchants taste buds, a luscious blend for irresistible snacking i...",
+                "price": 30,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/kejvlymoc6nnbxuryas5",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "114611589",
+                "name": "Peri Peri Dip",
+                "description": "Zesty, fiery allure, peri peri dip sparks taste buds, delivering a tantalizing kick to every bite.",
+                "price": 30,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/hxpunoggbeephclolsdw",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "141599891",
+                "name": "Spicy 65 Dip",
+                "description": "Juicy combination of Indian flavour and the unique spice blend dip",
+                "price": 30,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "114611587",
+                "name": "Jalapeno Dip",
+                "description": "Spicy kick, creamy bliss, jalapeno dip elevates every snack",
+                "price": 30,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/dn3rb6lxtts39i1snjwh",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 4,
+            "hasMoreItems": false
+          },
+          {
+            "title": "Taco's",
+            "categoryId": "34058852",
+            "items": [
+              {
+                "id": "114611664",
+                "name": "Paneer Tikka Butter Masala & Red Paprika Taco's",
+                "description": "Truly Delicous! Taco Stuffed with Paneer Tikka Butter Masala & Red Paprika",
+                "price": 95,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.4",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/e98e274b-2436-46aa-ad0a-78c758a5ef83_6a90de69-73e2-4a68-9b49-21fb6ad43daa.png",
+                "hasVariants": true,
+                "hasAddons": false
+              },
+              {
+                "id": "141599890",
+                "name": "Paneer 65 & Onion Taco's",
+                "description": "A fusion that combines elements from Indian and Mexican cuisines, resulting in a flavorful and uniqu...",
+                "price": 95,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/b5504294-a1a2-409f-92be-4ff5a0c98b1e_97269e70-bc60-4ffc-add8-e8dba0737dc6.png",
+                "hasVariants": true,
+                "hasAddons": false
+              },
+              {
+                "id": "114611663",
+                "name": "Paneer & Corns Taco's",
+                "description": "Crispy Taco filled with Paneer & Corns & Creamy Sauce",
+                "price": 95,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/de6f0be6-cee0-4c96-b27b-446a8475adc2_9111b8f3-89d4-4637-8257-d9524f625b20.png",
+                "hasVariants": true,
+                "hasAddons": false
+              },
+              {
+                "id": "114611662",
+                "name": "Mushrooms, Corns & Onion Taco's",
+                "description": "Honestly Tempting! Crispy Taco Stuffed with Mushrooms, Corns, Onion & Creamy Sauce",
+                "price": 95,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/28/f45dee90-367a-4af9-aeae-ffc3609264bb_00a23587-5630-4372-8d8e-cd0a67cb9300.jpg",
+                "hasVariants": true,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 4,
+            "hasMoreItems": false
+          }
+        ],
+        "totalSubcategories": 9
+      },
+      {
+        "title": "Classic Pizzas For Classic Maniacs",
+        "categoryId": "34058842",
+        "subcategories": [
+          {
+            "title": "Classic Pizzas For Classic Maniacs",
+            "categoryId": "34058855",
+            "items": [
+              {
+                "id": "114611683",
+                "name": "Capsicum, Paneer & Red Paprika Pizza",
+                "description": "Flavorful trio of Juicy Paneer, Crisp Capsicum with Spicy Red Paprika. [Fat-10.2 per 100 g, Protein-...",
+                "price": 155,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "4.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/99938afe-32ca-4c6e-a8b2-8a163ece79b6_302b8399-d8cb-4d2b-bc72-06609bd0c6dd.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611681",
+                "name": "Onions & Paneer Pizza",
+                "description": "A delectable combination of freshly cooked onions & paneer with our in house sauce. [Fat-21.2 per 10...",
+                "price": 155,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "4.3",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/3882cef3-bd49-4a18-ac51-bdf6161df082_5b88c9f7-70c8-477e-bf51-961b2580d42a.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "175293084",
+                "name": "Cheese & Herb Pizza",
+                "description": "Delicious pizza topped with a blend of savory cheese and aromatic herbs, offering a flavorful and sa...",
+                "price": 89,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "3.8",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/2/17/087dc7d7-b66a-497d-8475-e3f0c9777be9_61a8bd4d-88c5-472f-9519-44b1dec9ad30.png",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "114611684",
+                "name": "Jalapenos, Sweet Corns & Paneer Pizza",
+                "description": "Appetizing Combination of Juicy Paneer, Sweet Corn and Jalapeno in our in House Sauce. [Fat-9.8 per ...",
+                "price": 165,
+                "inStock": 1,
+                "isVeg": true,
+                "isBestseller": true,
+                "rating": "4.5",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/02b13e2c-4722-4e20-a7ea-44b2368d19a6_28a7ad2a-ff02-4d47-8646-cb92deca9947.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611669",
+                "name": "Tomatoes Pizza",
+                "description": "Thinly cut fresh tomatoes on a cheesy base with in house sauce. [Fat-6.9 per 100 g, Protein-5.1 per ...",
+                "price": 95,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/beb8a6d7-def6-4f6a-b14a-53a9c952b6b4_621dca3e-2eca-46ef-8c2e-6cc4d84cdf92.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611672",
+                "name": "Sweet Corns Pizza",
+                "description": "Sweet and juicy golden corn with our in house sauce. [Fat-5 per 100 g, Protein-10.1 per 100 g, Carbo...",
+                "price": 125,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.2",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/2f32bc50-0ec4-40be-90cc-a278fe0ea89f_fac2ba0f-2fe6-4fff-abe0-777cca1098bb.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611670",
+                "name": "Onions Pizza",
+                "description": "Onions on a cheesy base with in house sauce. [Fat-7 per 100 g, Protein-12.2 per 100 g, Carbohydrate-...",
+                "price": 115,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/781a4142-8892-4b27-a201-434603f0d280_054e328f-f94c-44af-bfcb-4b50eaaec2dd.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611682",
+                "name": "Jalapenos & Olives Pizza",
+                "description": "Remarkable Blend of Jalapenos and Black Olives. [Fat-8.6 per 100 g, Protein-8.7 per 100 g, Carbohydr...",
+                "price": 155,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/444ba0b1-fbc3-44e2-9f5e-8d210c3e2428_33553226-9e66-4c14-bec5-4e7eeda33e0c.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611673",
+                "name": "Onions & Capsicum Pizza",
+                "description": "A delectable combination of freshly cooked onions & capsicum with our in house sauce. [Fat-5.7 per 1...",
+                "price": 149,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.6",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/e4f3f605-9fc6-4e56-aef6-b0e2bcc82551_9f2673cb-742e-4159-854c-c436a8123a5f.png",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611680",
+                "name": "Capsicum & Paneer Pizza",
+                "description": "A delectable combination of freshly cooked capsicum & paneer with our in house sauce. [Fat-7.6 per 1...",
+                "price": 155,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/9a60590e-ac88-4c48-ba23-3f38475972d7_a435941d-9dc4-43ba-a27c-5af1f7a6aa5b.png",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 12,
+            "hasMoreItems": true
+          },
+          {
+            "title": "Classic Pizzas Pack Of 4",
+            "categoryId": "48867793",
+            "items": [
+              {
+                "id": "114611576",
+                "name": "Premium Veg Pack 4",
+                "description": "Onions & Capsicum | Capsicum & Paneer | Onions & Paneer | Jalapenos & Olives",
+                "price": 549,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "1.9",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/28/972c919d-19ab-43d9-ba7c-96f4769ecd75_0e250fb7-ce48-4dfa-882d-40c7f72aa962.jpg",
+                "hasVariants": false,
+                "hasAddons": false
+              },
+              {
+                "id": "114611575",
+                "name": "Single Veg Pack Of 4",
+                "description": "Onions Pizza + Tomatoes Pizza + Caspsicum Pizza + Sweet Corn Pizza",
+                "price": 409,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "5.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/4/27/0ff7dbc6-2d8b-4f32-b1b4-891961b6fd2c_c73ed6b6-9666-4d4d-835e-55dfb05ec6dd.png",
+                "hasVariants": false,
+                "hasAddons": false
+              }
+            ],
+            "totalItems": 2,
+            "hasMoreItems": false
+          }
+        ],
+        "totalSubcategories": 2
+      },
+      {
+        "title": "DOTD",
+        "categoryId": "46178026",
+        "items": [
+          {
+            "id": "153717028",
+            "name": "Sweet Corn Pizza Regular",
+            "description": "Experience A Delightful Burst Of Flavor With Our Sweet Corn Pizza!",
+            "price": 125,
+            "inStock": 1,
+            "isVeg": true,
+            "isBestseller": true,
+            "rating": "3.9",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/25/449c9ce6-b3f2-4cd6-b25a-0d4590a18b0c_1c347937-0e67-4f6f-97d8-c08affeeb451.JPG",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "153717027",
+            "name": "Onions Pizza Regular",
+            "description": "Savor The Simplicity And Flavor Of Our Onion Pizza! Crafted On A Perfectly Baked Crust,",
+            "price": 115,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/23/9661e324-71aa-418b-955f-242feaf8028f_f07ea5cb-3c30-4f80-9a1f-3c3c6579e393.jpg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "135629840",
+            "name": "Double Cheese Margherita Pizza Regular",
+            "description": "Loaded with extra cheese",
+            "price": 207,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "3.4",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/15/6e6fb044-1205-4d4f-b4c8-c20d5881be30_80c3c0d8-325b-4b46-bd7c-0fc6c58f5a8f.JPG",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "153717022",
+            "name": "Capsicum Pizza Regular",
+            "description": "Fresh And Crispy Capsicum Cooked To Perfection.",
+            "price": 125,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.4",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/24/4b23ad96-8426-4840-9f42-4ae1ab2b6c90_05adef9c-e8b3-4f4f-9182-99ec90e3ec51.JPG",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "135629862",
+            "name": "Tandoori Special Pizza Regular",
+            "description": "Capsicum, Sweet Corn, Red Paprika, Double Paneer With Korma Dip",
+            "price": 308,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.7",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/5bee918fe4bb11fca0ef97f15a2612af",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "135629839",
+            "name": "Cheezy-7 Pizza Regular",
+            "description": "An Exotic Combination of White Mozzarilla, Cream White Cheese, Cheddar, Monterey Jack, Cream Orange ...",
+            "price": 308,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.6",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/cc3b3489-da35-42b9-920c-e29554db7694_183fd39e-96ed-4884-be6d-36cf41519c64.JPG",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "135629856",
+            "name": "Pesto & Basil Special Pizza Regular",
+            "description": "Capsicum, Jalapenos, Paneer with Pesto & Basil Dip",
+            "price": 308,
+            "inStock": 1,
+            "isVeg": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2024/9/4/b9b47d70-f95b-4415-bae4-7ed8d4b8169e_3be9d068-4bc8-4570-90e2-00d12cfe8e2b.jpg",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "135629848",
+            "name": "La Pino'z Paneer Pizza Regular",
+            "description": "A La Pinoz special. Onion, Capsicum, Paneer, Sweet Corn & Olives With Cheese Dip. [Fat-8.4 per 100 g...",
+            "price": 308,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.0",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/23/68881f8f-70cc-4aeb-b1f5-c5fd1c0f43c0_72389da5-952e-4b97-8dd8-7f04bae78553.JPG",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "135629837",
+            "name": "Cheese Lovers Pizza Regular",
+            "description": "Onion, Capsicum, Paneer, Baby Corn, Mushroom, with Cheese Dip and Jalepenos Dip",
+            "price": 308,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.8",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/23/f73b6fef-34bf-4aae-adad-002cc9c20f91_cb04c35a-035f-446d-a533-0457340adf35.JPG",
+            "hasVariants": false,
+            "hasAddons": true
+          },
+          {
+            "id": "135629836",
+            "name": "Burn To Hell Pizza Regular",
+            "description": "A fiery and lethal combination of hot & garlic dip, jalapenos, mushrooms, olives and capsicum. [Fat-...",
+            "price": 286,
+            "inStock": 1,
+            "isVeg": true,
+            "rating": "4.3",
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2026/2/23/d011da77-2f0a-43db-9dec-a39594491049_0eee3050-51d7-4fe6-8875-f491e3d56a20.JPG",
+            "hasVariants": false,
+            "hasAddons": true
+          }
+        ],
+        "totalItems": 32,
+        "hasMoreItems": true
+      },
+      {
+        "title": "Personal Pizza Slice",
+        "categoryId": "48867792",
+        "subcategories": [
+          {
+            "title": "Personal Slice Veg Pizza",
+            "categoryId": "48867801",
+            "items": [
+              {
+                "id": "114611536",
+                "name": "Margherita Pizza (personal Giant Slice (22.5 Cm))",
+                "description": "A classic cheesy Margherita. Cant go wrong. [Fat-14.3 per 100 g, Protein-12.6 per 100 g, Carbohydrat...",
+                "price": 154,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.7",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/4a1db7bf-c67f-423c-96b4-5fbe40511371_08034486-45ae-4561-946f-976d3f8df81b.JPG",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611555",
+                "name": "Cheezy-7 Pizza (personal Giant Slice (22.5 Cm))",
+                "description": "An Exotic Combination of White Mozzarilla, Cream White Cheese, Cheddar, Monterey Jack, Cream Orange ...",
+                "price": 306,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.2",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/bcf3b5a5-206b-4b71-9d9e-6d5f4667fcce_13826041-35c5-4b49-a22e-a566767f41a5.JPG",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611537",
+                "name": "Makhani Do Pyaza (personal Giant Slice (22.5 Cm))",
+                "description": "Makhani Gravy, Onion & Cheese",
+                "price": 154,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.3",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/2c43856e-0bee-4988-937f-d2271cc1dc33_86867d77-41fc-4ef8-8918-614428432096.JPG",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611554",
+                "name": "Burn To Hell Pizza (personal Giant Slice (22.5 Cm))",
+                "description": "A fiery and lethal combination of hot & garlic dip, jalapenos, mushrooms, olives and capsicum. [Fat-...",
+                "price": 283,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.6",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/c53ee0f9-65ba-44d4-afe2-a955135f2919_396b1bce-893f-4dfb-b9e6-bae0288bdd56.JPG",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611557",
+                "name": "Paneer Tikka Butter Masala Pizza (personal Giant Slice (22.5 Cm))",
+                "description": "An indian Speciality on a La Pinoz Pizza. Exotic Paneer Tikka, Onion, Capsicum & Red Paprika. [Fat-1...",
+                "price": 283,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.1",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/7b0128bd-cdae-4990-abb1-cbbe49cb2574_29938a33-622f-4694-9342-8f4c70d73954.JPG",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611562",
+                "name": "English Retreat Pizza (personal Giant Slice (22.5 Cm))",
+                "description": "Olives,Red Paprika, Tomatoes, Paneer, Capsicum, Cheese, Jalapeno Dip. An English special. [Fat-11.9 ...",
+                "price": 306,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/c647d919-0643-4839-b9c8-2e1fcf0232c9_06189bab-2c29-4925-9ad5-dcb41596db4b.JPG",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611549",
+                "name": "Sweet Heat Pizza (personal Giant Slice (22.5 Cm))",
+                "description": "Jalapenos , Pineapple , Sweet corns and Red paprika",
+                "price": 283,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/6/c6ad9b71-fda2-4a57-b245-c472bca46a29_da37c53b-f1fe-428e-a4b6-760bc7e0b3f9.JPG",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611548",
+                "name": "Spring Fling Pizza (personal Giant Slice (22.5 Cm))",
+                "description": "Quintessentially veg with Paneer, Fresh Tomatoes, Capsicum, Sweet Corns. [Fat-12.1 per 100 g, Protei...",
+                "price": 216,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/b6db7c5a-b9e1-4fea-a288-c6f1848d8f32_1aed90be-a855-4d4f-8787-8d7b8dc4a57c.JPG",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611570",
+                "name": "Peri Peri Veg Pizza (personal Giant Slice (22.5 Cm))",
+                "description": "Milder, but just as tasty. Onion, Capsicum, Mushroom, Paneer, Olives With Peri Peri Dip. [Fat-6.1 pe...",
+                "price": 306,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "4.0",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/d5058da6-92cc-458b-8d55-a927f70effc4_71e3b705-4114-440f-9408-a1cb10076285.JPG",
+                "hasVariants": false,
+                "hasAddons": true
+              },
+              {
+                "id": "114611545",
+                "name": "Farm Villa Pizza Personal Giant Slice (22.5 Cm)",
+                "description": "The freshness of capsicum, tomatoes, with the flavour of paneer and red paprika topped with Korma di...",
+                "price": 283,
+                "inStock": 1,
+                "isVeg": true,
+                "rating": "3.3",
+                "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/FOOD_CATALOG/IMAGES/CMS/2025/5/8/59dc6657-17f6-41b0-9439-1672e34de1c9_0c2ffd0a-5b1a-4051-8738-664a4abc36c8.JPG",
+                "hasVariants": false,
+                "hasAddons": true
+              }
+            ],
+            "totalItems": 37,
+            "hasMoreItems": true
+          }
+        ],
+        "totalSubcategories": 1
+      }
+    ],
+    "totalCategories": 12,
+    "page": 1,
+    "pageSize": 8,
+    "hasMore": true
+  },
+  "message": "Menu for La Pino'z Pizza: Showing page 1 (8 of 12 categories). Use page=2 to see more."
+}

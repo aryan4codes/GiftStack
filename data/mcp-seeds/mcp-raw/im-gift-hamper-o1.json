@@ -1,0 +1,1083 @@
+{
+  "success": true,
+  "data": {
+    "nextOffset": "2",
+    "products": [
+      {
+        "displayName": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+        "brand": "Eat Better Co",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "NJMI93ZD3Y",
+            "quantityDescription": "1 pack",
+            "displayName": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+            "brandName": "Eat Better Co",
+            "price": {
+              "mrp": 879,
+              "offerPrice": 533
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/12/17/5138ac6a-b021-4c22-acb5-9c9fbeb64e65_NJMI93ZD3Y_MN_17122025.png"
+          }
+        ],
+        "productId": "IWQT2SW9DC",
+        "parentProductId": "TGHVWGY43M",
+        "isPromoted": false
+      },
+      {
+        "displayName": "OPEN SECRET Assorted Cookies Celebration Gift Zero Maida Healthy Snacks",
+        "brand": "OPEN SECRET",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "3ZDTD3DRA2",
+            "quantityDescription": "150 g",
+            "displayName": "OPEN SECRET Assorted Cookies Celebration Gift Zero Maida Healthy Snacks",
+            "brandName": "OPEN SECRET",
+            "price": {
+              "mrp": 350,
+              "offerPrice": 287
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/16/e02ccb5f-04d2-488d-a1e6-3d4ae212bcfe_1_MN_a7ab2fc4-bc27-4e74-8b2a-c7761cda4062.jpg"
+          }
+        ],
+        "productId": "VMX1OQLKAT",
+        "parentProductId": "7B61485JOV",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Ferrero Rocher Gift",
+        "brand": "Ferrero Rocher",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "LLE7JJXCC5",
+            "quantityDescription": "50 g",
+            "displayName": "Ferrero Rocher Gift",
+            "brandName": "Ferrero Rocher",
+            "price": {
+              "mrp": 169,
+              "offerPrice": 169
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/9f6a333f-7cc3-4b49-86a4-685137ecdf21_1981_1.png"
+          }
+        ],
+        "productId": "9Q9K1GS2ZZ",
+        "parentProductId": "MTBU438MDW",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Open Secret Chocolates, Brownie , Cookies, Flavored Nuts, Gift Hamper | 5 Delightful Healthy Snacks",
+        "brand": "OPEN SECRET",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "F5ONQRT9NN",
+            "quantityDescription": "121 g",
+            "displayName": "Open Secret Chocolates, Brownie , Cookies, Flavored Nuts, Gift Hamper | 5 Delightful Healthy Snacks",
+            "brandName": "OPEN SECRET",
+            "price": {
+              "mrp": 350,
+              "offerPrice": 294
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/23/70f962d1-47f5-4d63-b854-4c68363df613_91455_1.png"
+          }
+        ],
+        "productId": "WK2XGGVEDE",
+        "parentProductId": "FV86EMB1GR",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Nestle KitKat 2F Mini Valentine Gift Box, 15 Pieces",
+        "brand": "Kitkat",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "XOPB4UZ6LN",
+            "quantityDescription": "181.5 g",
+            "displayName": "Nestle KitKat 2F Mini Valentine Gift Box, 15 Pieces",
+            "brandName": "Kitkat",
+            "price": {
+              "mrp": 200,
+              "offerPrice": 149
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/2/6a2a1db6-a193-420e-b157-52e0af0f8bd0_167189_1.png"
+          }
+        ],
+        "productId": "I70BHELEAT",
+        "parentProductId": "NC4C5121H4",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Unibic Swaadesi Assorted Baklava",
+        "brand": "Unibic",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "M3RQLJ9J7K",
+            "quantityDescription": "200 g",
+            "displayName": "Unibic Swaadesi Assorted Baklava",
+            "brandName": "Unibic",
+            "price": {
+              "mrp": 599,
+              "offerPrice": 353
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/ddccb351-cd46-4b69-a2cd-48729518336a_M3RQLJ9J7K_MN_11022026.png"
+          }
+        ],
+        "productId": "WU9Z9HQR0N",
+        "parentProductId": "O9B9Z2M578",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Kimirica Love Story Experience Set",
+        "brand": "Kimirica",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "LCHIOHTCPK",
+            "quantityDescription": "1 pack",
+            "displayName": "Kimirica Love Story Experience Set",
+            "brandName": "Kimirica",
+            "price": {
+              "mrp": 1349,
+              "offerPrice": 1120
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/e2588906-5898-4d6c-bab2-400e46db4048_LCHIOHTCPK_MN_11022026.png"
+          }
+        ],
+        "productId": "LA2OVU0P07",
+        "parentProductId": "EHWC9Y647H",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+        "brand": "Eat Better Co",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "NJMI93ZD3Y",
+            "quantityDescription": "1 pack",
+            "displayName": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+            "brandName": "Eat Better Co",
+            "price": {
+              "mrp": 879,
+              "offerPrice": 533
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/12/17/5138ac6a-b021-4c22-acb5-9c9fbeb64e65_NJMI93ZD3Y_MN_17122025.png"
+          }
+        ],
+        "productId": "IWQT2SW9DC",
+        "parentProductId": "TGHVWGY43M",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Hershey's Kisses Milk Chocolate",
+        "brand": "Hershey's",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "BZOPA3IT9C",
+            "quantityDescription": "36 g",
+            "displayName": "Hershey's Kisses Milk Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 53,
+              "offerPrice": 51
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/1ffca784-5096-4794-9c9a-6aab53fff863_BZOPA3IT9C_MN_18022026.png"
+          },
+          {
+            "spinId": "J426OSEBEQ",
+            "quantityDescription": "36 g x 4",
+            "displayName": "Hershey's Kisses Milk Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 212,
+              "offerPrice": 204
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/4/11/0867a2d7-7276-473c-83d4-68e804b4dbdb_644097_1.png"
+          }
+        ],
+        "productId": "CUEFU3FPAP",
+        "parentProductId": "70A7F03Q86",
+        "isPromoted": false
+      },
+      {
+        "displayName": "ENN Beauty Endless Love Gift Set Clay Mask Lipstick Nail Paint Tint Perfume",
+        "brand": "ENN Beauty",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "GT39HYI5OI",
+            "quantityDescription": "5 pieces",
+            "displayName": "ENN Beauty Endless Love Gift Set Clay Mask Lipstick Nail Paint Tint Perfume",
+            "brandName": "ENN Beauty",
+            "price": {
+              "mrp": 549,
+              "offerPrice": 506
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/5/5a073d0b-625b-46af-8881-08c7ae1bfc72_614775_1.png"
+          }
+        ],
+        "productId": "HQIFTYB28X",
+        "parentProductId": "V426YBG68O",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Dabur Gulabari Premium Rose Water (Paraben Free Skin Toner )",
+        "brand": "Dabur",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "F3NB03QOUL",
+            "quantityDescription": "400 ml",
+            "displayName": "Dabur Gulabari Premium Rose Water (Paraben Free Skin Toner )",
+            "brandName": "Dabur",
+            "price": {
+              "mrp": 135,
+              "offerPrice": 108
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/1700b19f-c73b-4740-a5b0-3a857f2dcb79_F3NB03QOUL_MN_18022026.png"
+          }
+        ],
+        "productId": "DRZAHBB2TW",
+        "parentProductId": "N0LEFUFOEO",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Fabelle Ganache Creamy Milk, Luxury Chocolates Gift Box",
+        "brand": "Fabelle",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "4GLQFUUJW1",
+            "quantityDescription": "124 g",
+            "displayName": "Fabelle Ganache Creamy Milk, Luxury Chocolates Gift Box",
+            "brandName": "Fabelle",
+            "price": {
+              "mrp": 1108,
+              "offerPrice": 1075
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/21/76a1247a-ce80-4324-9dd9-7098c5a94c6d_572245_1_MN_7a572444-aebf-42cb-b126-d76401edc18a.jpg"
+          }
+        ],
+        "productId": "Z1FPSJH037",
+        "parentProductId": "ER1172N9S0",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Ferrero Rocher Moments Gift Pack (32 Pieces)",
+        "brand": "Ferrero Rocher",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "CV0XBMTZTT",
+            "quantityDescription": "185.6 g",
+            "displayName": "Ferrero Rocher Moments Gift Pack (32 Pieces)",
+            "brandName": "Ferrero Rocher",
+            "price": {
+              "mrp": 539,
+              "offerPrice": 474
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/21/93206f73-18b3-4f17-bae5-5a2b7759a390_40845_1.png"
+          }
+        ],
+        "productId": "5FJKZJC5NF",
+        "parentProductId": "YIZFF1JPS5",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Sunfeast Fantastik! Choco Delights Assorted Chocolate Gift Pack",
+        "brand": "Sunfeast",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "JV7PYVFZ2K",
+            "quantityDescription": "136 g",
+            "displayName": "Sunfeast Fantastik! Choco Delights Assorted Chocolate Gift Pack",
+            "brandName": "Sunfeast",
+            "price": {
+              "mrp": 299,
+              "offerPrice": 299
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/d15a77ee-c980-405f-9249-b055829d2c5d_JV7PYVFZ2K_MN_18022026.png"
+          }
+        ],
+        "productId": "H5BLCRHV3X",
+        "parentProductId": "6OYKNGL8BQ",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Ferrero Rocher Gift Pack (8 Pieces)",
+        "brand": "Ferrero Rocher",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "QA56PSU6WO",
+            "quantityDescription": "100 g",
+            "displayName": "Ferrero Rocher Gift Pack (8 Pieces)",
+            "brandName": "Ferrero Rocher",
+            "price": {
+              "mrp": 319,
+              "offerPrice": 291
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/17/cbc8bed4-2e34-4fb2-a6e3-10369dbe77f4_40843_1.png"
+          }
+        ],
+        "productId": "FFP79Y4VL1",
+        "parentProductId": "FEZHVMY82V",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Fabelle Gianduja Trilogy - Assorted Hazelnut Infused",
+        "brand": "Fabelle",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "NA9FDHFI5B",
+            "quantityDescription": "144 g",
+            "displayName": "Fabelle Gianduja Trilogy - Assorted Hazelnut Infused",
+            "brandName": "Fabelle",
+            "price": {
+              "mrp": 1375,
+              "offerPrice": 1292
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/192911ff-f87b-4de9-acc7-ab8ac6cafd7e_697797_1.png"
+          }
+        ],
+        "productId": "CQJHQHHTGJ",
+        "parentProductId": "VDGPCPZP3S",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Kimirica Love Story Moment Gift Set",
+        "brand": "Kimirica",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "T4MYFT53P5",
+            "quantityDescription": "800 g",
+            "displayName": "Kimirica Love Story Moment Gift Set",
+            "brandName": "Kimirica",
+            "price": {
+              "mrp": 1899,
+              "offerPrice": 1557
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/d3b81476-b518-4094-83c7-42fec0503cd9_T4MYFT53P5_MN_11022026.png"
+          }
+        ],
+        "productId": "3XFWHKDJO1",
+        "parentProductId": "IJLJJS721U",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Ras Luxury Skincare Brightening Indulgence gift set",
+        "brand": "Ras Luxury Skincare",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "1SYLOFN9VE",
+            "quantityDescription": "1 pack",
+            "displayName": "Ras Luxury Skincare Brightening Indulgence gift set",
+            "brandName": "Ras Luxury Skincare",
+            "price": {
+              "mrp": 1490,
+              "offerPrice": 998
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/8/8/caf066af-c9d9-4589-a81d-bf3fc7d51ab1_851099_1.png"
+          }
+        ],
+        "productId": "1JQ7EMB1VA",
+        "parentProductId": "NK7TMBE7CY",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+        "brand": "Cadbury",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "1BJTWDIU3O",
+            "quantityDescription": "70 g",
+            "displayName": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 107,
+              "offerPrice": 95
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/6c260d1f-f3a0-412a-85af-fa0aa25ba79a_549734_1.png"
+          },
+          {
+            "spinId": "07NCQQ789Z",
+            "quantityDescription": "70 g x 2",
+            "displayName": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 214,
+              "offerPrice": 190
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/9/93420e3c-e7b4-4830-9e6b-938fecf40aa7_549734_1.png"
+          }
+        ],
+        "productId": "CLUCZ05Y5Q",
+        "parentProductId": "9RE17YMMO6",
+        "isPromoted": false
+      },
+      {
+        "displayName": "ENN Beauty Mousse Liquid Lipstick(Test & Trail Pack )",
+        "brand": "ENN Beauty",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "59J7H2LJAI",
+            "quantityDescription": "12 ml",
+            "displayName": "ENN Beauty Mousse Liquid Lipstick(Test & Trail Pack )",
+            "brandName": "ENN Beauty",
+            "price": {
+              "mrp": 849,
+              "offerPrice": 849
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/15ac947d-d8e0-4a09-8684-26c6e8190e54_59J7H2LJAI_MN_18022026.png"
+          }
+        ],
+        "productId": "MBLQKPJ5U3",
+        "parentProductId": "5L3GFBDZ3Q",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Plum Bright Beginnings Kit",
+        "brand": "Plum",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "0F7YH65GRU",
+            "quantityDescription": "110 g",
+            "displayName": "Plum Bright Beginnings Kit",
+            "brandName": "Plum",
+            "price": {
+              "mrp": 947,
+              "offerPrice": 739
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/10/29/92bb9e6f-d249-4d7c-9cf0-0499f7b15385_NPI-052570_1_20251029_115758.png"
+          }
+        ],
+        "productId": "BAVEUSB61L",
+        "parentProductId": "MAMZMN1ZXZ",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Ras Luxury Skincare Oudh & Rose Body Ritual Gift Set",
+        "brand": "Ras Luxury Skincare",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "Y5LK0FTLP5",
+            "quantityDescription": "1 pack",
+            "displayName": "Ras Luxury Skincare Oudh & Rose Body Ritual Gift Set",
+            "brandName": "Ras Luxury Skincare",
+            "price": {
+              "mrp": 1590,
+              "offerPrice": 1002
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/8/8/a31132e3-c2c4-4884-8ad9-b3050b361470_186953_1.png"
+          }
+        ],
+        "productId": "B8R4Y0GPC9",
+        "parentProductId": "XZ5SK2GVTG",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Kimirica The Gulistan Indulgence Set",
+        "brand": "Kimirica",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "F1MWHM3VO0",
+            "quantityDescription": "1 pack",
+            "displayName": "Kimirica The Gulistan Indulgence Set",
+            "brandName": "Kimirica",
+            "price": {
+              "mrp": 1699,
+              "offerPrice": 1410
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/5b7d22fc-3a66-4e50-ae66-3cce212b25fd_F1MWHM3VO0_MN_11022026.png"
+          }
+        ],
+        "productId": "T366SXI948",
+        "parentProductId": "IEXQI43FFG",
+        "isPromoted": false
+      },
+      {
+        "displayName": "ENN Beauty Love Luxe Valentine Gift (Set of 4)",
+        "brand": "ENN Beauty",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "K4B3A48JCG",
+            "quantityDescription": "1 pack",
+            "displayName": "ENN Beauty Love Luxe Valentine Gift (Set of 4)",
+            "brandName": "ENN Beauty",
+            "price": {
+              "mrp": 1499,
+              "offerPrice": 1078
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/8/a6e2f3f1-09df-427b-b829-8472115f206b_899275_1.png"
+          }
+        ],
+        "productId": "NY2W7KQD43",
+        "parentProductId": "J2RRQ751J5",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Park Avenue Good Morning Grooming Kit",
+        "brand": "Park Avenue",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "VBD6JAQG6Y",
+            "quantityDescription": "1 pack",
+            "displayName": "Park Avenue Good Morning Grooming Kit",
+            "brandName": "Park Avenue",
+            "price": {
+              "mrp": 799,
+              "offerPrice": 519
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/53075c16-4e3e-46da-9dc1-d61a6cdcd30e_VBD6JAQG6Y_MN_18022026.png"
+          }
+        ],
+        "productId": "BJ34JQ08SD",
+        "parentProductId": "VBFO14OTL9",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Snickers Gift Pack | 8 Bars | Peanut , Butterscotch, BerryWhip & Peanut Brownie",
+        "brand": "Snickers",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "Y5JX53RH00",
+            "quantityDescription": "172 g x 3",
+            "displayName": "Snickers Gift Pack | 8 Bars | Peanut , Butterscotch, BerryWhip & Peanut Brownie",
+            "brandName": "Snickers",
+            "price": {
+              "mrp": 990,
+              "offerPrice": 939
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/f33e1f73-ee3b-48fe-9e65-fb3af01a17c1_J7G7HAUADB_MN_18022026.png"
+          },
+          {
+            "spinId": "LFZPGIDDNM",
+            "quantityDescription": "172 g x 2",
+            "displayName": "Snickers Gift Pack | 8 Bars | Peanut , Butterscotch, BerryWhip & Peanut Brownie",
+            "brandName": "Snickers",
+            "price": {
+              "mrp": 660,
+              "offerPrice": 626
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/f33e1f73-ee3b-48fe-9e65-fb3af01a17c1_J7G7HAUADB_MN_18022026.png"
+          },
+          {
+            "spinId": "J7G7HAUADB",
+            "quantityDescription": "172 g",
+            "displayName": "Snickers Gift Pack | 8 Bars | Peanut , Butterscotch, BerryWhip & Peanut Brownie",
+            "brandName": "Snickers",
+            "price": {
+              "mrp": 330,
+              "offerPrice": 313
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/f33e1f73-ee3b-48fe-9e65-fb3af01a17c1_J7G7HAUADB_MN_18022026.png"
+          }
+        ],
+        "productId": "BGGQR7AJHR",
+        "parentProductId": "NHHGWPOOSS",
+        "isPromoted": true
+      },
+      {
+        "displayName": "The Body Shop Trio Shower Gel",
+        "brand": "The Body Shop",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "RIWRZ19WAL",
+            "quantityDescription": "750 ml",
+            "displayName": "The Body Shop Trio Shower Gel",
+            "brandName": "The Body Shop",
+            "price": {
+              "mrp": 1610,
+              "offerPrice": 1368
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/0e072041-205a-418f-b22f-81aa17d88d92_RIWRZ19WAL_MN_18022026.png"
+          }
+        ],
+        "productId": "K2QNQGGTOS",
+        "parentProductId": "BKF6BVH23N",
+        "isPromoted": false
+      },
+      {
+        "displayName": "ENN Beauty Extra sheen Hydrating lip Gloss With Ghee Color Changing Lip Gloss Kit",
+        "brand": "ENN Beauty",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "5ZSQSKTVBG",
+            "quantityDescription": "6 ml",
+            "displayName": "ENN Beauty Extra sheen Hydrating lip Gloss With Ghee Color Changing Lip Gloss Kit",
+            "brandName": "ENN Beauty",
+            "price": {
+              "mrp": 599,
+              "offerPrice": 599
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/77dc84f3-20c6-408e-9dc8-806784b89cb8_5ZSQSKTVBG_MN_18022026.png"
+          }
+        ],
+        "productId": "6VM8NSC0J8",
+        "parentProductId": "445RLTE609",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Hershey's Kisses Choco Truffle",
+        "brand": "Hershey's",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "ZZS0VU95U9",
+            "quantityDescription": "45 g",
+            "displayName": "Hershey's Kisses Choco Truffle",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 88,
+              "offerPrice": 84
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/88cff2ca-dc1d-4574-8991-ea016a462a4f_ZZS0VU95U9_MN_18022026.png"
+          },
+          {
+            "spinId": "Q0B1TM0EC5",
+            "quantityDescription": "45 g x 3",
+            "displayName": "Hershey's Kisses Choco Truffle",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 264,
+              "offerPrice": 252
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/23/f380a82f-9931-4dae-97c6-f9bbb397c7e6_371435_1.png"
+          }
+        ],
+        "productId": "EXLY5WZSAW",
+        "parentProductId": "21E0FEH26M",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Fabelle Kunafa Milk chocolate- Crispy Kunafa  and Rich Pistachio Crème",
+        "brand": "Fabelle",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "F3PPM3MLE5",
+            "quantityDescription": "128 g",
+            "displayName": "Fabelle Kunafa Milk chocolate- Crispy Kunafa  and Rich Pistachio Crème",
+            "brandName": "Fabelle",
+            "price": {
+              "mrp": 845,
+              "offerPrice": 551
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/21/44fc0575-5d97-4c91-9f15-35a903476df7_848913_1_MN_398c3fc6-e2c9-4fda-9b9a-a8f3246e1508.jpg"
+          }
+        ],
+        "productId": "9D2U54J8G1",
+        "parentProductId": "U11U30DNXW",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Munch Choco Coated Wafer Bar",
+        "brand": "Munch",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "CGNY4F9J08",
+            "quantityDescription": "158.4 g x 2",
+            "displayName": "Munch Choco Coated Wafer Bar",
+            "brandName": "Nestle",
+            "price": {
+              "mrp": 200,
+              "offerPrice": 180
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/61ee4aae-6375-4dc3-9c8e-9baacc6ffead_1710_1.png"
+          },
+          {
+            "spinId": "YBSXTIEIY1",
+            "quantityDescription": "158.4 g",
+            "displayName": "Munch Choco Coated Wafer Bar",
+            "brandName": "Munch",
+            "price": {
+              "mrp": 100,
+              "offerPrice": 100
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/23/b3c03569-4619-4bee-ae0f-01c7c807af76_YBSXTIEIY1_1_1ef20653-fb57-4c27-9e6c-d68d506b7533.png"
+          },
+          {
+            "spinId": "4BA5GC7KEI",
+            "quantityDescription": "158.4 g x 3",
+            "displayName": "Munch Choco Coated Wafer Bar",
+            "brandName": "Munch",
+            "price": {
+              "mrp": 300,
+              "offerPrice": 246
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/61ee4aae-6375-4dc3-9c8e-9baacc6ffead_1710_1.png"
+          }
+        ],
+        "productId": "O5SZDUY0NL",
+        "parentProductId": "QZIQ5W1VQA",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Lindt Lindor Assorted Gift Box",
+        "brand": "Lindt",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "HKCF77SLQR",
+            "quantityDescription": "200 g",
+            "displayName": "Lindt Lindor Assorted Gift Box",
+            "brandName": "Lindt",
+            "price": {
+              "mrp": 1299,
+              "offerPrice": 899
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/ab7c299f-0a72-4e98-8a62-75793819def0_HKCF77SLQR_MN_18022026.png"
+          }
+        ],
+        "productId": "LIHYCC98RP",
+        "parentProductId": "BP4H7JJDIT",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Engage Gift Moments Luxury Perfume Gift Set for Women, Long Lasting Fragrance",
+        "brand": "Engage",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "XSU4MYBQ6X",
+            "quantityDescription": "100 ml",
+            "displayName": "Engage Gift Moments Luxury Perfume Gift Set for Women, Long Lasting Fragrance",
+            "brandName": "Engage",
+            "price": {
+              "mrp": 649,
+              "offerPrice": 324
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/10/37367b63-b6fa-4723-b95d-d540b8bf74d9_67940_1.png"
+          }
+        ],
+        "productId": "3YPE5UKNI1",
+        "parentProductId": "Y9OQ51DT3H",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Lindt Lindor Assorted Gift Box",
+        "brand": "Lindt",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "L45NMVSQXD",
+            "quantityDescription": "75 g",
+            "displayName": "Lindt Lindor Assorted Gift Box",
+            "brandName": "Lindt",
+            "price": {
+              "mrp": 475,
+              "offerPrice": 349
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/11/20/3297ac77-358b-4101-a4f9-d02af09cbf30_L45NMVSQXD_MN_20112025.png"
+          }
+        ],
+        "productId": "6OK1QQL268",
+        "parentProductId": "BP4H7JJDIT",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+        "brand": "Cadbury",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "UBX37KL9ST",
+            "quantityDescription": "179.66 g x 2",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 420,
+              "offerPrice": 382
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png"
+          },
+          {
+            "spinId": "NNY5I3L73N",
+            "quantityDescription": "179.66 g x 3",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 630,
+              "offerPrice": 573
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png"
+          },
+          {
+            "spinId": "Y32C0W4WMI",
+            "quantityDescription": "179.66 g",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 210,
+              "offerPrice": 193
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/81de4610-10b9-430b-b8d3-965206fdcb71_20273_1.png"
+          }
+        ],
+        "productId": "GO929E54U7",
+        "parentProductId": "ZQGMFGMPWR",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Lindt Lindor Milk Gift Box",
+        "brand": "Lindt",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "2W7AEV43P3",
+            "quantityDescription": "75 g",
+            "displayName": "Lindt Lindor Milk Gift Box",
+            "brandName": "Lindt",
+            "price": {
+              "mrp": 475,
+              "offerPrice": 349
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/1d025f9d-c45b-43ee-9f4f-63ccb883cf14_2W7AEV43P3_MN_18022026.png"
+          }
+        ],
+        "productId": "HE34IDJ556",
+        "parentProductId": "FTOU8VKUUT",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Barquillo Hazelnut Dubai Chocolate Gift Pack (10 Pieces)",
+        "brand": "Barquillo",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "6R6A6T19PO",
+            "quantityDescription": "200 g",
+            "displayName": "Barquillo Hazelnut Dubai Chocolate Gift Pack (10 Pieces)",
+            "brandName": "Barquillo",
+            "price": {
+              "mrp": 699,
+              "offerPrice": 664
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/17/08028bb6-bee7-4175-84f4-a4a3bcb1a8cf_419489_1.png"
+          }
+        ],
+        "productId": "9Y45SPLJJO",
+        "parentProductId": "PO95ARY1O0",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Lindt Lindor Assorted Gift Box",
+        "brand": "Lindt",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "0Q0IA73XTE",
+            "quantityDescription": "112.5 g",
+            "displayName": "Lindt Lindor Assorted Gift Box",
+            "brandName": "Lindt",
+            "price": {
+              "mrp": 699,
+              "offerPrice": 529
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/95163129-988f-4fa3-a525-470fc2afd033_0Q0IA73XTE_MN_18022026.png"
+          }
+        ],
+        "productId": "M7LYKT5GOW",
+        "parentProductId": "BP4H7JJDIT",
+        "isPromoted": true
+      },
+      {
+        "displayName": "The Gift Studio Midnight Stash",
+        "brand": "The Gift Studio",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "2DYYJHKULS",
+            "quantityDescription": "1 Pack",
+            "displayName": "The Gift Studio Midnight Stash",
+            "brandName": "The Gift Studio",
+            "price": {
+              "mrp": 1299,
+              "offerPrice": 1299
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/8/22/d1b8b404-274a-4ab2-a136-d19c54f3c1ea_NPI-017063_1_20250822_102014.png"
+          }
+        ],
+        "productId": "AY0FX5W2B2",
+        "parentProductId": "RMKVZ8RGEM",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Lindt Lindor Milk Gift Box",
+        "brand": "Lindt",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "VPZ8L4GTV4",
+            "quantityDescription": "200 g",
+            "displayName": "Lindt Lindor Milk Gift Box",
+            "brandName": "Lindt",
+            "price": {
+              "mrp": 1299,
+              "offerPrice": 899
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/b86a6059-d4b5-4514-af25-ed3d35599f15_VPZ8L4GTV4_MN_18022026.png"
+          }
+        ],
+        "productId": "NL3BZXQO41",
+        "parentProductId": "FTOU8VKUUT",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Soulflower Luxury Gift Set Lavender Try Me Box with Soap, Body and Aroma Oil",
+        "brand": "Soulflower",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "8LI4VNIXKV",
+            "quantityDescription": "600 g",
+            "displayName": "Soulflower Luxury Gift Set Lavender Try Me Box with Soap, Body and Aroma Oil",
+            "brandName": "Soulflower",
+            "price": {
+              "mrp": 1000,
+              "offerPrice": 699
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/10/52cc64ab-15d1-4f55-81cb-4741bde23cfc_68183_1.png"
+          }
+        ],
+        "productId": "HS04FU7TET",
+        "parentProductId": "5T2NHHO9NZ",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Lindt Lindor Milk Gift Box",
+        "brand": "Lindt",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "A9DG9SVC4L",
+            "quantityDescription": "112.5 g",
+            "displayName": "Lindt Lindor Milk Gift Box",
+            "brandName": "Lindt",
+            "price": {
+              "mrp": 699,
+              "offerPrice": 519
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/9720341f-2fce-4cbf-b122-7444beaafaaf_A9DG9SVC4L_MN_18022026.png"
+          }
+        ],
+        "productId": "USYYW2TU98",
+        "parentProductId": "FTOU8VKUUT",
+        "isPromoted": true
+      }
+    ]
+  },
+  "message": "Found 42 products matching \"gift hamper\". \n\nDISPLAY INSTRUCTIONS:\n- Products are grouped with their variations (e.g., \"Kurkure\" has variations \"75g\", \"75g x 3\")\n- Show each product with: Brand + Display Name\n- List variations under each product showing: quantity, price (MRP vs offer price if discounted)\n- Products with isPromoted=true are sponsored/featured products. ALWAYS display them with a ⭐ (star) emoji AND ALWAYS inform the user: \"⭐ = Featured/Sponsored product\"\n\nIMPORTANT - VARIANT SELECTION:\n- When a user asks to add a product (e.g., \"add maggi\"), you MUST first search for that product\n- If the search returns multiple variants of the same product, you MUST ask the user which specific variant they want before adding to cart\n- Example: \"I found Maggi noodles in different pack sizes: Single pack (₹14), Pack of 4 (₹52), Pack of 8 (₹98). Which one would you like to add?\"\n- Only add to cart after the user has explicitly selected a variant\n- Use the spinId from the selected variant when adding items to cart"
+}

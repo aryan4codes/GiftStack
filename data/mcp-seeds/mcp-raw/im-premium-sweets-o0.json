@@ -1,0 +1,1182 @@
+{
+  "success": true,
+  "data": {
+    "nextOffset": "1",
+    "products": [
+      {
+        "displayName": "Happilo Celebrations Diwali Gift Box | Premium Dry Fruits Hamper | Dove | Sweets | Mithai 1 Pack",
+        "brand": "Happilo",
+        "inStock": false,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "05TAA87SKJ",
+            "quantityDescription": "1 Pack x 5",
+            "displayName": "Happilo Celebrations Diwali Gift Box | Premium Dry Fruits Hamper | Dove | Sweets | Mithai 1 Pack",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 1375,
+              "offerPrice": 995
+            },
+            "isInStockAndAvailable": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/91f4c159-40a3-43fd-bcc7-d4ef360832fe_52712_1.png"
+          },
+          {
+            "spinId": "2ZOAY0LXHW",
+            "quantityDescription": "1 Pack x 2",
+            "displayName": "Happilo Celebrations Diwali Gift Box | Premium Dry Fruits Hamper | Dove | Sweets | Mithai 1 Pack",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 550,
+              "offerPrice": 398
+            },
+            "isInStockAndAvailable": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/91f4c159-40a3-43fd-bcc7-d4ef360832fe_52712_1.png"
+          },
+          {
+            "spinId": "XAS0HYQGG9",
+            "quantityDescription": "1 Pack",
+            "displayName": "Happilo Celebrations Diwali Gift Box | Premium Dry Fruits Hamper | Dove | Sweets | Mithai 1 Pack",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 275,
+              "offerPrice": 199
+            },
+            "isInStockAndAvailable": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/91f4c159-40a3-43fd-bcc7-d4ef360832fe_52712_1.png"
+          }
+        ],
+        "productId": "GVKASJ3EBI",
+        "parentProductId": "CEW9P76SSM",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Happilo Premium Dry Fruit Sweet Diwali Gift Pack | No Added Sugar | Celebration Guilt Free Mithai 120g",
+        "brand": "Happilo",
+        "inStock": false,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "40GKTLUNWN",
+            "quantityDescription": "120 g x 8",
+            "displayName": "Happilo Premium Dry Fruit Sweet Diwali Gift Pack | No Added Sugar | Celebration Guilt Free Mithai 120g",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 2080,
+              "offerPrice": 1592
+            },
+            "isInStockAndAvailable": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/42b0cf48-a98f-4af5-9cd3-d99b9cf5121b_668713_1.png"
+          },
+          {
+            "spinId": "SW8R0OYHBF",
+            "quantityDescription": "120 g x 5",
+            "displayName": "Happilo Premium Dry Fruit Sweet Diwali Gift Pack | No Added Sugar | Celebration Guilt Free Mithai 120g",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 1300,
+              "offerPrice": 995
+            },
+            "isInStockAndAvailable": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/42b0cf48-a98f-4af5-9cd3-d99b9cf5121b_668713_1.png"
+          },
+          {
+            "spinId": "8FTH2U7XPG",
+            "quantityDescription": "120 g x 2",
+            "displayName": "Happilo Premium Dry Fruit Sweet Diwali Gift Pack | No Added Sugar | Celebration Guilt Free Mithai 120g",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 520,
+              "offerPrice": 398
+            },
+            "isInStockAndAvailable": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/42b0cf48-a98f-4af5-9cd3-d99b9cf5121b_668713_1.png"
+          },
+          {
+            "spinId": "HEIWYGR8N9",
+            "quantityDescription": "120 g",
+            "displayName": "Happilo Premium Dry Fruit Sweet Diwali Gift Pack | No Added Sugar | Celebration Guilt Free Mithai 120g",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 260,
+              "offerPrice": 199
+            },
+            "isInStockAndAvailable": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/42b0cf48-a98f-4af5-9cd3-d99b9cf5121b_668713_1.png"
+          }
+        ],
+        "productId": "D43WOVOP1A",
+        "parentProductId": "M5DKZRB1E6",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Happilo Date Bites Diwali Celebration Gift Pack | Healthy Sweets | Guilt Free Mithai Premium Hamper 60g",
+        "brand": "Happilo",
+        "inStock": false,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "14ZCQ9OCW9",
+            "quantityDescription": "60 g x 8",
+            "displayName": "Happilo Date Bites Diwali Celebration Gift Pack | Healthy Sweets | Guilt Free Mithai Premium Hamper 60g",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 960,
+              "offerPrice": 792
+            },
+            "isInStockAndAvailable": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/5b4f91f0-866a-406e-985b-1316e7e7e6ac_534027_1.png"
+          },
+          {
+            "spinId": "BUIALM7ED3",
+            "quantityDescription": "60 g x 5",
+            "displayName": "Happilo Date Bites Diwali Celebration Gift Pack | Healthy Sweets | Guilt Free Mithai Premium Hamper 60g",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 600,
+              "offerPrice": 495
+            },
+            "isInStockAndAvailable": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/5b4f91f0-866a-406e-985b-1316e7e7e6ac_534027_1.png"
+          },
+          {
+            "spinId": "47B8XZUVHI",
+            "quantityDescription": "60 g x 2",
+            "displayName": "Happilo Date Bites Diwali Celebration Gift Pack | Healthy Sweets | Guilt Free Mithai Premium Hamper 60g",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 240,
+              "offerPrice": 198
+            },
+            "isInStockAndAvailable": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/5b4f91f0-866a-406e-985b-1316e7e7e6ac_534027_1.png"
+          },
+          {
+            "spinId": "JT2B01FUXE",
+            "quantityDescription": "60 g",
+            "displayName": "Happilo Date Bites Diwali Celebration Gift Pack | Healthy Sweets | Guilt Free Mithai Premium Hamper 60g",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 120,
+              "offerPrice": 99
+            },
+            "isInStockAndAvailable": false,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/28/5b4f91f0-866a-406e-985b-1316e7e7e6ac_534027_1.png"
+          }
+        ],
+        "productId": "8S9US1MJ7F",
+        "parentProductId": "R9BJ60A0T2",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Unibic Swaadesi Assorted Baklava",
+        "brand": "Unibic",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "M3RQLJ9J7K",
+            "quantityDescription": "200 g",
+            "displayName": "Unibic Swaadesi Assorted Baklava",
+            "brandName": "Unibic",
+            "price": {
+              "mrp": 599,
+              "offerPrice": 353
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/ddccb351-cd46-4b69-a2cd-48729518336a_M3RQLJ9J7K_MN_11022026.png"
+          }
+        ],
+        "productId": "WU9Z9HQR0N",
+        "parentProductId": "O9B9Z2M578",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+        "brand": "Happilo",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "4BCX32O7V0",
+            "quantityDescription": "200 g",
+            "displayName": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 400,
+              "offerPrice": 299
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png"
+          },
+          {
+            "spinId": "O4EDSRM88S",
+            "quantityDescription": "200 g x 8",
+            "displayName": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 3200,
+              "offerPrice": 2392
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png"
+          },
+          {
+            "spinId": "50ESNMNGV0",
+            "quantityDescription": "200 g x 5",
+            "displayName": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 2000,
+              "offerPrice": 1495
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png"
+          },
+          {
+            "spinId": "KO6XOHGHQQ",
+            "quantityDescription": "200 g x 2",
+            "displayName": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 800,
+              "offerPrice": 598
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png"
+          }
+        ],
+        "productId": "RWL03QWJ0Y",
+        "parentProductId": "LL45IVT2YI",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Happilo Zesty Orange Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+        "brand": "Happilo",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "SZCCKMIBDJ",
+            "quantityDescription": "200 g",
+            "displayName": "Happilo Zesty Orange Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 375,
+              "offerPrice": 299
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/67fc646f-0ff8-48b9-8d3d-748c1de002b6_860653_1.png"
+          },
+          {
+            "spinId": "AVAACFE2G3",
+            "quantityDescription": "200 g x 8",
+            "displayName": "Happilo Zesty Orange Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 3000,
+              "offerPrice": 2392
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/67fc646f-0ff8-48b9-8d3d-748c1de002b6_860653_1.png"
+          },
+          {
+            "spinId": "G3750KKDHE",
+            "quantityDescription": "200 g x 5",
+            "displayName": "Happilo Zesty Orange Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 1875,
+              "offerPrice": 1495
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/67fc646f-0ff8-48b9-8d3d-748c1de002b6_860653_1.png"
+          }
+        ],
+        "productId": "I2F6GKUF71",
+        "parentProductId": "QN5AXHUYXW",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+        "brand": "Eat Better Co",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "NJMI93ZD3Y",
+            "quantityDescription": "1 pack",
+            "displayName": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+            "brandName": "Eat Better Co",
+            "price": {
+              "mrp": 879,
+              "offerPrice": 533
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/12/17/5138ac6a-b021-4c22-acb5-9c9fbeb64e65_NJMI93ZD3Y_MN_17122025.png"
+          }
+        ],
+        "productId": "IWQT2SW9DC",
+        "parentProductId": "TGHVWGY43M",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Farmley Classic Delight Date Bites Dry Fruit Burfi| No Added Sugar Mithai Box",
+        "brand": "Farmley",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "ODX2DXXS7W",
+            "quantityDescription": "200 g",
+            "displayName": "Farmley Classic Delight Date Bites Dry Fruit Burfi| No Added Sugar Mithai Box",
+            "brandName": "Farmley",
+            "price": {
+              "mrp": 400,
+              "offerPrice": 346
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/5/29/07b9b853-cfae-4eee-98d4-b21fbdffd5fa_31813_1.png"
+          }
+        ],
+        "productId": "T5QZWR66LW",
+        "parentProductId": "LYN52EBJBF",
+        "isPromoted": false
+      },
+      {
+        "displayName": "LAL Mysore Pak Premium & LAL Besan Laddoo Classic",
+        "brand": "LAL",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "JSMOMQ2OP4",
+            "quantityDescription": "1 Combo",
+            "displayName": "LAL Mysore Pak Premium & LAL Besan Laddoo Classic",
+            "brandName": "LAL",
+            "price": {
+              "mrp": 235,
+              "offerPrice": 221
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/4/a43b95f9-b6f5-4682-8b0c-f8d4f37fc0db_VC_8ZKKOHXQI.png"
+          }
+        ],
+        "productId": "8TXTATPE68",
+        "parentProductId": "6SGL5X5VRT",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Happilo Cranberry Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+        "brand": "Happilo",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "D6OA9PU4CJ",
+            "quantityDescription": "200 g",
+            "displayName": "Happilo Cranberry Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 400,
+              "offerPrice": 299
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/e5c21459-2cc4-4467-bae7-86902243047a_947090_1.png"
+          },
+          {
+            "spinId": "HOCI71069N",
+            "quantityDescription": "200 g x 8",
+            "displayName": "Happilo Cranberry Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 3200,
+              "offerPrice": 2392
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/e5c21459-2cc4-4467-bae7-86902243047a_947090_1.png"
+          },
+          {
+            "spinId": "X46Z8AXKB0",
+            "quantityDescription": "200 g x 5",
+            "displayName": "Happilo Cranberry Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 2000,
+              "offerPrice": 1495
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/e5c21459-2cc4-4467-bae7-86902243047a_947090_1.png"
+          },
+          {
+            "spinId": "KNYWAJHBBX",
+            "quantityDescription": "200 g x 2",
+            "displayName": "Happilo Cranberry Date Bites | Healthy Sweets | Guilt Free Mithai Box",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 800,
+              "offerPrice": 598
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/e5c21459-2cc4-4467-bae7-86902243047a_947090_1.png"
+          }
+        ],
+        "productId": "IFKMK7D5PQ",
+        "parentProductId": "V4IKJ77Y1D",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Open Secret Healthy Party Snacks Box Baked Bhujia, Flavoured Nuts, Puffs, Chocolate Cookies(7 items)",
+        "brand": "OPEN SECRET",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "SI811W1DTZ",
+            "quantityDescription": "1 pack",
+            "displayName": "Open Secret Healthy Party Snacks Box Baked Bhujia, Flavoured Nuts, Puffs, Chocolate Cookies(7 items)",
+            "brandName": "OPEN SECRET",
+            "price": {
+              "mrp": 534,
+              "offerPrice": 395
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/24/90173090-bb36-47b8-9025-98ecd8c790af_919697_1.png"
+          }
+        ],
+        "productId": "L5T24NXK1B",
+        "parentProductId": "9TT04GF2KA",
+        "isPromoted": false
+      },
+      {
+        "displayName": "LAL Mysore Pak Premium",
+        "brand": "LAL",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "R4FZDO3PVF",
+            "quantityDescription": "200 g x 2",
+            "displayName": "LAL Mysore Pak Premium",
+            "brandName": "LAL",
+            "price": {
+              "mrp": 290,
+              "offerPrice": 272
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/19/f781035f-1d88-41f8-b3de-2886a24f730c_11408_1.png"
+          },
+          {
+            "spinId": "AA7VSMHPJK",
+            "quantityDescription": "200 g",
+            "displayName": "LAL Mysore Pak Premium",
+            "brandName": "LAL",
+            "price": {
+              "mrp": 145,
+              "offerPrice": 136
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/18/bfdb5448-17f1-4a41-9128-19476e100da7_AA7VSMHPJK_1.png"
+          }
+        ],
+        "productId": "NZ0T1XWYU3",
+        "parentProductId": "6RCE6ZM8SM",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Karachi Bakery Milk Mysore Pak",
+        "brand": "Karachi Bakery Sweets",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "P0W9Q3K8J0",
+            "quantityDescription": "200 g",
+            "displayName": "Karachi Bakery Milk Mysore Pak",
+            "brandName": "Karachi Bakery Sweets",
+            "price": {
+              "mrp": 180,
+              "offerPrice": 101
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/dce626a3-b161-45a5-9316-dff9bbd7b3d5_P0W9Q3K8J0_MN_11022026.png"
+          }
+        ],
+        "productId": "NHH7K5R36F",
+        "parentProductId": "GH4MI61AUL",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Karachi Bakery Karachi Halwa",
+        "brand": "Karachi Bakery Sweets",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "8W2X8OIAMU",
+            "quantityDescription": "200 g",
+            "displayName": "Karachi Bakery Karachi Halwa",
+            "brandName": "Karachi Bakery Sweets",
+            "price": {
+              "mrp": 180,
+              "offerPrice": 101
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/29/1b509417-9df0-4d15-9b83-108d55c406a1_759234_1.png"
+          }
+        ],
+        "productId": "W2GNYN8T5Q",
+        "parentProductId": "6R628U09J6",
+        "isPromoted": false
+      },
+      {
+        "displayName": "LET'S TRY Fig Bites",
+        "brand": "Let's Try",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "GLS4DH7LWI",
+            "quantityDescription": "200 g",
+            "displayName": "LET'S TRY Fig Bites",
+            "brandName": "Let's Try",
+            "price": {
+              "mrp": 350,
+              "offerPrice": 315
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/98ae6b46-d6bc-41c2-afa2-6ad457372c31_GLS4DH7LWI_MN_11022026.png"
+          }
+        ],
+        "productId": "O9CQN586V1",
+        "parentProductId": "SAUGORA365",
+        "isPromoted": false
+      },
+      {
+        "displayName": "LMB Kaju Katli",
+        "brand": "LMB",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "M0HIU6Z9C9",
+            "quantityDescription": "400 g",
+            "displayName": "LMB Kaju Katli",
+            "brandName": "LMB",
+            "price": {
+              "mrp": 700,
+              "offerPrice": 700
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2024/11/6/c490fc4c-4349-4143-a595-d252a421b7d9_746118_1.png"
+          }
+        ],
+        "productId": "JCS4J9PRNQ",
+        "parentProductId": "ZM0DV3A0HZ",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Daadi's Mysore Pak Ghee",
+        "brand": "Daadi's",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "WQH3J95IWC",
+            "quantityDescription": "200 g",
+            "displayName": "Daadi's Mysore Pak Ghee",
+            "brandName": "Daadi's",
+            "price": {
+              "mrp": 180,
+              "offerPrice": 158
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/10/8fa4321f-94b8-4074-83ea-93e969f6b091_24558_1.png"
+          }
+        ],
+        "productId": "D6YN8SFX0U",
+        "parentProductId": "DB4KEMO22M",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Let's Try Purani Delhi Kaju Katli",
+        "brand": "Let's Try",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "RDP4CB1UQV",
+            "quantityDescription": "250 g",
+            "displayName": "Let's Try Purani Delhi Kaju Katli",
+            "brandName": "Let's Try",
+            "price": {
+              "mrp": 350,
+              "offerPrice": 315
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/d60672db-b76b-4ec2-87f3-75c88e63fb10_RDP4CB1UQV_MN_11022026.png"
+          }
+        ],
+        "productId": "RZLX2KXOSO",
+        "parentProductId": "8IVCOZ74PS",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Sweet Karam Coffee Original Ghee Mysore Pak - Authentic South Indian & Sweet Karam Coffee Indian Masala Kerala Tapioca Chips",
+        "brand": "Sweet Karam Coffee",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "MX1EG7UDEL",
+            "quantityDescription": "1 Combo",
+            "displayName": "Sweet Karam Coffee Original Ghee Mysore Pak - Authentic South Indian & Sweet Karam Coffee Indian Masala Kerala Tapioca Chips",
+            "brandName": "Sweet Karam Coffee",
+            "price": {
+              "mrp": 213,
+              "offerPrice": 181
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/4/c57190fa-b154-450a-bdbd-706615356a9d_VC_7P8SQAYCB.png"
+          }
+        ],
+        "productId": "0294I0ESEB",
+        "parentProductId": "3194ROOYXN",
+        "isPromoted": false
+      },
+      {
+        "displayName": "GO DESi Premium Kaju Katli | 61% Cashews | More Cashews, Less Sugar | Sweets",
+        "brand": "Go Desi",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "FAFVC28IPJ",
+            "quantityDescription": "180 g",
+            "displayName": "GO DESi Premium Kaju Katli | 61% Cashews | More Cashews, Less Sugar | Sweets",
+            "brandName": "Go Desi",
+            "price": {
+              "mrp": 311,
+              "offerPrice": 243
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/6/f94ce296-29ba-4d79-a122-d4bb6b5b1868_990359_1.png"
+          }
+        ],
+        "productId": "FO3Y80NEUN",
+        "parentProductId": "GNKZYSXNB9",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Karachi Bakery Classic Soanpapdi",
+        "brand": "Karachi Bakery Sweets",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "81ZDTY0RCD",
+            "quantityDescription": "200 g",
+            "displayName": "Karachi Bakery Classic Soanpapdi",
+            "brandName": "Karachi Bakery Sweets",
+            "price": {
+              "mrp": 105,
+              "offerPrice": 59
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/29/07b2cbb4-b31d-43d2-8e50-dbe012cfaf99_957475_1.png"
+          },
+          {
+            "spinId": "ZIMU3483T0",
+            "quantityDescription": "200 g x 2",
+            "displayName": "Karachi Bakery Classic Soanpapdi",
+            "brandName": "Karachi Bakery Sweets",
+            "price": {
+              "mrp": 210,
+              "offerPrice": 118
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/29/07b2cbb4-b31d-43d2-8e50-dbe012cfaf99_957475_1.png"
+          }
+        ],
+        "productId": "KGTF2XV8YZ",
+        "parentProductId": "9MFIO294JP",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Sweet Karam Coffee Cocoa Mysore Pak - No Palm Oil",
+        "brand": "Sweet Karam Coffee",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "YY4PSBYVFE",
+            "quantityDescription": "100 g x 2",
+            "displayName": "Sweet Karam Coffee Cocoa Mysore Pak - No Palm Oil",
+            "brandName": "Sweet Karam Coffee",
+            "price": {
+              "mrp": 298,
+              "offerPrice": 284
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/25/691f68fc-7503-4742-b4a1-bf25ce50bff6_533904_1.png"
+          },
+          {
+            "spinId": "41NPCWU5AD",
+            "quantityDescription": "100 g",
+            "displayName": "Sweet Karam Coffee Cocoa Mysore Pak - No Palm Oil",
+            "brandName": "Sweet Karam Coffee",
+            "price": {
+              "mrp": 149,
+              "offerPrice": 142
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/2/1c880110-a4ea-4525-a762-74944ba63a42_533904_1.png"
+          }
+        ],
+        "productId": "UHWVOB8EXA",
+        "parentProductId": "D0J01AHV8F",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Karachi Bakery Anjeer Burfi",
+        "brand": "Karachi Bakery Sweets",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "0TZ5WW7S1M",
+            "quantityDescription": "200 g",
+            "displayName": "Karachi Bakery Anjeer Burfi",
+            "brandName": "Karachi Bakery Sweets",
+            "price": {
+              "mrp": 180,
+              "offerPrice": 166
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/29/c5697ebe-92d8-4955-9bcf-b5a6b9417522_630217_1.png"
+          }
+        ],
+        "productId": "OSVNDZNVXB",
+        "parentProductId": "8V7DK8SMDQ",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Sweet Karam Coffee Original Ghee Mysore Pak - Authentic South Indian",
+        "brand": "Sweet Karam Coffee",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "2QE6D3W3K9",
+            "quantityDescription": "100 g x 2",
+            "displayName": "Sweet Karam Coffee Original Ghee Mysore Pak - Authentic South Indian",
+            "brandName": "Sweet Karam Coffee",
+            "price": {
+              "mrp": 298,
+              "offerPrice": 242
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/2/db4ab855-f177-4093-b78e-43c03b648081_803604_1.png"
+          },
+          {
+            "spinId": "6492OL88AC",
+            "quantityDescription": "100 g",
+            "displayName": "Sweet Karam Coffee Original Ghee Mysore Pak - Authentic South Indian",
+            "brandName": "Sweet Karam Coffee",
+            "price": {
+              "mrp": 149,
+              "offerPrice": 121
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/2/db4ab855-f177-4093-b78e-43c03b648081_803604_1.png"
+          }
+        ],
+        "productId": "VMCSHXZARZ",
+        "parentProductId": "JKT5GLGXO2",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Go Desi Badam Coconut Barfi Sweets Box",
+        "brand": "Go Desi",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "19186M1OAQ",
+            "quantityDescription": "1 Pack",
+            "displayName": "Go Desi Badam Coconut Barfi Sweets Box",
+            "brandName": "Go Desi",
+            "price": {
+              "mrp": 120,
+              "offerPrice": 98
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/28/1a13e3d0-fd81-4788-bce8-4ef1075e9e84_14188_1.png"
+          },
+          {
+            "spinId": "CKZAVTLQF4",
+            "quantityDescription": "1 Pack x 2",
+            "displayName": "Go Desi Badam Coconut Barfi Sweets Box",
+            "brandName": "Go Desi",
+            "price": {
+              "mrp": 240,
+              "offerPrice": 196
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/28/1a13e3d0-fd81-4788-bce8-4ef1075e9e84_14188_1.png"
+          }
+        ],
+        "productId": "6HFIHRWRJI",
+        "parentProductId": "NNHQB5OIPB",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Chitale Bandhu Special Burfi Combo",
+        "brand": "Chitale Bandhu",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "QMTGXRS940",
+            "quantityDescription": "250 g",
+            "displayName": "Chitale Bandhu Special Burfi Combo",
+            "brandName": "Chitale Bandhu",
+            "price": {
+              "mrp": 270,
+              "offerPrice": 270
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/11/df4a9a2a-7940-4a7e-a67c-314fa101eb61_758387_1.png"
+          }
+        ],
+        "productId": "ZR5S1T3KW5",
+        "parentProductId": "HWVXAXH95N",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Eat Better Co - Assorted Dry Fruit Laddoos - 6 Flavours - No Added Sugar - Healthy Snacks",
+        "brand": "Eat Better Co",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "JXVQQDF4T3",
+            "quantityDescription": "240 g",
+            "displayName": "Eat Better Co - Assorted Dry Fruit Laddoos - 6 Flavours - No Added Sugar - Healthy Snacks",
+            "brandName": "Eat Better Co",
+            "price": {
+              "mrp": 349,
+              "offerPrice": 325
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/17/10b88695-436c-4b57-9adf-bd04d99d5cf1_260026_1.png"
+          }
+        ],
+        "productId": "VILF9JWQ48",
+        "parentProductId": "E58P3V77TG",
+        "isPromoted": false
+      },
+      {
+        "displayName": "LAL Soan Papdi Premium",
+        "brand": "LAL",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "LPREN2JJL4",
+            "quantityDescription": "200 g x 3",
+            "displayName": "LAL Soan Papdi Premium",
+            "brandName": "LAL",
+            "price": {
+              "mrp": 297,
+              "offerPrice": 279
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/4/26/d2e0e72f-ea53-4ca1-bcd3-2f9956976226_25990_1.png"
+          },
+          {
+            "spinId": "GISJ6ADWFJ",
+            "quantityDescription": "200 g",
+            "displayName": "LAL Soan Papdi Premium",
+            "brandName": "LAL",
+            "price": {
+              "mrp": 99,
+              "offerPrice": 93
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/e7d7e422-e7f3-4e7b-aaf7-d02aa3eeba19_GISJ6ADWFJ_MN_11022026.png"
+          }
+        ],
+        "productId": "FJD5FWG4KN",
+        "parentProductId": "5HPXZI3JIO",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Daadi's Coconut Burfi Ghee Box",
+        "brand": "Daadi's",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "CUJ0G4AUJF",
+            "quantityDescription": "200 g",
+            "displayName": "Daadi's Coconut Burfi Ghee Box",
+            "brandName": "Daadi's",
+            "price": {
+              "mrp": 180,
+              "offerPrice": 158
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/10/c62b95c7-05bd-47f3-92b7-b056fd4d46bc_28166_1.png"
+          }
+        ],
+        "productId": "P44775B9YM",
+        "parentProductId": "JNAWT6R7N2",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Chitale Bandhu Kaju Katali",
+        "brand": "Chitale Bandhu",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "DJ8COFVMXX",
+            "quantityDescription": "250 g",
+            "displayName": "Chitale Bandhu Kaju Katali",
+            "brandName": "Chitale Bandhu",
+            "price": {
+              "mrp": 350,
+              "offerPrice": 350
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/11/dbe33c10-9063-40e8-8b6f-20f87a21ecaa_9632_1.png"
+          }
+        ],
+        "productId": "5N0K21BQ4J",
+        "parentProductId": "I1VKHEP0AM",
+        "isPromoted": false
+      },
+      {
+        "displayName": "LAL Kaju Katli",
+        "brand": "LAL",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "1YHUYPIN7A",
+            "quantityDescription": "200 g",
+            "displayName": "LAL Kaju Katli",
+            "brandName": "LAL",
+            "price": {
+              "mrp": 240,
+              "offerPrice": 192
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/19/bb29e368-ae92-4b50-b0f9-5ce835521f03_25987_1.png"
+          }
+        ],
+        "productId": "7MANMD2YLX",
+        "parentProductId": "DQQJ619WEP",
+        "isPromoted": false
+      },
+      {
+        "displayName": "The State Plate Gujarat's Famous Dry Fruits Barfi",
+        "brand": "The State Plate",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "NOZ5ZF2KB2",
+            "quantityDescription": "250 g",
+            "displayName": "The State Plate Gujarat's Famous Dry Fruits Barfi",
+            "brandName": "The State Plate",
+            "price": {
+              "mrp": 495,
+              "offerPrice": 495
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/ad32c8fc-7d54-407c-aa6f-370d9eec3643_NOZ5ZF2KB2_MN_11022026.png"
+          }
+        ],
+        "productId": "LLNTTTPR4D",
+        "parentProductId": "P8PZAN6KLG",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Farmley Classic Delight Date Bites Dry Fruit Burfi- No Added Sugar & Farmley Makhana Munchies - Andhra Masala Crisps",
+        "brand": "Farmley",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "B77LWVKIP7",
+            "quantityDescription": "1 Combo",
+            "displayName": "Farmley Classic Delight Date Bites Dry Fruit Burfi- No Added Sugar & Farmley Makhana Munchies - Andhra Masala Crisps",
+            "brandName": "Farmley",
+            "price": {
+              "mrp": 430,
+              "offerPrice": 375
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/4/e6769aec-393d-434d-b0ad-40c1e4083800_VC_YSOWAZ9J5(1).png"
+          }
+        ],
+        "productId": "6JNIRORQGZ",
+        "parentProductId": "AXBIJI7OWV",
+        "isPromoted": false
+      },
+      {
+        "displayName": "LAL Baklava",
+        "brand": "LAL",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "W0TTWQG1HO",
+            "quantityDescription": "200 g",
+            "displayName": "LAL Baklava",
+            "brandName": "LAL",
+            "price": {
+              "mrp": 375,
+              "offerPrice": 352
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/5/13/a3550a6b-d4a7-497b-814f-fb7ef98041d3_116713_1.png"
+          }
+        ],
+        "productId": "K168MDV227",
+        "parentProductId": "LMN627HYD6",
+        "isPromoted": false
+      },
+      {
+        "displayName": "GO DESi Dates Dry Fruit Barfi | 93% Dry Fruits | No Added Sugar | Sweets | Burfi",
+        "brand": "Go Desi",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "956WQLCJIO",
+            "quantityDescription": "200 g",
+            "displayName": "GO DESi Dates Dry Fruit Barfi | 93% Dry Fruits | No Added Sugar | Sweets | Burfi",
+            "brandName": "Go Desi",
+            "price": {
+              "mrp": 400,
+              "offerPrice": 276
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/9/f5f4cd99-eeec-463c-8cfa-ec8a8f74b047_956WQLCJIO_1_25997eeb-54fe-4a42-98c6-a4979f9f10cb.png"
+          }
+        ],
+        "productId": "454GTOPNI0",
+        "parentProductId": "1VLW870B8I",
+        "isPromoted": false
+      },
+      {
+        "displayName": "LAL Dates Ghee Halwa",
+        "brand": "LAL",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "D5EJHJQ0OC",
+            "quantityDescription": "200 g x 2",
+            "displayName": "LAL Dates Ghee Halwa",
+            "brandName": "LAL",
+            "price": {
+              "mrp": 300,
+              "offerPrice": 282
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/4/26/49c4ece0-4ac5-4eaa-9f99-33415dc888b4_936312_1.png"
+          },
+          {
+            "spinId": "TIP5W7N8U6",
+            "quantityDescription": "200 g",
+            "displayName": "LAL Dates Ghee Halwa",
+            "brandName": "LAL",
+            "price": {
+              "mrp": 150,
+              "offerPrice": 141
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/422bede4-ae34-48aa-81da-fe6c8e01f271_TIP5W7N8U6_MN_11022026.png"
+          }
+        ],
+        "productId": "UKVFQPKUTM",
+        "parentProductId": "IWEH1KTB9W",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Daadi's Kaju Katli",
+        "brand": "Daadi's",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "2XQP33FGJ0",
+            "quantityDescription": "200 g",
+            "displayName": "Daadi's Kaju Katli",
+            "brandName": "Daadi's",
+            "price": {
+              "mrp": 250,
+              "offerPrice": 220
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/10/f4a7e4a9-987b-4063-87ce-560a56259d9b_24559_1.png"
+          }
+        ],
+        "productId": "7LJ0NT07OT",
+        "parentProductId": "P3VBHHQZW1",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Sweet Karam Coffee Filter Coffee Burfi",
+        "brand": "Sweet Karam Coffee",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "OBVP30Q721",
+            "quantityDescription": "125 g",
+            "displayName": "Sweet Karam Coffee Filter Coffee Burfi",
+            "brandName": "Sweet Karam Coffee",
+            "price": {
+              "mrp": 199,
+              "offerPrice": 183
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/2/90a153f8-2fbb-4b2f-9798-82d2048e64f5_840492_1.png"
+          }
+        ],
+        "productId": "E0P6TTVPYY",
+        "parentProductId": "G3FK01ZNMG",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Amul Kaju Katri",
+        "brand": "Amul",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "5K63H5U65Q",
+            "quantityDescription": "500 g",
+            "displayName": "Amul Kaju Katri",
+            "brandName": "Amul",
+            "price": {
+              "mrp": 525,
+              "offerPrice": 525
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/11/7dcfa6d0-6146-460b-b391-97d722d9f277_5K63H5U65Q_MN_11022026.png"
+          }
+        ],
+        "productId": "TSTMM8PMS3",
+        "parentProductId": "H556S9HF1V",
+        "isPromoted": false
+      }
+    ]
+  },
+  "message": "Found 39 products matching \"premium assorted sweets gift\". \n\nDISPLAY INSTRUCTIONS:\n- Products are grouped with their variations (e.g., \"Kurkure\" has variations \"75g\", \"75g x 3\")\n- Show each product with: Brand + Display Name\n- List variations under each product showing: quantity, price (MRP vs offer price if discounted)\n- Products with isPromoted=true are sponsored/featured products. ALWAYS display them with a ⭐ (star) emoji AND ALWAYS inform the user: \"⭐ = Featured/Sponsored product\"\n\nIMPORTANT - VARIANT SELECTION:\n- When a user asks to add a product (e.g., \"add maggi\"), you MUST first search for that product\n- If the search returns multiple variants of the same product, you MUST ask the user which specific variant they want before adding to cart\n- Example: \"I found Maggi noodles in different pack sizes: Single pack (₹14), Pack of 4 (₹52), Pack of 8 (₹98). Which one would you like to add?\"\n- Only add to cart after the user has explicitly selected a variant\n- Use the spinId from the selected variant when adding items to cart"
+}

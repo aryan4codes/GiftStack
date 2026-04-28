@@ -1,0 +1,1060 @@
+{
+  "success": true,
+  "data": {
+    "nextOffset": "1",
+    "products": [
+      {
+        "displayName": "True Elements Panchmeva Trail Mix",
+        "brand": "True Elements",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "93Z70HP4YW",
+            "quantityDescription": "1.2 kg",
+            "displayName": "True Elements Panchmeva Trail Mix",
+            "brandName": "True Elements",
+            "price": {
+              "mrp": 1685,
+              "offerPrice": 1050
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/5daeea15-2fd9-4c31-8bcf-0c622813947a_93Z70HP4YW_MN_18022026.png"
+          }
+        ],
+        "productId": "JUIGCVJ7BM",
+        "parentProductId": "C4QHVMAXIT",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Open Secret Chocolates, Brownie , Cookies, Flavored Nuts, Gift Hamper | 5 Delightful Healthy Snacks",
+        "brand": "OPEN SECRET",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "F5ONQRT9NN",
+            "quantityDescription": "121 g",
+            "displayName": "Open Secret Chocolates, Brownie , Cookies, Flavored Nuts, Gift Hamper | 5 Delightful Healthy Snacks",
+            "brandName": "OPEN SECRET",
+            "price": {
+              "mrp": 350,
+              "offerPrice": 294
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/23/70f962d1-47f5-4d63-b854-4c68363df613_91455_1.png"
+          }
+        ],
+        "productId": "WK2XGGVEDE",
+        "parentProductId": "FV86EMB1GR",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Farmley Mix Dry Fruits Panchmeva Snacks- Almond, Cashew, Dates, Green and Black Raisins",
+        "brand": "Farmley",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "AHUJS52HCW",
+            "quantityDescription": "405 g",
+            "displayName": "Farmley Mix Dry Fruits Panchmeva Snacks- Almond, Cashew, Dates, Green and Black Raisins",
+            "brandName": "Farmley",
+            "price": {
+              "mrp": 549,
+              "offerPrice": 419
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/8d8382d1-bf1d-4c5f-b1e5-e12e6fe3ea5b_AHUJS52HCW_MN_18022026.png"
+          }
+        ],
+        "productId": "Y4W8W7P0WH",
+        "parentProductId": "4AX69OTJ4W",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+        "brand": "Eat Better Co",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "NJMI93ZD3Y",
+            "quantityDescription": "1 pack",
+            "displayName": "Eat Better Co - Healthy Chocolate Gift Hamper - 9-Item Dry Fruits Gifts Set",
+            "brandName": "Eat Better Co",
+            "price": {
+              "mrp": 879,
+              "offerPrice": 533
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/12/17/5138ac6a-b021-4c22-acb5-9c9fbeb64e65_NJMI93ZD3Y_MN_17122025.png"
+          }
+        ],
+        "productId": "IWQT2SW9DC",
+        "parentProductId": "TGHVWGY43M",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+        "brand": "Happilo",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "4BCX32O7V0",
+            "quantityDescription": "200 g",
+            "displayName": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 400,
+              "offerPrice": 299
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png"
+          },
+          {
+            "spinId": "O4EDSRM88S",
+            "quantityDescription": "200 g x 8",
+            "displayName": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 3200,
+              "offerPrice": 2392
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png"
+          },
+          {
+            "spinId": "50ESNMNGV0",
+            "quantityDescription": "200 g x 5",
+            "displayName": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 2000,
+              "offerPrice": 1495
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png"
+          },
+          {
+            "spinId": "KO6XOHGHQQ",
+            "quantityDescription": "200 g x 2",
+            "displayName": "Happilo Original Date Bites | Healthy Sweets | Guilt Free Mithai",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 800,
+              "offerPrice": 598
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/14/cf7fb0a1-1238-476d-bc74-f9ae5199eb08_223704_1.png"
+          }
+        ],
+        "productId": "RWL03QWJ0Y",
+        "parentProductId": "LL45IVT2YI",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Supreme Harvest Cashew Whole",
+        "brand": "Supreme Harvest",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "8A03Q8HR8L",
+            "quantityDescription": "100 g",
+            "displayName": "Supreme Harvest Cashew Whole",
+            "brandName": "Supreme Harvest",
+            "price": {
+              "mrp": 150,
+              "offerPrice": 133
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/19/16e7651c-1ed9-42ec-89b9-0c228e19f123_21607_1.png"
+          }
+        ],
+        "productId": "39OG4Q3WUR",
+        "parentProductId": "ALMAI2FJDN",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Delight Nuts Mix Nuts Roasted And Salted & Arabian Dates Combo",
+        "brand": "Delight Nuts",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "66BQFJWQ65",
+            "quantityDescription": "1 Combo",
+            "displayName": "Delight Nuts Mix Nuts Roasted And Salted & Arabian Dates Combo",
+            "brandName": "Delight Nuts",
+            "price": {
+              "mrp": 654,
+              "offerPrice": 460
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/a698032cc53ff98a2736baf953ac3009"
+          }
+        ],
+        "productId": "KYJ4WVK2SF",
+        "parentProductId": "KJGW59LQ3K",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Supreme Harvest Mixed Dry Fruits (Panchmeva)",
+        "brand": "Supreme Harvest",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "M8QOKD5MXQ",
+            "quantityDescription": "250 g",
+            "displayName": "Supreme Harvest Mixed Dry Fruits (Panchmeva)",
+            "brandName": "Supreme Harvest",
+            "price": {
+              "mrp": 315,
+              "offerPrice": 180
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/3fb75379-c8b6-4fda-a303-8d7e27edd20d_M8QOKD5MXQ_MN_18022026.png"
+          }
+        ],
+        "productId": "WYAOL73662",
+        "parentProductId": "SKM17EIO1K",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Orika Grill and Chill Celebrate And Marinate",
+        "brand": "Orika",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "5Q0Z7N3AIH",
+            "quantityDescription": "335 g",
+            "displayName": "Orika Grill and Chill Celebrate And Marinate",
+            "brandName": "Orika",
+            "price": {
+              "mrp": 2399,
+              "offerPrice": 685
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/28/e633b4e5-a7ee-4929-b98f-0adbb8c0c15f_646396_1.png"
+          }
+        ],
+        "productId": "2GL5M93LR7",
+        "parentProductId": "T2NY6C2RIB",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Supreme Harvest Cashew Whole",
+        "brand": "Supreme Harvest",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "Y7J04LPAAG",
+            "quantityDescription": "200 g x 2",
+            "displayName": "Supreme Harvest Cashew Whole",
+            "brandName": "Supreme Harvest",
+            "price": {
+              "mrp": 720,
+              "offerPrice": 452
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/15/06a89b71-9e9b-4c37-912b-923bef9ad2fc_15751_1.png"
+          },
+          {
+            "spinId": "DNQBDQ1V4T",
+            "quantityDescription": "200 g",
+            "displayName": "Supreme Harvest Cashew Whole",
+            "brandName": "Supreme Harvest",
+            "price": {
+              "mrp": 360,
+              "offerPrice": 226
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/19/5ab912ba-bddf-4e83-85c6-89d204886c2d_15751_1.png"
+          }
+        ],
+        "productId": "FGWFI8WQ9K",
+        "parentProductId": "ALMAI2FJDN",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Snack Amor Roasted Tiger Nuts 100g & Macadamia Nuts 50g",
+        "brand": "Snack Amor",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "Y4H182946L",
+            "quantityDescription": "1 Combo",
+            "displayName": "Snack Amor Roasted Tiger Nuts 100g & Macadamia Nuts 50g",
+            "brandName": "Snack Amor",
+            "price": {
+              "mrp": 698,
+              "offerPrice": 435
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/3/27/dcf25b5c-3e9b-49e6-90b8-e379e51ff71d_NPIC-008630_20260327_074533.png"
+          }
+        ],
+        "productId": "BJKGYVTOCU",
+        "parentProductId": "KWZY1DM0GN",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Supreme Harvest Cashew Whole",
+        "brand": "Supreme Harvest",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "DK83PLR7AY",
+            "quantityDescription": "500 g x 2",
+            "displayName": "Supreme Harvest Cashew Whole",
+            "brandName": "Supreme Harvest",
+            "price": {
+              "mrp": 1800,
+              "offerPrice": 904
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/3/15/a4d6c494-9bfb-4b12-b5c5-9d2926594473_15752_1.png"
+          },
+          {
+            "spinId": "ALZO6Y4Y6S",
+            "quantityDescription": "500 g",
+            "displayName": "Supreme Harvest Cashew Whole",
+            "brandName": "Supreme Harvest",
+            "price": {
+              "mrp": 900,
+              "offerPrice": 452
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/19/5ac453d3-2937-4a60-b6b8-11d2e75eb4ca_15752_1.png"
+          }
+        ],
+        "productId": "OQ98UE3YZ1",
+        "parentProductId": "ALMAI2FJDN",
+        "isPromoted": true
+      },
+      {
+        "displayName": "True Elements Panchmewa & Sattva Ratna Trail Mix",
+        "brand": "True Elements",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "3MCTOJO3TX",
+            "quantityDescription": "1 Combo",
+            "displayName": "True Elements Panchmewa & Sattva Ratna Trail Mix",
+            "brandName": "True Elements",
+            "price": {
+              "mrp": 1120,
+              "offerPrice": 774
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2024/10/15/4a0bd713-e9a2-48c5-8ca9-4e8617727b44_883843.png"
+          }
+        ],
+        "productId": "KKY6RYV2MS",
+        "parentProductId": "839S6X5PX0",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Yogabar Panchmeva, Nuts and Dry Fruits Mix, Almonds, Cashews, Raisins,Dates",
+        "brand": "Yogabar",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "3POCNOBZJM",
+            "quantityDescription": "850 g",
+            "displayName": "Yogabar Panchmeva, Nuts and Dry Fruits Mix, Almonds, Cashews, Raisins,Dates",
+            "brandName": "Yogabar",
+            "price": {
+              "mrp": 1335,
+              "offerPrice": 721
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/25/74caed1f-9fb6-4a4d-8806-5ef5af3a2007_289638_1.png"
+          }
+        ],
+        "productId": "ZW9G7ICZ6J",
+        "parentProductId": "6FBWNAYZ2U",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Sapphire Dry Nuts Trail Mix",
+        "brand": "Sapphire Dry Nuts",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "RKGSBNGVSD",
+            "quantityDescription": "500 g",
+            "displayName": "Sapphire Dry Nuts Trail Mix",
+            "brandName": "Sapphire Dry Nuts",
+            "price": {
+              "mrp": 629,
+              "offerPrice": 409
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/df46136f-155a-4802-ae0d-34f7189955e7_RKGSBNGVSD_MN_18022026.png"
+          }
+        ],
+        "productId": "68U6GF6PV9",
+        "parentProductId": "7ARKTV98EL",
+        "isPromoted": false
+      },
+      {
+        "displayName": "True Elements Panchmewa - Cashews, Almonds, Raisins, Black Currants and Dates",
+        "brand": "True Elements",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "AXDF3GDJUK",
+            "quantityDescription": "400 g x 2",
+            "displayName": "True Elements Panchmewa - Cashews, Almonds, Raisins, Black Currants and Dates",
+            "brandName": "True Elements",
+            "price": {
+              "mrp": 1120,
+              "offerPrice": 774
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/8/25/e49f9c5b-3f45-4e10-b258-dc292944b1e5_52941_1.png"
+          },
+          {
+            "spinId": "VQ7JMTS1KL",
+            "quantityDescription": "400 g",
+            "displayName": "True Elements Panchmewa - Cashews, Almonds, Raisins, Black Currants and Dates",
+            "brandName": "True Elements",
+            "price": {
+              "mrp": 560,
+              "offerPrice": 387
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/8f7a7fda-4ea5-462b-8dee-47e429c6b916_VQ7JMTS1KL_MN_18022026.png"
+          }
+        ],
+        "productId": "D8HQWUNRB9",
+        "parentProductId": "IJ62B6S349",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Snack Amor Roasted Tiger Nuts",
+        "brand": "Snack Amor",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "7O8XVNJGJ4",
+            "quantityDescription": "100 g",
+            "displayName": "Snack Amor Roasted Tiger Nuts",
+            "brandName": "Snack Amor",
+            "price": {
+              "mrp": 349,
+              "offerPrice": 189
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/b2b0a634-c55b-4e15-9605-371768792970_7O8XVNJGJ4_MN_18022026.png"
+          },
+          {
+            "spinId": "5XN1X7FQBO",
+            "quantityDescription": "100 g x 2",
+            "displayName": "Snack Amor Roasted Tiger Nuts",
+            "brandName": "Snack Amor",
+            "price": {
+              "mrp": 698,
+              "offerPrice": 378
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/b2b0a634-c55b-4e15-9605-371768792970_7O8XVNJGJ4_MN_18022026.png"
+          }
+        ],
+        "productId": "MXJLS9DYTC",
+        "parentProductId": "VANFQAKO7D",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Delight Nuts Almond Roasted And Salted Roasted & Salted Pistachios Kalmi Dates",
+        "brand": "Delight Nuts",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "NPDGSJTXAZ",
+            "quantityDescription": "1 Combo",
+            "displayName": "Delight Nuts Almond Roasted And Salted Roasted & Salted Pistachios Kalmi Dates",
+            "brandName": "Delight Nuts",
+            "price": {
+              "mrp": 1243,
+              "offerPrice": 856
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/53eeba9ea459ad79dbe4908714133545"
+          }
+        ],
+        "productId": "52Z7VZKS7R",
+        "parentProductId": "02X7USWRKU",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Livyor Mix dry fruits & Trail Mix |8 in 1 Nuts and Berries Mix",
+        "brand": "Livyor",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "UB6BSCL406",
+            "quantityDescription": "200 g",
+            "displayName": "Livyor Mix dry fruits & Trail Mix |8 in 1 Nuts and Berries Mix",
+            "brandName": "Livyor",
+            "price": {
+              "mrp": 399,
+              "offerPrice": 199
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/895d2a34-30d2-47cb-a091-0709dfd2fd34_UB6BSCL406_MN_18022026.png"
+          }
+        ],
+        "productId": "ANSQC6T2R3",
+        "parentProductId": "446PR9LH15",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Nutraj Roasted & Salted Almond / Badam ",
+        "brand": "Nutraj",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "SJAIAUQVC6",
+            "quantityDescription": "150 g",
+            "displayName": "Nutraj Roasted & Salted Almond / Badam ",
+            "brandName": "Nutraj",
+            "price": {
+              "mrp": 278,
+              "offerPrice": 239
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/9c137f74-e2c1-4f3a-aaba-b0d823d6aa63_SJAIAUQVC6_MN_18022026.png"
+          }
+        ],
+        "productId": "L8EWCY7CST",
+        "parentProductId": "GPVFWIVKTV",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Farmley Premium Trail Mix Dry Fruits Jar | 7 Superfoods in 1 Mix | Contains Almonds, Cashews, Cranberries, Black Currant, Blueberry",
+        "brand": "Farmley",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "715SJ0C6RQ",
+            "quantityDescription": "325 g",
+            "displayName": "Farmley Premium Trail Mix Dry Fruits Jar | 7 Superfoods in 1 Mix | Contains Almonds, Cashews, Cranberries, Black Currant, Blueberry",
+            "brandName": "Farmley",
+            "price": {
+              "mrp": 499,
+              "offerPrice": 431
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/6/2e51080e-55fe-47c9-bf85-0b6ffad68d00_317503_1.png"
+          }
+        ],
+        "productId": "EIS2IMCM9G",
+        "parentProductId": "K8YP9UTXH3",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Snack Amor Macadamia Nuts",
+        "brand": "Snack Amor",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "INJR18PTXQ",
+            "quantityDescription": "50 g",
+            "displayName": "Snack Amor Macadamia Nuts",
+            "brandName": "Snack Amor",
+            "price": {
+              "mrp": 349,
+              "offerPrice": 246
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/7e6fadce-4ae8-4125-910b-dd0895a51fcc_INJR18PTXQ_MN_18022026.png"
+          }
+        ],
+        "productId": "6Z5W6VNMUG",
+        "parentProductId": "381AKHEAXA",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Farmley Panchmeva Mix Dry Fruits Jar",
+        "brand": "Farmley",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "B59PI9RJFF",
+            "quantityDescription": "905 g",
+            "displayName": "Farmley Panchmeva Mix Dry Fruits Jar",
+            "brandName": "Farmley",
+            "price": {
+              "mrp": 1249,
+              "offerPrice": 923
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/12/a7354b87-9907-4021-9c55-ec7b0cf859c0_443488_1.png"
+          }
+        ],
+        "productId": "69P19V1DV2",
+        "parentProductId": "IAYOQ9QTRQ",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Delight Nuts Mixed Nuts Roasted And Salted",
+        "brand": "Delight Nuts",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "2K1O191S1T",
+            "quantityDescription": "200 g",
+            "displayName": "Delight Nuts Mixed Nuts Roasted And Salted",
+            "brandName": "Delight Nuts",
+            "price": {
+              "mrp": 469,
+              "offerPrice": 363
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/b8091d9a-d265-47b1-9428-f05cf7c83088_2K1O191S1T_MN_18022026.png"
+          }
+        ],
+        "productId": "JW3MH3JOPJ",
+        "parentProductId": "G7EDZP3J91",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Tata Sampann Luxe Dry Fruit & Nut Mix",
+        "brand": "Tata Sampann",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "7ZBY6BM1TN",
+            "quantityDescription": "200 g",
+            "displayName": "Tata Sampann Luxe Dry Fruit & Nut Mix",
+            "brandName": "Tata Sampann",
+            "price": {
+              "mrp": 267,
+              "offerPrice": 238
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/cdcedab2-4a05-429c-81d3-6db0791bac62_7ZBY6BM1TN_MN_18022026.png"
+          }
+        ],
+        "productId": "A3GID4FSFY",
+        "parentProductId": "423TNAT0JG",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Open Secret Panchmeva DryFruits Mix - Fasting Vrat Special",
+        "brand": "OPEN SECRET",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "ZQ6K0LGW95",
+            "quantityDescription": "200 g",
+            "displayName": "Open Secret Panchmeva DryFruits Mix - Fasting Vrat Special",
+            "brandName": "OPEN SECRET",
+            "price": {
+              "mrp": 400,
+              "offerPrice": 160
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/fdd67fb8-0c4f-40d8-8ca7-fe6b68622891_ZQ6K0LGW95_MN_18022026.png"
+          }
+        ],
+        "productId": "VO4N5LMET5",
+        "parentProductId": "RS80VCFJTA",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Open secret premium whole cashews (kaju) & Open Secret premium california almonds (badam) & open secret premium dates (khajur)",
+        "brand": "OPEN SECRET",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "BR9RFQRCA0",
+            "quantityDescription": "1 Combo",
+            "displayName": "Open secret premium whole cashews (kaju) & Open Secret premium california almonds (badam) & open secret premium dates (khajur)",
+            "brandName": "OPEN SECRET",
+            "price": {
+              "mrp": 950,
+              "offerPrice": 661
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2024/12/14/31b27f77-44b4-4186-8042-14660b2f1b23_829304.png"
+          }
+        ],
+        "productId": "J68GIUH6HV",
+        "parentProductId": "TIZQYV6GRT",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Paper Boat Absolute Health - Supermix",
+        "brand": "Paper Boat",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "CYPT0IU4DA",
+            "quantityDescription": "1 kg",
+            "displayName": "Paper Boat Absolute Health - Supermix",
+            "brandName": "Paper Boat",
+            "price": {
+              "mrp": 1700,
+              "offerPrice": 1303
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/40408dfa-1d4a-4a0d-a52c-c47435e06294_CYPT0IU4DA_MN_18022026.png"
+          }
+        ],
+        "productId": "MHMQNKHPAF",
+        "parentProductId": "K3JSN8HZOX",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Bolas Panchmewa",
+        "brand": "Bolas",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "GM3D6NMCQR",
+            "quantityDescription": "500 g",
+            "displayName": "Bolas Panchmewa",
+            "brandName": "Bolas",
+            "price": {
+              "mrp": 675,
+              "offerPrice": 608
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/cd3a4d8a-7063-4a59-8eba-2589935e24e6_GM3D6NMCQR_MN_18022026.png"
+          }
+        ],
+        "productId": "1O7CW0WOJ3",
+        "parentProductId": "5TUF044OS0",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Paper Boat Mega Omega Dry Fruit Trail Mix",
+        "brand": "Paper Boat",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "S49R8VI4LY",
+            "quantityDescription": "300 g",
+            "displayName": "Paper Boat Mega Omega Dry Fruit Trail Mix",
+            "brandName": "Paper Boat",
+            "price": {
+              "mrp": 600,
+              "offerPrice": 481
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/3dee1fef-e43d-45e2-b6e7-3b2633184cf7_S49R8VI4LY_MN_18022026.png"
+          }
+        ],
+        "productId": "117R89TMTA",
+        "parentProductId": "PVGPEID6S0",
+        "isPromoted": false
+      },
+      {
+        "displayName": "True Elements Sattva Ratna Trail Mix - Cashews, Almonds, Raisins, Black Currants, Dates",
+        "brand": "True Elements",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "U1HQ3VVXRB",
+            "quantityDescription": "425 g x 2",
+            "displayName": "True Elements Sattva Ratna Trail Mix - Cashews, Almonds, Raisins, Black Currants, Dates",
+            "brandName": "True Elements",
+            "price": {
+              "mrp": 1120,
+              "offerPrice": 774
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/8/12/05bb3bc9-58b5-43f5-958a-67b3ccb518de_56124_1.png"
+          },
+          {
+            "spinId": "HGZR6QL72F",
+            "quantityDescription": "425 g",
+            "displayName": "True Elements Sattva Ratna Trail Mix - Cashews, Almonds, Raisins, Black Currants, Dates",
+            "brandName": "True Elements",
+            "price": {
+              "mrp": 560,
+              "offerPrice": 387
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/8/12/05bb3bc9-58b5-43f5-958a-67b3ccb518de_56124_1.png"
+          }
+        ],
+        "productId": "VFTD5NQAMS",
+        "parentProductId": "XKBSRNJTTZ",
+        "isPromoted": false
+      },
+      {
+        "displayName": "True Elements Kaaju Kishmish Badaam",
+        "brand": "True Elements",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "FH8182JOC9",
+            "quantityDescription": "210 g",
+            "displayName": "True Elements Kaaju Kishmish Badaam",
+            "brandName": "True Elements",
+            "price": {
+              "mrp": 349,
+              "offerPrice": 269
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/12/10b278a3-9c76-4752-bc95-91e375bf1aeb_551610_1.png"
+          }
+        ],
+        "productId": "CZ6N7LVI0U",
+        "parentProductId": "5FQ1BMGWZG",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Farmley Mix Dry Fruits Panchmeva",
+        "brand": "Farmley",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "SXVQI6OP1J",
+            "quantityDescription": "160 g",
+            "displayName": "Farmley Mix Dry Fruits Panchmeva",
+            "brandName": "Farmley",
+            "price": {
+              "mrp": 299,
+              "offerPrice": 296
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/702cce60-5157-4eee-8085-f66079ec0c6b_SXVQI6OP1J_MN_18022026.png"
+          }
+        ],
+        "productId": "LPPGAZ25L9",
+        "parentProductId": "B5TJ2SHAU7",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Wonderland Foods Platinum Mix Dry Fruits",
+        "brand": "Wonderland Foods",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "X00T34J4Y8",
+            "quantityDescription": "200 g",
+            "displayName": "Wonderland Foods Platinum Mix Dry Fruits",
+            "brandName": "Wonderland Foods",
+            "price": {
+              "mrp": 199,
+              "offerPrice": 190
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/29/3b631dfe-354f-47b6-b867-099d111b4a57_63179_1.png"
+          },
+          {
+            "spinId": "6DBHLCLIDN",
+            "quantityDescription": "200 g x 2",
+            "displayName": "Wonderland Foods Platinum Mix Dry Fruits",
+            "brandName": "Wonderland Foods",
+            "price": {
+              "mrp": 398,
+              "offerPrice": 380
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2024/4/25/692190f1-e0c0-4a06-a428-5ae29fb48412_driedfruitsnutsandseeds_X00T34J4Y8_MN.png"
+          }
+        ],
+        "productId": "3G7FSDTU6M",
+        "parentProductId": "T9CO3K6H9O",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Supreme Harvest Roasted & Salted Pistachio",
+        "brand": "Supreme Harvest",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "UWTISPV14M",
+            "quantityDescription": "200 g",
+            "displayName": "Supreme Harvest Roasted & Salted Pistachio",
+            "brandName": "Supreme Harvest",
+            "price": {
+              "mrp": 350,
+              "offerPrice": 283
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/19/21249f46-a82b-48a7-b5e1-a2717fa701f9_15742_1.png"
+          }
+        ],
+        "productId": "O6F87TMVXV",
+        "parentProductId": "90NE5BK9VY",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Khari Foods Premium California Pistachios, Roasted & Salted Dry Fruits",
+        "brand": "Khari Foods",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "JN29DAQI35",
+            "quantityDescription": "200 g",
+            "displayName": "Khari Foods Premium California Pistachios, Roasted & Salted Dry Fruits",
+            "brandName": "Khari Foods",
+            "price": {
+              "mrp": 399,
+              "offerPrice": 315
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/19/11c72094-6f9e-47cd-9c8b-c719adc3df36_325818_1.png"
+          }
+        ],
+        "productId": "G1VYU92ED3",
+        "parentProductId": "FV897CE55Y",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Happilo Classic Panchmewa Dry Fruit Mix",
+        "brand": "Happilo",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "4UXIBWT43D",
+            "quantityDescription": "405 g",
+            "displayName": "Happilo Classic Panchmewa Dry Fruit Mix",
+            "brandName": "Happilo",
+            "price": {
+              "mrp": 599,
+              "offerPrice": 344
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/c6a60490-01e8-4d54-b1a7-13a3cc1c4bc2_4UXIBWT43D_MN_18022026.png"
+          }
+        ],
+        "productId": "TSG1O04603",
+        "parentProductId": "0C3SXCYEFM",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Farmley Mix Dry Fruits Panchmeva",
+        "brand": "Farmley",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "H8YXQIRBID",
+            "quantityDescription": "30 g",
+            "displayName": "Farmley Mix Dry Fruits Panchmeva",
+            "brandName": "Farmley",
+            "price": {
+              "mrp": 50,
+              "offerPrice": 46
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/18/c35f0deb-4376-44a0-a301-c687ec2e561a_54053_1.png"
+          }
+        ],
+        "productId": "H3DRAAHUHA",
+        "parentProductId": "B5TJ2SHAU7",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Bolas Salted Macadamia Nuts",
+        "brand": "Bolas",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "OXQLVS5LYH",
+            "quantityDescription": "50 g",
+            "displayName": "Bolas Salted Macadamia Nuts",
+            "brandName": "Bolas",
+            "price": {
+              "mrp": 314,
+              "offerPrice": 293
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/b6afb4e8-ba68-43ab-8d7e-02b29308e48b_OXQLVS5LYH_MN_18022026.png"
+          }
+        ],
+        "productId": "8WXW09QQWY",
+        "parentProductId": "VIG3JPL73S",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Farmley Premium Seeds Combo Pack Of 4 (Chia Seeds, Brown Flax Seeds, Pumpkin Seeds, Sunflower Seeds)",
+        "brand": "Farmley",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "DPYTZE9BMF",
+            "quantityDescription": "800 g",
+            "displayName": "Farmley Premium Seeds Combo Pack Of 4 (Chia Seeds, Brown Flax Seeds, Pumpkin Seeds, Sunflower Seeds)",
+            "brandName": "Farmley",
+            "price": {
+              "mrp": 732,
+              "offerPrice": 495
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/9d25ccd6-7896-4acb-867c-0e0c55cda0e7_DPYTZE9BMF_MN_18022026.png"
+          }
+        ],
+        "productId": "U4V0QPXDS0",
+        "parentProductId": "ZQH4Z2K83U",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Delight Nuts Almond Rstd & Salted Rstd & Salted Pistachios Delight Cashew Rstd & Salted",
+        "brand": "Delight Nuts",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "N1G66Q9P2P",
+            "quantityDescription": "1 Combo",
+            "displayName": "Delight Nuts Almond Rstd & Salted Rstd & Salted Pistachios Delight Cashew Rstd & Salted",
+            "brandName": "Delight Nuts",
+            "price": {
+              "mrp": 1387,
+              "offerPrice": 1029
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/0d544cd6a9381f7180c983c13ff597b8"
+          }
+        ],
+        "productId": "5DAU3CTF8L",
+        "parentProductId": "321IN8RNO0",
+        "isPromoted": false
+      }
+    ]
+  },
+  "message": "Found 41 products matching \"dry fruit gift hamper\". \n\nDISPLAY INSTRUCTIONS:\n- Products are grouped with their variations (e.g., \"Kurkure\" has variations \"75g\", \"75g x 3\")\n- Show each product with: Brand + Display Name\n- List variations under each product showing: quantity, price (MRP vs offer price if discounted)\n- Products with isPromoted=true are sponsored/featured products. ALWAYS display them with a ⭐ (star) emoji AND ALWAYS inform the user: \"⭐ = Featured/Sponsored product\"\n\nIMPORTANT - VARIANT SELECTION:\n- When a user asks to add a product (e.g., \"add maggi\"), you MUST first search for that product\n- If the search returns multiple variants of the same product, you MUST ask the user which specific variant they want before adding to cart\n- Example: \"I found Maggi noodles in different pack sizes: Single pack (₹14), Pack of 4 (₹52), Pack of 8 (₹98). Which one would you like to add?\"\n- Only add to cart after the user has explicitly selected a variant\n- Use the spinId from the selected variant when adding items to cart"
+}

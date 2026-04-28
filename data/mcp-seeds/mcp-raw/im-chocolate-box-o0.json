@@ -1,0 +1,1230 @@
+{
+  "success": true,
+  "data": {
+    "nextOffset": "1",
+    "products": [
+      {
+        "displayName": "Ferrero Rocher Moments Chocolate",
+        "brand": "Ferrero Rocher",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "R9DQX970Z1",
+            "quantityDescription": "92.8 g",
+            "displayName": "Ferrero Rocher Moments Chocolate",
+            "brandName": "Ferrero Rocher",
+            "price": {
+              "mrp": 269,
+              "offerPrice": 229
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/21/e84bfa11-54d1-4f07-aeee-41f143933856_40844_1.png"
+          }
+        ],
+        "productId": "5CFFZKVWSD",
+        "parentProductId": "KCPEFNGFEK",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Barquillo Hazelnut Dubai Chocolate Gift Pack (10 Pieces)",
+        "brand": "Barquillo",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "6R6A6T19PO",
+            "quantityDescription": "200 g",
+            "displayName": "Barquillo Hazelnut Dubai Chocolate Gift Pack (10 Pieces)",
+            "brandName": "Barquillo",
+            "price": {
+              "mrp": 699,
+              "offerPrice": 664
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/17/08028bb6-bee7-4175-84f4-a4a3bcb1a8cf_419489_1.png"
+          }
+        ],
+        "productId": "9Y45SPLJJO",
+        "parentProductId": "PO95ARY1O0",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Nestle KitKat 2F Mini Valentine Gift Box, 15 Pieces",
+        "brand": "Kitkat",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "XOPB4UZ6LN",
+            "quantityDescription": "181.5 g",
+            "displayName": "Nestle KitKat 2F Mini Valentine Gift Box, 15 Pieces",
+            "brandName": "Kitkat",
+            "price": {
+              "mrp": 200,
+              "offerPrice": 149
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/2/6a2a1db6-a193-420e-b157-52e0af0f8bd0_167189_1.png"
+          }
+        ],
+        "productId": "I70BHELEAT",
+        "parentProductId": "NC4C5121H4",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Barquillo Roasted Almond Dubai Chocolate Gift Pack (10 Pieces)",
+        "brand": "Barquillo",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "BGVKYBHPQU",
+            "quantityDescription": "200 g",
+            "displayName": "Barquillo Roasted Almond Dubai Chocolate Gift Pack (10 Pieces)",
+            "brandName": "Barquillo",
+            "price": {
+              "mrp": 699,
+              "offerPrice": 664
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/30/e540fe52-6b18-4fda-8840-c75e4e8a5f9b_355703_1.png"
+          }
+        ],
+        "productId": "VSJUYBH91F",
+        "parentProductId": "5SI7CXAVDE",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Hershey's Kisses Milk Chocolate",
+        "brand": "Hershey's",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "BZOPA3IT9C",
+            "quantityDescription": "36 g",
+            "displayName": "Hershey's Kisses Milk Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 53,
+              "offerPrice": 51
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/1ffca784-5096-4794-9c9a-6aab53fff863_BZOPA3IT9C_MN_18022026.png"
+          },
+          {
+            "spinId": "J426OSEBEQ",
+            "quantityDescription": "36 g x 4",
+            "displayName": "Hershey's Kisses Milk Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 212,
+              "offerPrice": 204
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/4/11/0867a2d7-7276-473c-83d4-68e804b4dbdb_644097_1.png"
+          }
+        ],
+        "productId": "CUEFU3FPAP",
+        "parentProductId": "70A7F03Q86",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Barquillo Red Velvet Cheesecake Dubai Chocolate Gift Pack (10 Pieces)",
+        "brand": "Barquillo",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "P392YNUNPQ",
+            "quantityDescription": "200 g",
+            "displayName": "Barquillo Red Velvet Cheesecake Dubai Chocolate Gift Pack (10 Pieces)",
+            "brandName": "Barquillo",
+            "price": {
+              "mrp": 799,
+              "offerPrice": 759
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/2/d657193f-431f-42a1-81d8-b45a0eb16c15_P392YNUNPQ.png"
+          }
+        ],
+        "productId": "C8Y043CI8G",
+        "parentProductId": "NHE5BT52B7",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+        "brand": "Cadbury",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "M5RWVLATPD",
+            "quantityDescription": "54.88 g x 2",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 100,
+              "offerPrice": 100
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/21/06a67120-60dc-403e-a3fb-59160df0085b_40111_1.png"
+          },
+          {
+            "spinId": "HQV22MZZ0D",
+            "quantityDescription": "54.88 g",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 50,
+              "offerPrice": 50
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/aa11adf3-5d9f-42d0-b617-872e595bdfee_40111_1.png"
+          }
+        ],
+        "productId": "QXJ4ZY4XJ4",
+        "parentProductId": "ZQGMFGMPWR",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Fabelle Gianduja Trilogy - Assorted Hazelnut Infused",
+        "brand": "Fabelle",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "NA9FDHFI5B",
+            "quantityDescription": "144 g",
+            "displayName": "Fabelle Gianduja Trilogy - Assorted Hazelnut Infused",
+            "brandName": "Fabelle",
+            "price": {
+              "mrp": 1375,
+              "offerPrice": 1292
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/192911ff-f87b-4de9-acc7-ab8ac6cafd7e_697797_1.png"
+          }
+        ],
+        "productId": "CQJHQHHTGJ",
+        "parentProductId": "VDGPCPZP3S",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Munch Choco Coated Wafer Bar",
+        "brand": "Munch",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "CGNY4F9J08",
+            "quantityDescription": "158.4 g x 2",
+            "displayName": "Munch Choco Coated Wafer Bar",
+            "brandName": "Nestle",
+            "price": {
+              "mrp": 200,
+              "offerPrice": 180
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/61ee4aae-6375-4dc3-9c8e-9baacc6ffead_1710_1.png"
+          },
+          {
+            "spinId": "YBSXTIEIY1",
+            "quantityDescription": "158.4 g",
+            "displayName": "Munch Choco Coated Wafer Bar",
+            "brandName": "Munch",
+            "price": {
+              "mrp": 100,
+              "offerPrice": 100
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/23/b3c03569-4619-4bee-ae0f-01c7c807af76_YBSXTIEIY1_1_1ef20653-fb57-4c27-9e6c-d68d506b7533.png"
+          },
+          {
+            "spinId": "4BA5GC7KEI",
+            "quantityDescription": "158.4 g x 3",
+            "displayName": "Munch Choco Coated Wafer Bar",
+            "brandName": "Munch",
+            "price": {
+              "mrp": 300,
+              "offerPrice": 246
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/61ee4aae-6375-4dc3-9c8e-9baacc6ffead_1710_1.png"
+          }
+        ],
+        "productId": "O5SZDUY0NL",
+        "parentProductId": "QZIQ5W1VQA",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Nestle KitKat 2F Mini Valentine Gift Box, 15 Pieces",
+        "brand": "Kitkat",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "XOPB4UZ6LN",
+            "quantityDescription": "181.5 g",
+            "displayName": "Nestle KitKat 2F Mini Valentine Gift Box, 15 Pieces",
+            "brandName": "Kitkat",
+            "price": {
+              "mrp": 200,
+              "offerPrice": 149
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/3/2/6a2a1db6-a193-420e-b157-52e0af0f8bd0_167189_1.png"
+          }
+        ],
+        "productId": "I70BHELEAT",
+        "parentProductId": "NC4C5121H4",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+        "brand": "Cadbury",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "NNY5I3L73N",
+            "quantityDescription": "179.66 g x 3",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 630,
+              "offerPrice": 573
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png"
+          },
+          {
+            "spinId": "UBX37KL9ST",
+            "quantityDescription": "179.66 g x 2",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 420,
+              "offerPrice": 382
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png"
+          },
+          {
+            "spinId": "Y32C0W4WMI",
+            "quantityDescription": "179.66 g",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 210,
+              "offerPrice": 193
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/81de4610-10b9-430b-b8d3-965206fdcb71_20273_1.png"
+          }
+        ],
+        "productId": "GO929E54U7",
+        "parentProductId": "ZQGMFGMPWR",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Ferrero Rocher Moments Chocolate",
+        "brand": "Ferrero Rocher",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "R9DQX970Z1",
+            "quantityDescription": "92.8 g",
+            "displayName": "Ferrero Rocher Moments Chocolate",
+            "brandName": "Ferrero Rocher",
+            "price": {
+              "mrp": 269,
+              "offerPrice": 229
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/21/e84bfa11-54d1-4f07-aeee-41f143933856_40844_1.png"
+          }
+        ],
+        "productId": "5CFFZKVWSD",
+        "parentProductId": "KCPEFNGFEK",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Cadbury Dairy Milk Chocolate Home Treats",
+        "brand": "Cadbury",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "5DX2RKZKN4",
+            "quantityDescription": "98 g",
+            "displayName": "Cadbury Dairy Milk Chocolate Home Treats",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 133,
+              "offerPrice": 115
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/10/b550fe9a-a28b-4511-953e-c0831fa63a31_595_1.png"
+          },
+          {
+            "spinId": "5AXZ908ARM",
+            "quantityDescription": "98 g x 4",
+            "displayName": "Cadbury Dairy Milk Chocolate Home Treats",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 532,
+              "offerPrice": 460
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/9/b6c428b5-6880-42e2-9cfe-e402408f0ef9_595_1.png"
+          },
+          {
+            "spinId": "17UMCU3NNR",
+            "quantityDescription": "98 g x 2",
+            "displayName": "Cadbury Dairy Milk Chocolate Home Treats",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 266,
+              "offerPrice": 230
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/9/b6c428b5-6880-42e2-9cfe-e402408f0ef9_595_1.png"
+          }
+        ],
+        "productId": "Q49UBEM6C2",
+        "parentProductId": "68RC1MODQQ",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+        "brand": "Cadbury",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "M5RWVLATPD",
+            "quantityDescription": "54.88 g x 2",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 100,
+              "offerPrice": 100
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/21/06a67120-60dc-403e-a3fb-59160df0085b_40111_1.png"
+          },
+          {
+            "spinId": "HQV22MZZ0D",
+            "quantityDescription": "54.88 g",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 50,
+              "offerPrice": 50
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/aa11adf3-5d9f-42d0-b617-872e595bdfee_40111_1.png"
+          }
+        ],
+        "productId": "QXJ4ZY4XJ4",
+        "parentProductId": "ZQGMFGMPWR",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Nestle Milkybar Creamy Milky Treat",
+        "brand": "Milky Bar",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "FXUDWDXF0F",
+            "quantityDescription": "42 g x 2",
+            "displayName": "Nestle Milkybar Creamy Milky Treat",
+            "brandName": "Milky Bar",
+            "price": {
+              "mrp": 80,
+              "offerPrice": 72
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/12/fed84bcb-0605-4b96-ad19-2596b731fad3_10096_1.png"
+          },
+          {
+            "spinId": "RWZ7H6R96B",
+            "quantityDescription": "42 g",
+            "displayName": "Nestle Milkybar Creamy Milky Treat",
+            "brandName": "Milkybar",
+            "price": {
+              "mrp": 40,
+              "offerPrice": 40
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/e8b40fe2-f0fd-4efa-ad7e-2ed3973bd2bd_10096_1.png"
+          },
+          {
+            "spinId": "6J7BCSHJIC",
+            "quantityDescription": "42 g x 3",
+            "displayName": "Nestle Milkybar Creamy Milky Treat",
+            "brandName": "Milky Bar",
+            "price": {
+              "mrp": 120,
+              "offerPrice": 99
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/12/fed84bcb-0605-4b96-ad19-2596b731fad3_10096_1.png"
+          }
+        ],
+        "productId": "6MG60KYRJ2",
+        "parentProductId": "DISAIFXL7F",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Ferrero Rocher Moments Gift Pack (32 Pieces)",
+        "brand": "Ferrero Rocher",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "CV0XBMTZTT",
+            "quantityDescription": "185.6 g",
+            "displayName": "Ferrero Rocher Moments Gift Pack (32 Pieces)",
+            "brandName": "Ferrero Rocher",
+            "price": {
+              "mrp": 539,
+              "offerPrice": 474
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/21/93206f73-18b3-4f17-bae5-5a2b7759a390_40845_1.png"
+          }
+        ],
+        "productId": "5FJKZJC5NF",
+        "parentProductId": "YIZFF1JPS5",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Ferrero Rocher Gift",
+        "brand": "Ferrero Rocher",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "LLE7JJXCC5",
+            "quantityDescription": "50 g",
+            "displayName": "Ferrero Rocher Gift",
+            "brandName": "Ferrero Rocher",
+            "price": {
+              "mrp": 169,
+              "offerPrice": 169
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/9f6a333f-7cc3-4b49-86a4-685137ecdf21_1981_1.png"
+          }
+        ],
+        "productId": "9Q9K1GS2ZZ",
+        "parentProductId": "MTBU438MDW",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+        "brand": "Cadbury",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "NNY5I3L73N",
+            "quantityDescription": "179.66 g x 3",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 630,
+              "offerPrice": 573
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png"
+          },
+          {
+            "spinId": "UBX37KL9ST",
+            "quantityDescription": "179.66 g x 2",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 420,
+              "offerPrice": 382
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/10/1/8cf3ccef-9640-46c4-9b76-019d131efb59_20273_1.png"
+          },
+          {
+            "spinId": "Y32C0W4WMI",
+            "quantityDescription": "179.66 g",
+            "displayName": "Cadbury Celebrations Assorted Chocolate Diwali Gift Pack",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 210,
+              "offerPrice": 193
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/19/81de4610-10b9-430b-b8d3-965206fdcb71_20273_1.png"
+          }
+        ],
+        "productId": "GO929E54U7",
+        "parentProductId": "ZQGMFGMPWR",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+        "brand": "Cadbury",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "1BJTWDIU3O",
+            "quantityDescription": "70 g",
+            "displayName": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 107,
+              "offerPrice": 95
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/24/6c260d1f-f3a0-412a-85af-fa0aa25ba79a_549734_1.png"
+          },
+          {
+            "spinId": "07NCQQ789Z",
+            "quantityDescription": "70 g x 2",
+            "displayName": "Cadbury Dairy Milk Silk Desserts Brownie Chocolate Bar",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 214,
+              "offerPrice": 190
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/9/93420e3c-e7b4-4830-9e6b-938fecf40aa7_549734_1.png"
+          }
+        ],
+        "productId": "CLUCZ05Y5Q",
+        "parentProductId": "9RE17YMMO6",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+        "brand": "Hershey's",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "MNQUDV6QG4",
+            "quantityDescription": "33.6 g x 3",
+            "displayName": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 171,
+              "offerPrice": 165
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/b4a623f5d88d5f68df76dc7e20b56652"
+          },
+          {
+            "spinId": "L6R6YV82V7",
+            "quantityDescription": "33.6 g",
+            "displayName": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 57,
+              "offerPrice": 55
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/406cd57b-9995-4964-8009-ca629f895319_L6R6YV82V7_MN_18022026.png"
+          },
+          {
+            "spinId": "38HLUYN6O8",
+            "quantityDescription": "33.6 g x 2",
+            "displayName": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 114,
+              "offerPrice": 109
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/b4a623f5d88d5f68df76dc7e20b56652"
+          }
+        ],
+        "productId": "NL3IOXHI46",
+        "parentProductId": "5HUZVS6FLY",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Cadbury Nutties Chocolate",
+        "brand": "Cadbury",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "ENSA39QOUK",
+            "quantityDescription": "30 g",
+            "displayName": "Cadbury Nutties Chocolate",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 45,
+              "offerPrice": 45
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/cd895f37-400f-4c83-a1b6-1e3f40a6c081_ENSA39QOUK_MN_18022026.png"
+          }
+        ],
+        "productId": "JQIMWR5MUM",
+        "parentProductId": "PZ3WM5Y6G2",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Ferrero Rocher Gift Pack (24 Pieces)",
+        "brand": "Ferrero Rocher",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "OHLP05T2UZ",
+            "quantityDescription": "300 g x 2",
+            "displayName": "Ferrero Rocher Gift Pack (24 Pieces)",
+            "brandName": "Ferrero Rocher",
+            "price": {
+              "mrp": 1758,
+              "offerPrice": 1670
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/11/6/8597a8b8-c15e-4e92-a11c-ae3c16ff8905_878_1.png"
+          },
+          {
+            "spinId": "XJNGY8Z3KN",
+            "quantityDescription": "300 g",
+            "displayName": "Ferrero Rocher Gift Pack (24 Pieces)",
+            "brandName": "Ferrero Rocher",
+            "price": {
+              "mrp": 879,
+              "offerPrice": 835
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/17/203b4186-83c3-4d5e-9856-9446e68d0f50_878_1.png"
+          }
+        ],
+        "productId": "HTPQ476J5O",
+        "parentProductId": "MTBU438MDW",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Ferrero Rocher Gift Pack (8 Pieces)",
+        "brand": "Ferrero Rocher",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "QA56PSU6WO",
+            "quantityDescription": "100 g",
+            "displayName": "Ferrero Rocher Gift Pack (8 Pieces)",
+            "brandName": "Ferrero Rocher",
+            "price": {
+              "mrp": 319,
+              "offerPrice": 291
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/17/cbc8bed4-2e34-4fb2-a6e3-10369dbe77f4_40843_1.png"
+          }
+        ],
+        "productId": "FFP79Y4VL1",
+        "parentProductId": "FEZHVMY82V",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Fabelle Ganache Creamy Milk, Luxury Chocolates Gift Box",
+        "brand": "Fabelle",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "4GLQFUUJW1",
+            "quantityDescription": "124 g",
+            "displayName": "Fabelle Ganache Creamy Milk, Luxury Chocolates Gift Box",
+            "brandName": "Fabelle",
+            "price": {
+              "mrp": 1108,
+              "offerPrice": 1075
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/21/76a1247a-ce80-4324-9dd9-7098c5a94c6d_572245_1_MN_7a572444-aebf-42cb-b126-d76401edc18a.jpg"
+          }
+        ],
+        "productId": "Z1FPSJH037",
+        "parentProductId": "ER1172N9S0",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Cadbury Dairy Milk Silk Chocolate Bar",
+        "brand": "Cadbury",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "VQTN6M3ZQU",
+            "quantityDescription": "60 g",
+            "displayName": "Cadbury Dairy Milk Silk Chocolate Bar",
+            "brandName": "Cadbury",
+            "price": {
+              "mrp": 102,
+              "offerPrice": 96
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/16/78ab031d-db5a-4f77-b501-145e63b93146_85416_1.png"
+          }
+        ],
+        "productId": "Y1JN1GT8WQ",
+        "parentProductId": "51G65YVSN8",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Hershey's Kisses Choco Truffle",
+        "brand": "Hershey's",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "ZZS0VU95U9",
+            "quantityDescription": "45 g",
+            "displayName": "Hershey's Kisses Choco Truffle",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 88,
+              "offerPrice": 84
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/88cff2ca-dc1d-4574-8991-ea016a462a4f_ZZS0VU95U9_MN_18022026.png"
+          },
+          {
+            "spinId": "Q0B1TM0EC5",
+            "quantityDescription": "45 g x 3",
+            "displayName": "Hershey's Kisses Choco Truffle",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 264,
+              "offerPrice": 252
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/9/23/f380a82f-9931-4dae-97c6-f9bbb397c7e6_371435_1.png"
+          }
+        ],
+        "productId": "EXLY5WZSAW",
+        "parentProductId": "21E0FEH26M",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Elvan Truffle Assortment Mini Bag 1",
+        "brand": "Elvan",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "RHL8D039NV",
+            "quantityDescription": "140 g",
+            "displayName": "Elvan Truffle Assortment Mini Bag 1",
+            "brandName": "Elvan",
+            "price": {
+              "mrp": 349,
+              "offerPrice": 349
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/17/ea967adf-5d65-469f-974b-0c583545c455_Creative2_AL2_f3913f81-d56c-41f1-92a2-1de8df5d2bff.jpg"
+          }
+        ],
+        "productId": "YVU7Z2R7ZG",
+        "parentProductId": "DI27WR6RVU",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Fabelle Dessert Collection- 5 Handcrafted Dessert Inspired Chocolate Truffles",
+        "brand": "Fabelle",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "GWPYZ4NQZI",
+            "quantityDescription": "66 g",
+            "displayName": "Fabelle Dessert Collection- 5 Handcrafted Dessert Inspired Chocolate Truffles",
+            "brandName": "Fabelle",
+            "price": {
+              "mrp": 752,
+              "offerPrice": 722
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/28/998d9f6a-0818-49aa-9268-f2614d58b7ec_732485_1_MN_74b0f44e-ee82-4d29-96c2-397ddf6580d3.jpg"
+          }
+        ],
+        "productId": "H4CR1MI50Z",
+        "parentProductId": "X9XWL646WN",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Hershey's Kisses Strawberry Creme - Flavored Center Filled Chocolate",
+        "brand": "Hershey's",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "ES3WPPN2G7",
+            "quantityDescription": "40.5 g",
+            "displayName": "Hershey's Kisses Strawberry Creme - Flavored Center Filled Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 88,
+              "offerPrice": 81
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/11/26/c1300710-1d1e-4d3e-9377-8f47c5944a78_NPI-064462_1_20251126_092914.png"
+          }
+        ],
+        "productId": "X3TYLNT6OJ",
+        "parentProductId": "791APFYN14",
+        "isPromoted": false
+      },
+      {
+        "displayName": "OPEN SECRET Assorted Cookies Celebration Gift Zero Maida Healthy Snacks",
+        "brand": "OPEN SECRET",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "3ZDTD3DRA2",
+            "quantityDescription": "150 g",
+            "displayName": "OPEN SECRET Assorted Cookies Celebration Gift Zero Maida Healthy Snacks",
+            "brandName": "OPEN SECRET",
+            "price": {
+              "mrp": 350,
+              "offerPrice": 287
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/4/16/e02ccb5f-04d2-488d-a1e6-3d4ae212bcfe_1_MN_a7ab2fc4-bc27-4e74-8b2a-c7761cda4062.jpg"
+          }
+        ],
+        "productId": "VMX1OQLKAT",
+        "parentProductId": "7B61485JOV",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Cadbury Studio Brownie Aux Noix Signature Pralines Chocolate Gift",
+        "brand": "Cadbury Studio",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "XRM4C7LR85",
+            "quantityDescription": "130 g x 2",
+            "displayName": "Cadbury Studio Brownie Aux Noix Signature Pralines Chocolate Gift",
+            "brandName": "Cadbury Studio",
+            "price": {
+              "mrp": 890,
+              "offerPrice": 623
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/6/18/1f461f03-bb83-4cd0-93c9-7a4f04bfdf76_54761_1.png"
+          },
+          {
+            "spinId": "61FG8T5USQ",
+            "quantityDescription": "130 g",
+            "displayName": "Cadbury Studio Brownie Aux Noix Signature Pralines Chocolate Gift",
+            "brandName": "Cadbury Studio",
+            "price": {
+              "mrp": 445,
+              "offerPrice": 334
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/11/39b4e90e-3fa7-4a14-898b-7f809eaeb9af_54761.png"
+          }
+        ],
+        "productId": "HNTDUP3HKG",
+        "parentProductId": "FSOZAFCKOW",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Open Secret Chocolates, Brownie , Cookies, Flavored Nuts, Gift Hamper | 5 Delightful Healthy Snacks",
+        "brand": "OPEN SECRET",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "F5ONQRT9NN",
+            "quantityDescription": "121 g",
+            "displayName": "Open Secret Chocolates, Brownie , Cookies, Flavored Nuts, Gift Hamper | 5 Delightful Healthy Snacks",
+            "brandName": "OPEN SECRET",
+            "price": {
+              "mrp": 350,
+              "offerPrice": 294
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/1/23/70f962d1-47f5-4d63-b854-4c68363df613_91455_1.png"
+          }
+        ],
+        "productId": "WK2XGGVEDE",
+        "parentProductId": "FV86EMB1GR",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Hershey's Kisses Milk Chocolate",
+        "brand": "Hershey's",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "MUJ2N844JH",
+            "quantityDescription": "108 g x 2",
+            "displayName": "Hershey's Kisses Milk Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 300,
+              "offerPrice": 287
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/28/80d0a98b-5a9c-4680-9c58-da8a9b79adba_4BAQOVB9H6.png"
+          },
+          {
+            "spinId": "4BAQOVB9H6",
+            "quantityDescription": "108 g",
+            "displayName": "Hershey's Kisses Milk Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 150,
+              "offerPrice": 145
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/3ad1caae-f4f8-4088-8aa5-de6317484c34_4BAQOVB9H6_MN_18022026.png"
+          }
+        ],
+        "productId": "IVIQ0I0KLD",
+        "parentProductId": "70A7F03Q86",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Sunfeast Fantastik! Choco Delights Assorted Chocolate Gift Pack",
+        "brand": "Sunfeast",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "JV7PYVFZ2K",
+            "quantityDescription": "136 g",
+            "displayName": "Sunfeast Fantastik! Choco Delights Assorted Chocolate Gift Pack",
+            "brandName": "Sunfeast",
+            "price": {
+              "mrp": 299,
+              "offerPrice": 299
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/d15a77ee-c980-405f-9249-b055829d2c5d_JV7PYVFZ2K_MN_18022026.png"
+          }
+        ],
+        "productId": "H5BLCRHV3X",
+        "parentProductId": "6OYKNGL8BQ",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Geisha Chocolates",
+        "brand": "Geisha",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "AB4LRM9NH8",
+            "quantityDescription": "160 g",
+            "displayName": "Geisha Chocolates",
+            "brandName": "Geisha",
+            "price": {
+              "mrp": 899,
+              "offerPrice": 899
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/25cac9f3-1354-44a6-a18d-5b7ed36b5961_AB4LRM9NH8_MN_18022026.png"
+          }
+        ],
+        "productId": "TZXINK3YZ0",
+        "parentProductId": "ZJTJREJJ31",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Snickers Best of Minis Assorted Chocolate",
+        "brand": "Snickers",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "UPEVIBNZYB",
+            "quantityDescription": "195.5 g",
+            "displayName": "Snickers Best of Minis Assorted Chocolate",
+            "brandName": "Snickers",
+            "price": {
+              "mrp": 599,
+              "offerPrice": 479
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/24/84b0db5b-d36a-4a81-b121-f215f1afc384_250031_1.png"
+          },
+          {
+            "spinId": "BLQMTUCPRN",
+            "quantityDescription": "195.5 g x 3",
+            "displayName": "Snickers Best of Minis Assorted Chocolate",
+            "brandName": "Snickers",
+            "price": {
+              "mrp": 1797,
+              "offerPrice": 1437
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/28/fd0d3808-9939-41ec-ae91-38d98fe3f3ac_250031_1.png"
+          },
+          {
+            "spinId": "YXWOUJ67DC",
+            "quantityDescription": "195.5 g x 4",
+            "displayName": "Snickers Best of Minis Assorted Chocolate",
+            "brandName": "Snickers",
+            "price": {
+              "mrp": 2396,
+              "offerPrice": 1916
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/28/fd0d3808-9939-41ec-ae91-38d98fe3f3ac_250031_1.png"
+          },
+          {
+            "spinId": "UHTZ1SQH69",
+            "quantityDescription": "195.5 g x 2",
+            "displayName": "Snickers Best of Minis Assorted Chocolate",
+            "brandName": "Snickers",
+            "price": {
+              "mrp": 1198,
+              "offerPrice": 958
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/2/28/fd0d3808-9939-41ec-ae91-38d98fe3f3ac_250031_1.png"
+          }
+        ],
+        "productId": "PFY8W252F4",
+        "parentProductId": "QD12R7H3GC",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Cadbury Studio Signature Pralines, Gianduja Hazelnut, 52 g",
+        "brand": "Cadbury Studio",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "028Q1OR5HI",
+            "quantityDescription": "52 g x 2",
+            "displayName": "Cadbury Studio Signature Pralines, Gianduja Hazelnut, 52 g",
+            "brandName": "Cadbury Studio",
+            "price": {
+              "mrp": 354,
+              "offerPrice": 266
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/5/30/cc35db4e-f986-4085-9ee7-6b62acbad114_84360_1.png"
+          },
+          {
+            "spinId": "T5XUWHJXT2",
+            "quantityDescription": "52 g",
+            "displayName": "Cadbury Studio Signature Pralines, Gianduja Hazelnut, 52 g",
+            "brandName": "Cadbury Studio",
+            "price": {
+              "mrp": 177,
+              "offerPrice": 142
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/12/11/0caa30a6-51d4-4da9-8593-0ce2c2c12413_84360.png"
+          },
+          {
+            "spinId": "1U857NXJI9",
+            "quantityDescription": "52 g x 3",
+            "displayName": "Cadbury Studio Signature Pralines, Gianduja Hazelnut, 52 g",
+            "brandName": "Cadbury Studio",
+            "price": {
+              "mrp": 531,
+              "offerPrice": 399
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/5/30/cc35db4e-f986-4085-9ee7-6b62acbad114_84360_1.png"
+          }
+        ],
+        "productId": "X3ZNL8N89D",
+        "parentProductId": "7XXOZ0R7NV",
+        "isPromoted": false
+      },
+      {
+        "displayName": "Fabelle Loaded Secret - Dark Chocolate Bar with visible Almonds",
+        "brand": "Fabelle",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "8C6OY0JBNA",
+            "quantityDescription": "115 g",
+            "displayName": "Fabelle Loaded Secret - Dark Chocolate Bar with visible Almonds",
+            "brandName": "Fabelle",
+            "price": {
+              "mrp": 529,
+              "offerPrice": 497
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/4/21/f7c26c4a-5dd0-48fd-bced-2856abcb0545_181237_1.png"
+          }
+        ],
+        "productId": "M7QC0XTPOZ",
+        "parentProductId": "30SBSMNI2R",
+        "isPromoted": true
+      },
+      {
+        "displayName": "Hershey's Kisses Almond Chocolate",
+        "brand": "Hershey's",
+        "inStock": true,
+        "isAvail": true,
+        "variations": [
+          {
+            "spinId": "K0TO38GVVE",
+            "quantityDescription": "33.6 g",
+            "displayName": "Hershey's Kisses Almond Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 57,
+              "offerPrice": 55
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/18/e17903a6-5c11-4e6c-a54d-81a2af71405e_K0TO38GVVE_MN_18022026.png"
+          },
+          {
+            "spinId": "1VQRY36ONR",
+            "quantityDescription": "33.6 g x 3",
+            "displayName": "Hershey's Kisses Almond Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 171,
+              "offerPrice": 165
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/13/f1ca18da-0ecb-450f-9397-6f6f92556af4_2771_1.png"
+          },
+          {
+            "spinId": "KXKUXS30GY",
+            "quantityDescription": "33.6 g x 2",
+            "displayName": "Hershey's Kisses Almond Chocolate",
+            "brandName": "Hershey's",
+            "price": {
+              "mrp": 114,
+              "offerPrice": 109
+            },
+            "isInStockAndAvailable": true,
+            "imageUrl": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/13/f1ca18da-0ecb-450f-9397-6f6f92556af4_2771_1.png"
+          }
+        ],
+        "productId": "6PF2UBOXXI",
+        "parentProductId": "5A35XTNU8W",
+        "isPromoted": false
+      }
+    ]
+  },
+  "message": "Found 39 products matching \"chocolate box\". \n\nDISPLAY INSTRUCTIONS:\n- Products are grouped with their variations (e.g., \"Kurkure\" has variations \"75g\", \"75g x 3\")\n- Show each product with: Brand + Display Name\n- List variations under each product showing: quantity, price (MRP vs offer price if discounted)\n- Products with isPromoted=true are sponsored/featured products. ALWAYS display them with a ⭐ (star) emoji AND ALWAYS inform the user: \"⭐ = Featured/Sponsored product\"\n\nIMPORTANT - VARIANT SELECTION:\n- When a user asks to add a product (e.g., \"add maggi\"), you MUST first search for that product\n- If the search returns multiple variants of the same product, you MUST ask the user which specific variant they want before adding to cart\n- Example: \"I found Maggi noodles in different pack sizes: Single pack (₹14), Pack of 4 (₹52), Pack of 8 (₹98). Which one would you like to add?\"\n- Only add to cart after the user has explicitly selected a variant\n- Use the spinId from the selected variant when adding items to cart"
+}

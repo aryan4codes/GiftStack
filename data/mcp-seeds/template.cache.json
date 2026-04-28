@@ -1,0 +1,73 @@
+{
+  "cached_dineout_restaurants": [
+    {
+      "id": "from_mcp_restaurant_id",
+      "name": "Restaurant Name",
+      "cuisine": ["Italian"],
+      "area": "Area",
+      "city": "Bangalore",
+      "avg_cost_for_two": 1500,
+      "rating": 4.5,
+      "rating_count": 100,
+      "image_url": "https://...",
+      "highlights": ["Highlight"],
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "raw_data": {}
+    }
+  ],
+  "cached_dineout_slots": [
+    {
+      "restaurant_id": "from_mcp_restaurant_id",
+      "date": "2026-05-01",
+      "slot_group": "Dinner",
+      "display_time": "7:30 PM",
+      "slot_id": 1,
+      "item_id": "rest-ticket-id",
+      "reservation_time": 1735689600,
+      "is_free": true,
+      "raw_data": {}
+    }
+  ],
+  "cached_food_restaurants": [
+    {
+      "id": "from_mcp_food_rest_id",
+      "name": "Place",
+      "cuisine": ["Thai"],
+      "area": "Koramangala",
+      "city": "Bangalore",
+      "rating": 4.6,
+      "delivery_time": "35 min",
+      "image_url": null,
+      "availability_status": "OPEN",
+      "raw_data": {}
+    }
+  ],
+  "cached_food_menu_items": [
+    {
+      "id": "menu_item_id_from_mcp",
+      "restaurant_id": "from_mcp_food_rest_id",
+      "name": "Dish",
+      "category": "Mains",
+      "price_paise": 49900,
+      "description": "",
+      "is_veg": true,
+      "image_url": null,
+      "has_variants": false,
+      "has_addons": false,
+      "raw_data": {}
+    }
+  ],
+  "cached_instamart_products": [
+    {
+      "id": "spin_id_from_mcp",
+      "name": "Product",
+      "brand": "",
+      "category": "Snacks",
+      "price_paise": 19900,
+      "image_url": null,
+      "city": "Bangalore",
+      "raw_data": {}
+    }
+  ]
+}
