@@ -1,5 +1,8 @@
 import { auth, currentUser } from "@clerk/nextjs/server";
-import { buildOptionsFromCache } from "@/lib/build-options";
+import {
+  buildOptionsFromCache,
+  type GiftContextForOptions,
+} from "@/lib/build-options";
 import { enrichOptionsCopy } from "@/lib/llm/rank-copy";
 import { createGiftId } from "@/lib/id";
 import { createServiceClient } from "@/lib/supabase/admin";
@@ -41,7 +44,12 @@ export async function POST(req: Request) {
   const occasion = parsed.occasion;
   let options = body.options;
   if (!options) {
-    const raw = await buildOptionsFromCache(sb, city, budget);
+    const ctx: GiftContextForOptions = {
+      occasion,
+      message: parsed.message_draft,
+      tone: parsed.tone ?? undefined,
+    };
+    const raw = await buildOptionsFromCache(sb, city, budget, ctx);
     options = await enrichOptionsCopy(raw, occasion);
   }
 

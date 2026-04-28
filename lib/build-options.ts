@@ -1,5 +1,16 @@
 import type { SupabaseClient } from "@supabase/supabase-js";
+import { selectDineoutRestaurantIdsViaLlm } from "@/lib/llm/select-dineout-restaurants";
+import { selectInstamartItemIdsViaLlm } from "@/lib/llm/select-instamart-hamper";
 import type { GiftOptionsPayload } from "@/types/gift";
+
+/**
+ * Optional sender context so Instamart hamper line-items can match message + occasion (LLM).
+ */
+export type GiftContextForOptions = {
+  occasion?: string;
+  message?: string;
+  tone?: string;
+};
 
 /**
  * Fill instamart hamper approaching the gift budget (not ₹10 chocolates only).
@@ -8,9 +19,76 @@ import type { GiftOptionsPayload } from "@/types/gift";
 type InstamartProductRow = {
   id: string;
   name: string;
+  brand?: string | null;
+  category?: string | null;
   price_paise: number | null;
   image_url?: string | null;
 };
+
+function assembleInstamartFromIds(
+  orderedIds: string[],
+  byId: Map<string, InstamartProductRow>,
+  budgetPaise: number
+): GiftOptionsPayload["instamart"]["items"] {
+  const cap = Math.max(0, Math.floor(budgetPaise * 0.92));
+  const items: GiftOptionsPayload["instamart"]["items"] = [];
+  let spent = 0;
+  for (const rawId of orderedIds) {
+    if (items.length >= 5) break;
+    const p = byId.get(rawId);
+    if (!p) continue;
+    const price = p.price_paise ?? 0;
+    if (price <= 0) continue;
+    if (spent + price > cap) continue;
+    const row: GiftOptionsPayload["instamart"]["items"][number] = {
+      item_id: p.id,
+      name: p.name,
+      qty: 1,
+      price_paise: price,
+    };
+    const im = p.image_url?.trim();
+    if (im) row.image_url = im;
+    items.push(row);
+    spent += price;
+  }
+  return items;
+}
+
+async function resolveInstamartItems(
+  filtered: InstamartProductRow[],
+  budgetPaise: number,
+  giftContext?: GiftContextForOptions
+): Promise<GiftOptionsPayload["instamart"]["items"]> {
+  const fallback = () => packInstamartItems(filtered, budgetPaise);
+  if (!giftContext) return fallback();
+
+  const msg = (giftContext.message ?? "").trim();
+  const occ = (giftContext.occasion ?? "").trim();
+  if (!process.env.OPENAI_API_KEY || (!msg && !occ)) return fallback();
+
+  const candidates = filtered.map((p) => ({
+    id: String(p.id),
+    name: String(p.name),
+    brand: p.brand ?? null,
+    category: p.category ?? null,
+    price_paise: p.price_paise,
+  }));
+
+  const ids = await selectInstamartItemIdsViaLlm(candidates, {
+    occasion: occ || "gift",
+    message: msg || occ,
+    tone: giftContext.tone,
+    budget_paise: Math.max(0, budgetPaise),
+  });
+
+  if (!ids?.length) return fallback();
+
+  const byId = new Map(
+    filtered.map((r) => [String(r.id), r] as const)
+  );
+  const assembled = assembleInstamartFromIds(ids, byId, budgetPaise);
+  return assembled.length ? assembled : fallback();
+}
 
 function packInstamartItems(
   products: InstamartProductRow[],
@@ -100,10 +178,93 @@ function packInstamartItems(
   return items;
 }
 
+const DINEOUT_CANDIDATE_LIMIT = 72;
+
+function mapDineoutRow(
+  r: Record<string, unknown>,
+  rank: number
+): GiftOptionsPayload["dineout"][number] {
+  const cuisines = Array.isArray(r.cuisine)
+    ? (r.cuisine as unknown[]).map(String).filter(Boolean)
+    : [];
+  return {
+    restaurant_id: String(r.id),
+    name: String(r.name),
+    cuisine: cuisines.length ? cuisines.slice(0, 5).join(" · ") : undefined,
+    area: r.area != null ? String(r.area) : undefined,
+    avg_cost_for_2:
+      r.avg_cost_for_two != null && r.avg_cost_for_two !== ""
+        ? Number(r.avg_cost_for_two)
+        : undefined,
+    image_url: r.image_url != null ? String(r.image_url) : undefined,
+    pitch: "",
+    rank,
+  };
+}
+
+async function resolveDineoutOptions(
+  rows: Record<string, unknown>[],
+  giftBudgetPaise: number,
+  giftContext?: GiftContextForOptions
+): Promise<GiftOptionsPayload["dineout"]> {
+  const fallback = (): GiftOptionsPayload["dineout"] => {
+    const top = rows.slice(0, 3);
+    return top.map((r, i) => mapDineoutRow(r, i + 1));
+  };
+
+  if (!giftContext || !process.env.OPENAI_API_KEY) return fallback();
+
+  const msg = (giftContext.message ?? "").trim();
+  const occ = (giftContext.occasion ?? "").trim();
+  if (!msg && !occ) return fallback();
+
+  const candidates = rows.map((raw) => {
+    const r = raw as Record<string, unknown>;
+    const cuisines = Array.isArray(r.cuisine)
+      ? (r.cuisine as unknown[]).map(String).filter(Boolean)
+      : [];
+    return {
+      id: String(r.id),
+      name: String(r.name),
+      cuisines,
+      area: r.area != null ? String(r.area) : "",
+      avg_for_two_inr:
+        r.avg_cost_for_two != null && r.avg_cost_for_two !== ""
+          ? Number(r.avg_cost_for_two)
+          : null,
+      rating:
+        r.rating != null && r.rating !== "" ? Number(r.rating) : null,
+    };
+  });
+
+  const ids = await selectDineoutRestaurantIdsViaLlm(candidates, {
+    occasion: occ || "gift",
+    message: msg || occ,
+    tone: giftContext.tone,
+    gift_value_inr: Math.max(1, Math.round(giftBudgetPaise / 100)),
+  });
+
+  if (!ids?.length) return fallback();
+
+  const byId = new Map(
+    rows.map((raw) => [String((raw as Record<string, unknown>).id), raw])
+  );
+  const out: GiftOptionsPayload["dineout"] = [];
+  let rank = 1;
+  for (const id of ids) {
+    const raw = byId.get(id);
+    if (!raw) continue;
+    out.push(mapDineoutRow(raw as Record<string, unknown>, rank++));
+    if (out.length >= 3) break;
+  }
+  return out.length ? out : fallback();
+}
+
 export async function buildOptionsFromCache(
   sb: SupabaseClient,
   city: string,
-  budgetPaise: number
+  budgetPaise: number,
+  giftContext?: GiftContextForOptions
 ): Promise<GiftOptionsPayload> {
   const cityNorm = city.trim();
 
@@ -116,36 +277,32 @@ export async function buildOptionsFromCache(
 
   const { data: byCity, error: errCity } = await dineoutOrder()
     .ilike("city", `%${cityNorm}%`)
-    .limit(12);
+    .limit(DINEOUT_CANDIDATE_LIMIT);
 
   if (errCity) {
     throw new Error(`cached_dineout_restaurants (by city): ${errCity.message}`);
   }
 
-  let rows = byCity ?? [];
+  let rows = (byCity ?? []) as Record<string, unknown>[];
   if (!rows.length) {
-    const { data: anyCity, error: errAny } = await dineoutOrder().limit(12);
+    const { data: anyCity, error: errAny } = await dineoutOrder().limit(
+      DINEOUT_CANDIDATE_LIMIT
+    );
     if (errAny) {
       throw new Error(`cached_dineout_restaurants (fallback): ${errAny.message}`);
     }
-    rows = anyCity ?? [];
+    rows = (anyCity ?? []) as Record<string, unknown>[];
   }
 
-  const top = rows.slice(0, 3);
-  const dineout = top.map((r, i) => ({
-    restaurant_id: r.id,
-    name: r.name,
-    cuisine: Array.isArray(r.cuisine) ? r.cuisine[0] : undefined,
-    area: r.area ?? undefined,
-    avg_cost_for_2: r.avg_cost_for_two ?? undefined,
-    image_url: r.image_url ?? undefined,
-    pitch: "",
-    rank: i + 1,
-  }));
+  const dineout = await resolveDineoutOptions(
+    rows,
+    Math.max(0, budgetPaise),
+    giftContext
+  );
 
   const { data: productsRaw, error: errIm } = await sb
     .from("cached_instamart_products")
-    .select("id,name,price_paise,city,image_url")
+    .select("id,name,brand,category,price_paise,city,image_url")
     .limit(800);
 
   if (errIm) {
@@ -165,7 +322,11 @@ export async function buildOptionsFromCache(
     filtered = raw;
   }
 
-  const items = packInstamartItems(filtered as InstamartProductRow[], Math.max(0, budgetPaise));
+  const items = await resolveInstamartItems(
+    filtered as InstamartProductRow[],
+    Math.max(0, budgetPaise),
+    giftContext
+  );
   const total = items.reduce((s, l) => s + l.price_paise * l.qty, 0);
 
   return {

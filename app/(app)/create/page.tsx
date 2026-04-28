@@ -130,6 +130,8 @@ export default function CreateGiftPage() {
           city: parsed.city,
           budget_paise: parsed.budget_paise,
           occasion: parsed.occasion,
+          message: parsed.message_draft,
+          tone: parsed.tone,
         }),
       });
       if (!res.ok) {

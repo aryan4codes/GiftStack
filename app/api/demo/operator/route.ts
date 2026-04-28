@@ -36,7 +36,11 @@ export async function POST(req: Request) {
     { onConflict: "id" }
   );
 
-  const raw = await buildOptionsFromCache(sb, parsed.city, parsed.budget_paise);
+  const raw = await buildOptionsFromCache(sb, parsed.city, parsed.budget_paise, {
+    occasion: parsed.occasion,
+    message: parsed.message_draft,
+    tone: parsed.tone ?? undefined,
+  });
   const options = await enrichOptionsCopy(raw, parsed.occasion);
 
   const id = createGiftId();

@@ -9,10 +9,14 @@ export async function POST(req: Request) {
       city?: string;
       budget_paise?: number;
       occasion?: string;
+      message?: string;
+      tone?: string;
     };
     const city = body.city?.trim() || "Bangalore";
     const budget = typeof body.budget_paise === "number" ? body.budget_paise : 150000;
     const occasion = body.occasion || "thank_you";
+    const message = body.message?.trim() ?? "";
+    const tone = body.tone?.trim();
 
     let sb: ReturnType<typeof createServiceClient>;
     try {
@@ -31,7 +35,11 @@ export async function POST(req: Request) {
       );
     }
 
-    const raw = await buildOptionsFromCache(sb, city, budget);
+    const raw = await buildOptionsFromCache(sb, city, budget, {
+      occasion,
+      message,
+      tone,
+    });
     const options = await enrichOptionsCopy(raw, occasion);
     return NextResponse.json({ options });
   } catch (e) {
