@@ -1,48 +1,46 @@
-import Anthropic from "@anthropic-ai/sdk";
+import { openai } from "@ai-sdk/openai";
+import { generateObject } from "ai";
+import { z } from "zod";
 import type { GiftOptionsPayload } from "@/types/gift";
+
+const rankCopySchema = z.object({
+  dineout: z.array(
+    z.object({
+      restaurant_id: z.string(),
+      rank: z.number().int().min(1),
+      pitch: z.string(),
+    })
+  ),
+  instamart: z.object({ description: z.string() }),
+  food_credit: z.object({ description: z.string() }),
+});
 
 export async function enrichOptionsCopy(
   options: GiftOptionsPayload,
   occasion: string
 ): Promise<GiftOptionsPayload> {
-  const apiKey = process.env.ANTHROPIC_API_KEY;
+  const apiKey = process.env.OPENAI_API_KEY;
   if (!apiKey) {
     return heuristicCopy(options, occasion);
   }
-  const client = new Anthropic({ apiKey });
   const model =
-    process.env.ANTHROPIC_HAIKU_MODEL ?? "claude-3-5-haiku-20241022";
+    process.env.OPENAI_FAST_MODEL ?? process.env.OPENAI_MODEL ?? "gpt-4.1-nano";
 
   const prompt = JSON.stringify({
     occasion,
     options,
     instruction:
-      'Return ONLY JSON {"dineout":[{"restaurant_id":string,"rank":number,"pitch":string}],"instamart":{"description":string},"food_credit":{"description":string}}',
+      "Write premium one-line pitches for restaurant gift cards and concise hamper/food-credit blurbs.",
   });
 
-  const res = await client.messages.create({
-    model,
-    max_tokens: 2000,
-    system:
-      "You write premium one-line pitches for restaurant gift cards and hamper blurbs. JSON only.",
-    messages: [{ role: "user", content: prompt }],
-  });
-  const block = res.content.find((b) => b.type === "text");
-  if (!block || block.type !== "text") {
-    return heuristicCopy(options, occasion);
-  }
   try {
-    const m = block.text.match(/\{[\s\S]*\}/);
-    const raw = m ? m[0] : block.text;
-    const out = JSON.parse(raw) as {
-      dineout: Array<{
-        restaurant_id: string;
-        rank: number;
-        pitch: string;
-      }>;
-      instamart: { description: string };
-      food_credit: { description: string };
-    };
+    const { object: out } = await generateObject({
+      model: openai(model),
+      schema: rankCopySchema,
+      system:
+        "You write polished, premium, concise gift copy for food experiences. Keep pitches specific, warm, and under 18 words.",
+      prompt,
+    });
     const byId = new Map(out.dineout.map((d) => [d.restaurant_id, d]));
     const dineout = [...options.dineout]
       .map((r) => {

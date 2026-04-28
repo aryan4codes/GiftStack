@@ -7,18 +7,23 @@ import { SwiggyMCPBadge } from "@/components/SwiggyMCPBadge";
 
 export function SiteHeader() {
   return (
-    <header className="sticky top-0 z-50 border-b border-[var(--color-border)] bg-[var(--color-bg)]/90 backdrop-blur-sm">
-      <div className="mx-auto flex h-14 max-w-6xl items-center justify-between px-4 sm:px-6">
+    <header className="sticky top-0 z-50 border-b border-[var(--color-border)] bg-[#fff8f1]/82 backdrop-blur-xl">
+      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
         <Link
           href="/"
-          className="font-semibold tracking-tight text-[var(--color-text)]"
+          className="group flex items-center gap-2 font-semibold tracking-tight text-[var(--color-text)]"
         >
-          GiftStack
+          <span className="grid h-8 w-8 place-items-center rounded-2xl bg-[var(--color-accent)] text-sm text-white shadow-[0_12px_28px_rgba(252,128,25,0.32)]">
+            G
+          </span>
+          <span>GiftStack</span>
         </Link>
         <div className="flex items-center gap-3">
-          <SwiggyMCPBadge />
+          <div className="hidden sm:block">
+            <SwiggyMCPBadge />
+          </div>
           <Show when="signed-in">
-            <nav className="hidden items-center gap-4 text-sm md:flex">
+            <nav className="hidden items-center gap-5 rounded-full border border-[var(--color-border)] bg-white/60 px-4 py-2 text-sm text-[var(--color-text-muted)] md:flex">
               <Link href="/create" className="hover:text-[var(--color-accent)]">
                 Send a Gift
               </Link>

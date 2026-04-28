@@ -1,0 +1,122 @@
+[
+  {
+    "id": "IM-EL-DEMO-WEBCAM-001",
+    "name": "Logitech C920 Pro HD Webcam — Autofocus stereo mics",
+    "brand": "Logitech",
+    "category": "Computers & accessories › Webcams",
+    "price_paise": 849900,
+    "image_url": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true, "mrp_inr": 8499 }
+  },
+  {
+    "id": "IM-EL-DEMO-EARBUDS-002",
+    "name": "boAt Airdopes 433 ANC — hybrid noise cancellation earbuds",
+    "brand": "boAt",
+    "category": "Audio › True wireless earbuds",
+    "price_paise": 249900,
+    "image_url": "https://images.unsplash.com/photo-1590658165737-15a047bdb5df?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true }
+  },
+  {
+    "id": "IM-EL-DEMO-PWBANK-003",
+    "name": "Mi Power Bank 20000 mAh — 33W PD dual USB-C output",
+    "brand": "Mi",
+    "category": "Mobile accessories › Power banks",
+    "price_paise": 219900,
+    "image_url": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true }
+  },
+  {
+    "id": "IM-EL-DEMO-BUDSWL-004",
+    "name": "realme TechLife Buds Wireless 3 — neckband with fast charge",
+    "brand": "realme",
+    "category": "Audio › Neckbands",
+    "price_paise": 179900,
+    "image_url": "https://images.unsplash.com/photo-1572569511254-ad81d3699242?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true }
+  },
+  {
+    "id": "IM-EL-DEMO-KB-005",
+    "name": "Mechanical gaming keyboard RGB — tactile brown switches",
+    "brand": "Zebronics",
+    "category": "Computers › Keyboards",
+    "price_paise": 349990,
+    "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true }
+  },
+  {
+    "id": "IM-EL-DEMO-HUB-006",
+    "name": "USB-C 7-in-1 hub — HDMI / SD / ethernet pass-through",
+    "brand": "Portronics",
+    "category": "Computers › Hubs",
+    "price_paise": 459900,
+    "image_url": "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true }
+  },
+  {
+    "id": "IM-EL-DEMO-TABSTYLUS-007",
+    "name": "Stylus pen for tablet — tilt shade palm rejection white",
+    "brand": "Anker",
+    "category": "Computers › Tablet accessories",
+    "price_paise": 799900,
+    "image_url": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true }
+  },
+  {
+    "id": "IM-EL-DEMO-MOUSE-008",
+    "name": "Silent wireless ergonomic mouse — 2400 DPI multi-device",
+    "brand": "Logitech",
+    "category": "Computers › Mouse",
+    "price_paise": 129900,
+    "image_url": "https://images.unsplash.com/photo-1615663245854-ac93bb68c39e?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true }
+  },
+  {
+    "id": "IM-EL-DEMO-AIRFILTER-009",
+    "name": "Smart air purifier refill kit — HEPA + activated carbon combo",
+    "brand": "Philips",
+    "category": "Electronics › Air care",
+    "price_paise": 899900,
+    "image_url": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true }
+  },
+  {
+    "id": "IM-EL-DEMO-DOCK-010",
+    "name": "Thunderbolt docking station — dual 4K HDMI SD reader",
+    "brand": "Portronics",
+    "category": "Computers › Docks",
+    "price_paise": 899900,
+    "image_url": "https://images.unsplash.com/photo-1573496527892-904f873b8e87?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true }
+  },
+  {
+    "id": "IM-EL-DEMO-DIMMER-011",
+    "name": "Smart bulb starter kit Matter compatible hub included",
+    "brand": "Wipro",
+    "category": "Smart home › Lighting",
+    "price_paise": 459900,
+    "image_url": "https://images.unsplash.com/photo-1565814329452-e1efa842033a?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true }
+  },
+  {
+    "id": "IM-EL-DEMO-USBC-012",
+    "name": "Premium braided USB-C lightning cable pack of 2 (2m)",
+    "brand": "Stuffcool",
+    "category": "Mobile accessories › Cables",
+    "price_paise": 149900,
+    "image_url": "https://images.unsplash.com/photo-1574944985070-8f225e6f7cfb?w=640&q=80",
+    "city": "Mumbai",
+    "raw_data": { "premiumSeed": true }
+  }
+]

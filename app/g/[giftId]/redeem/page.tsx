@@ -9,6 +9,8 @@ import { FoodChatAgent } from "@/components/FoodChatAgent";
 import type { GiftOptionsPayload } from "@/types/gift";
 import { Calendar } from "@/components/ui/calendar";
 import { format } from "date-fns";
+import Link from "next/link";
+import { ArrowLeft } from "lucide-react";
 
 export default function RedeemPage() {
   const params = useParams<{ giftId: string }>();
@@ -122,12 +124,22 @@ export default function RedeemPage() {
 
   if (type === "food") {
     return (
-      <div className="mx-auto max-w-2xl px-4 py-10">
-        <h1 className="font-display text-2xl font-semibold">Food credit</h1>
-        <p className="mt-2 text-sm text-[var(--color-text-muted)]">
-          Chat with the agent — it uses cached menus and keeps you under budget.
+      <div className="mx-auto max-w-2xl px-4 pb-16 pt-8 sm:pt-12">
+        <Link
+          href={`/g/${id}`}
+          className="inline-flex items-center gap-2 text-sm font-medium text-[var(--color-text-muted)] transition-colors hover:text-[var(--color-accent)]"
+        >
+          <ArrowLeft className="h-4 w-4" aria-hidden />
+          Back to gift
+        </Link>
+        <h1 className="font-display mt-8 text-3xl font-semibold text-[var(--color-ink)]">
+          Food credit
+        </h1>
+        <p className="mt-3 max-w-xl text-sm leading-relaxed text-[var(--color-text-muted)]">
+          Chat with the ordering agent — it pulls from cached menus and refuses to slip over
+          your gift budget (demo tools).
         </p>
-        <div className="mt-8">
+        <div className="mt-10">
           <FoodChatAgent giftId={id} budgetPaise={budgetPaise} />
         </div>
       </div>
@@ -136,9 +148,18 @@ export default function RedeemPage() {
 
   if (type === "instamart") {
     return (
-      <div className="mx-auto max-w-lg px-4 py-10">
-        <h1 className="font-display text-2xl font-semibold">Instamart hamper</h1>
-        <Card className="mt-6">
+      <div className="mx-auto max-w-lg px-4 pb-16 pt-8 sm:pt-12">
+        <Link
+          href={`/g/${id}`}
+          className="inline-flex items-center gap-2 text-sm font-medium text-[var(--color-text-muted)] transition-colors hover:text-[var(--color-accent)]"
+        >
+          <ArrowLeft className="h-4 w-4" aria-hidden />
+          Back to gift
+        </Link>
+        <h1 className="font-display mt-8 text-3xl font-semibold text-[var(--color-ink)]">
+          Instamart hamper
+        </h1>
+        <Card className="mt-8">
           <CardHeader>
             <CardTitle className="text-base">Your hamper</CardTitle>
           </CardHeader>
@@ -172,8 +193,15 @@ export default function RedeemPage() {
   }
 
   return (
-    <div className="mx-auto max-w-3xl px-4 py-10">
-      <h1 className="font-display text-2xl font-semibold">
+    <div className="mx-auto max-w-3xl px-4 pb-16 pt-8 sm:pt-12">
+      <Link
+        href={`/g/${id}`}
+        className="inline-flex items-center gap-2 text-sm font-medium text-[var(--color-text-muted)] transition-colors hover:text-[var(--color-accent)]"
+      >
+        <ArrowLeft className="h-4 w-4" aria-hidden />
+        Back to gift
+      </Link>
+      <h1 className="font-display mt-8 text-3xl font-semibold text-[var(--color-ink)]">
         Reserve a table
       </h1>
       {restaurant ? (

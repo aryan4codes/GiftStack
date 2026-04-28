@@ -1,6 +1,6 @@
 import { createServiceClient } from "@/lib/supabase/admin";
 import { streamText } from "ai";
-import { anthropic } from "@ai-sdk/anthropic";
+import { openai } from "@ai-sdk/openai";
 
 export async function POST(
   _req: Request,
@@ -14,10 +14,10 @@ export async function POST(
   }
 
   const model =
-    process.env.ANTHROPIC_HAIKU_MODEL ?? "claude-3-5-haiku-20241022";
+    process.env.OPENAI_FAST_MODEL ?? process.env.OPENAI_MODEL ?? "gpt-4.1-nano";
 
   const result = streamText({
-    model: anthropic(model),
+    model: openai(model),
     messages: [
       {
         role: "user",

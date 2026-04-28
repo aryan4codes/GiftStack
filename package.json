@@ -7,12 +7,12 @@
     "build": "next build --turbopack",
     "start": "next start",
     "lint": "eslint",
-    "seed": "tsx scripts/upload-mcp-json.ts"
+    "seed": "tsx scripts/upload-mcp-json.ts",
+    "check-cache": "tsx scripts/check-supabase-cache.ts"
   },
   "dependencies": {
-    "@ai-sdk/anthropic": "^3.0.71",
+    "@ai-sdk/openai": "^3.0.53",
     "@ai-sdk/react": "^3.0.170",
-    "@anthropic-ai/sdk": "^0.91.1",
     "@clerk/nextjs": "^7.2.7",
     "@radix-ui/react-avatar": "^1.1.11",
     "@radix-ui/react-dialog": "^1.1.15",

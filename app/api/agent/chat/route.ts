@@ -1,5 +1,5 @@
 import { createServiceClient } from "@/lib/supabase/admin";
-import { anthropic } from "@ai-sdk/anthropic";
+import { openai } from "@ai-sdk/openai";
 import { convertToModelMessages, stepCountIs, streamText, tool } from "ai";
 import { z } from "zod";
 
@@ -52,8 +52,8 @@ export async function POST(req: Request) {
     return new Response("Invalid messages shape", { status: 400 });
   }
 
-  const sonnet =
-    process.env.ANTHROPIC_SONNET_MODEL ?? "claude-sonnet-4-20250514";
+  const model =
+    process.env.OPENAI_FAST_MODEL ?? process.env.OPENAI_MODEL ?? "gpt-4.1-nano";
 
   async function loadCart(): Promise<CartLine[]> {
     const { data } = await sb
@@ -71,7 +71,7 @@ export async function POST(req: Request) {
   }
 
   const result = streamText({
-    model: anthropic(sonnet),
+    model: openai(model),
     system: `You are GiftStack's conversational food ordering agent (demo). You only have access to cached restaurants and menus in our database for city: ${city}.
 
 Rules:

@@ -35,8 +35,8 @@ export default function ConfirmedPage() {
     <div className="relative min-h-screen overflow-hidden px-4 py-16 text-center">
       <ParticlesBurst />
       <FadeIn>
-        <CheckCircle2 className="mx-auto h-14 w-14 text-emerald-600" />
-        <h1 className="font-display mt-8 text-3xl font-semibold">
+        <CheckCircle2 className="mx-auto h-14 w-14 text-emerald-600 drop-shadow-sm" />
+        <h1 className="font-display mt-8 text-3xl font-semibold tracking-tight text-[var(--color-ink)] sm:text-4xl">
           You&apos;re all set
         </h1>
         <p className="mt-2 text-sm text-[var(--color-text-muted)]">
@@ -46,18 +46,18 @@ export default function ConfirmedPage() {
         </p>
       </FadeIn>
 
-      <Card className="mx-auto mt-12 max-w-lg text-left shadow-lg">
+      <Card className="mx-auto mt-12 max-w-lg text-left shadow-[0_28px_65px_rgba(80,45,20,0.12)]">
         <CardHeader>
-          <CardTitle className="text-base">Details</CardTitle>
+          <CardTitle className="text-lg text-[var(--color-ink)]">Redemption snapshot</CardTitle>
         </CardHeader>
         <CardContent className="space-y-2 text-sm">
-          <pre className="overflow-x-auto rounded-md bg-neutral-50 p-4 text-xs">
+          <pre className="overflow-x-auto rounded-2xl border border-[var(--color-border)] bg-[#1a120c] p-5 text-left text-xs leading-relaxed text-emerald-100/95">
             {JSON.stringify(opt, null, 2)}
           </pre>
         </CardContent>
       </Card>
 
-      <Button asChild variant="outline" className="mt-10">
+      <Button asChild variant="outline" className="mt-10 rounded-full px-8">
         <Link href="/">Back home</Link>
       </Button>
 

@@ -7,6 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { AnimatedNumber } from "@/components/magicui/animated-number";
 import type { GiftStatus } from "@/types/gift";
+import { BarChart3, Gift, RefreshCw } from "lucide-react";
 
 export default function DashboardPage() {
   const [gifts, setGifts] = React.useState<Array<Record<string, unknown>>>([]);
@@ -34,52 +35,61 @@ export default function DashboardPage() {
   }
 
   return (
-    <div className="space-y-10">
-      <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-center">
+    <div className="space-y-10 pb-12">
+      <div className="flex flex-col justify-between gap-6 sm:flex-row sm:items-end">
         <div>
-          <h1 className="font-display text-3xl font-semibold">Your gifts</h1>
-          <p className="text-sm text-[var(--color-text-muted)]">
-            Status updates every few seconds (demo polling).
+          <p className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-[var(--color-text-muted)]">
+            <BarChart3 className="h-4 w-4 text-[var(--color-accent)]" aria-hidden />
+            Overview
+          </p>
+          <h1 className="font-display mt-2 text-3xl font-semibold text-[var(--color-ink)] sm:text-4xl">
+            Your gifts
+          </h1>
+          <p className="mt-3 max-w-lg text-sm leading-relaxed text-[var(--color-text-muted)]">
+            Lightweight dashboard for the demo — we poll every eight seconds so you
+            can watch status flip when someone redeems.
           </p>
         </div>
-        <Button asChild>
-          <Link href="/create">Send New Gift</Link>
+        <Button asChild className="shrink-0 rounded-full px-6">
+          <Link href="/create">Send new gift</Link>
         </Button>
       </div>
 
       <div className="grid gap-4 sm:grid-cols-3">
-        <Card>
-          <CardHeader>
-            <CardTitle className="text-sm font-normal text-[var(--color-text-muted)]">
+        <Card className="overflow-hidden border-0 bg-gradient-to-br from-white to-[#fff3e8]">
+          <CardHeader className="pb-2">
+            <CardTitle className="flex items-center gap-2 text-sm font-medium text-[var(--color-text-muted)]">
+              <Gift className="h-4 w-4 text-[var(--color-accent)]" aria-hidden />
               Total sent
             </CardTitle>
           </CardHeader>
           <CardContent>
-            <p className="text-3xl font-semibold">
+            <p className="font-display text-3xl font-semibold text-[var(--color-ink)]">
               <AnimatedNumber value={total} />
             </p>
           </CardContent>
         </Card>
-        <Card>
-          <CardHeader>
-            <CardTitle className="text-sm font-normal text-[var(--color-text-muted)]">
+        <Card className="overflow-hidden border-0 bg-gradient-to-br from-white to-emerald-50/80">
+          <CardHeader className="pb-2">
+            <CardTitle className="text-sm font-medium text-[var(--color-text-muted)]">
               Redeemed
             </CardTitle>
           </CardHeader>
           <CardContent>
-            <p className="text-3xl font-semibold text-emerald-700">
+            <p className="font-display text-3xl font-semibold text-emerald-700">
               <AnimatedNumber value={redeemed} />
             </p>
           </CardContent>
         </Card>
-        <Card>
-          <CardHeader>
-            <CardTitle className="text-sm font-normal text-[var(--color-text-muted)]">
+        <Card className="overflow-hidden border-0 bg-gradient-to-br from-white to-neutral-50">
+          <CardHeader className="pb-2">
+            <CardTitle className="flex items-center gap-2 text-sm font-medium text-[var(--color-text-muted)]">
+              <RefreshCw className="h-4 w-4 text-[var(--color-cocoa)]" aria-hidden />
               Pending
             </CardTitle>
           </CardHeader>
           <CardContent>
-            <p className="text-3xl font-semibold">
+            <p className="font-display text-3xl font-semibold text-[var(--color-ink)]">
               <AnimatedNumber value={pending} />
             </p>
           </CardContent>
@@ -88,7 +98,9 @@ export default function DashboardPage() {
 
       <Card>
         <CardHeader>
-          <CardTitle className="text-base">Gift list</CardTitle>
+          <CardTitle className="text-lg font-semibold text-[var(--color-ink)]">
+            Gift list
+          </CardTitle>
         </CardHeader>
         <CardContent className="space-y-4">
           {gifts.length === 0 ? (
@@ -103,7 +115,7 @@ export default function DashboardPage() {
             gifts.map((g) => (
               <div
                 key={String(g.id)}
-                className="flex flex-wrap items-center justify-between gap-3 rounded-lg border border-[var(--color-border)] p-4"
+                className="flex flex-wrap items-center justify-between gap-4 rounded-2xl border border-[var(--color-border)] bg-white/75 p-5 shadow-sm backdrop-blur transition-shadow hover:shadow-md"
               >
                 <div>
                   <p className="font-medium">{String(g.recipient_name || "Recipient")}</p>
