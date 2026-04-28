@@ -27,6 +27,30 @@ function load(): CacheFile {
   return JSON.parse(raw) as CacheFile;
 }
 
+function dedupeById<T extends Record<string, unknown>>(rows: T[], idKey = "id"): T[] {
+  const seen = new Set<string>();
+  const out: T[] = [];
+  for (const r of rows) {
+    const id = String(r[idKey] ?? "");
+    if (!id || seen.has(id)) continue;
+    seen.add(id);
+    out.push(r);
+  }
+  return out;
+}
+
+/** Optional premium rows (electronics, etc.) merged into Instamart cache on upload. */
+function loadExtraInstamart(): Record<string, unknown>[] {
+  const p = path.join(process.cwd(), "data/mcp-seeds/extra-instamart-premium.json");
+  if (!fs.existsSync(p)) return [];
+  const raw = JSON.parse(fs.readFileSync(p, "utf8")) as unknown;
+  if (Array.isArray(raw)) return raw as Record<string, unknown>[];
+  if (raw && typeof raw === "object" && "cached_instamart_products" in raw) {
+    return (raw as CacheFile).cached_instamart_products ?? [];
+  }
+  return [];
+}
+
 async function main() {
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
   const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
@@ -87,7 +111,17 @@ async function main() {
 
   await upsertRows("cached_food_menu_items", data.cached_food_menu_items);
 
-  await upsertRows("cached_instamart_products", data.cached_instamart_products);
+  const extraIm = loadExtraInstamart();
+  const instamartMerged = dedupeById([
+    ...(data.cached_instamart_products ?? []),
+    ...extraIm,
+  ]);
+  if (extraIm.length) {
+    console.log(
+      `cached_instamart_products: merged ${extraIm.length} row(s) from extra-instamart-premium.json`
+    );
+  }
+  await upsertRows("cached_instamart_products", instamartMerged);
 
   console.log(`Done. Source: ${jsonPath}`);
 }

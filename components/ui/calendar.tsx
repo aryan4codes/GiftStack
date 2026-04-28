@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { DayPicker } from "react-day-picker";
+import { DayPicker, DayFlag, SelectionState, UI } from "react-day-picker";
 import { cn } from "@/lib/utils";
 
 export type CalendarProps = React.ComponentProps<typeof DayPicker>;
@@ -15,44 +15,51 @@ function Calendar({
   return (
     <DayPicker
       showOutsideDays={showOutsideDays}
-      className={cn("p-3", className)}
+      className={cn("p-0", className)}
       classNames={{
-        months: "flex flex-col sm:flex-row gap-4",
-        month: "space-y-4",
-        caption: "flex justify-center pt-1 relative items-center",
-        caption_label: "text-sm font-medium",
-        nav: "space-x-1 flex items-center",
-        nav_button: cn(
-          "h-7 w-7 bg-transparent p-0 opacity-50 hover:opacity-100 inline-flex items-center justify-center rounded-md border border-[var(--color-border)]"
+        [UI.Root]: cn(
+          "w-full max-w-none rounded-none border-0 bg-transparent p-0 shadow-none [--rdp-accent-color:theme(colors.orange.500)] [--rdp-accent-background-color:theme(colors.orange.100)] [--rdp-outside-opacity:0.35] [--rdp-disabled-opacity:0.28]",
         ),
-        nav_button_previous: "absolute left-1",
-        nav_button_next: "absolute right-1",
-        table: "w-full border-collapse",
-        head_row: "flex",
-        head_cell:
-          "text-[var(--color-text-muted)] rounded-md w-9 font-normal text-[0.8rem]",
-        row: "flex w-full mt-2",
-        cell: cn(
-          "relative p-0 text-center text-sm focus-within:relative focus-within:z-20 w-9 h-9",
-          "[&:has([aria-selected])]:bg-[var(--color-accent-soft)] first:[&:has([aria-selected])]:rounded-l-md last:[&:has([aria-selected])]:rounded-r-md"
+        [UI.Months]: "w-full flex-col gap-6",
+        [UI.Month]: "w-full space-y-0",
+        [UI.MonthCaption]: "relative mb-4 flex h-12 shrink-0 items-center justify-center px-10",
+        [UI.CaptionLabel]: "font-display text-base font-semibold tracking-tight text-[var(--color-ink)]",
+        [UI.Nav]: "absolute inset-x-0 top-1 flex justify-between px-1",
+        [UI.PreviousMonthButton]: cn(
+          "inline-flex h-9 min-w-9 items-center justify-center rounded-xl border border-[var(--color-border)] bg-white text-[var(--color-ink)] shadow-sm transition-colors",
+          "hover:bg-neutral-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[var(--color-accent)]",
         ),
-        day: cn(
-          "h-9 w-9 p-0 font-normal aria-selected:opacity-100 rounded-md hover:bg-neutral-100"
+        [UI.NextMonthButton]: cn(
+          "inline-flex h-9 min-w-9 items-center justify-center rounded-xl border border-[var(--color-border)] bg-white text-[var(--color-ink)] shadow-sm transition-colors",
+          "hover:bg-neutral-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[var(--color-accent)]",
         ),
-        day_selected:
-          "bg-[var(--color-accent)] text-white hover:bg-[var(--color-accent)] hover:text-white focus:bg-[var(--color-accent)]",
-        day_today: "bg-neutral-100",
-        day_outside: "text-[var(--color-text-faint)] opacity-50",
-        day_disabled: "text-[var(--color-text-faint)] opacity-30",
-        day_range_middle:
-          "aria-selected:bg-[var(--color-accent-soft)] aria-selected:text-[var(--color-text)]",
-        day_hidden: "invisible",
+        [UI.MonthGrid]: "w-full min-w-[280px]",
+        [UI.Weekdays]: "mb-3 grid grid-cols-7 gap-1 px-0.5 text-center",
+        [UI.Weekday]: cn(
+          "flex items-center justify-center py-1 text-[10px] font-bold uppercase tracking-[0.12em]",
+          "text-[var(--color-text-muted)]",
+        ),
+        [UI.Weeks]: "w-full space-y-2",
+        [UI.Week]: "grid w-full grid-cols-7 gap-1.5",
+        [UI.Day]: "relative flex h-[2.625rem] w-full items-center justify-center p-0 text-center [&:has([aria-selected=true])]:rounded-xl",
+        [UI.DayButton]: cn(
+          "relative z-[1] inline-flex size-11 max-h-11 max-w-11 shrink-0 items-center justify-center rounded-xl text-[0.9rem] font-medium",
+          "transition-[colors,transform,box-shadow] duration-200",
+          "text-[var(--color-ink)] hover:bg-neutral-100/95",
+          "focus-visible:z-10 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[var(--color-accent)]",
+        ),
+        [SelectionState.selected]:
+          "!bg-[var(--color-accent)] text-white hover:!bg-[var(--color-accent)] hover:!text-white shadow-md ring-2 ring-orange-400/30",
+        [DayFlag.today]: "font-semibold text-[var(--color-accent)] not-[[data-selected=true]]:underline decoration-2 underline-offset-2",
+        [DayFlag.outside]: "text-[var(--color-text-faint)] opacity-55",
+        [DayFlag.disabled]: "opacity-25 pointer-events-none",
         ...classNames,
       }}
       {...props}
     />
   );
 }
+
 Calendar.displayName = "Calendar";
 
 export { Calendar };

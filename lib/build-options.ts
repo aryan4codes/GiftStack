@@ -1,67 +1,99 @@
 import type { SupabaseClient } from "@supabase/supabase-js";
 import type { GiftOptionsPayload } from "@/types/gift";
 
-/** Fill instamart lines under budget — prefers cheaper picks first when data is scarce. */
+/**
+ * Fill instamart hamper approaching the gift budget (not ₹10 chocolates only).
+ * Greedy descending: pick expensive SKUs first so totals track premium gifts (~₹2k headline).
+ */
+type InstamartProductRow = {
+  id: string;
+  name: string;
+  price_paise: number | null;
+  image_url?: string | null;
+};
+
 function packInstamartItems(
-  products: Array<{ id: string; name: string; price_paise: number | null }>,
+  products: InstamartProductRow[],
   budgetPaise: number
 ): GiftOptionsPayload["instamart"]["items"] {
   const budget = Math.max(0, budgetPaise);
   const usable = [...products].filter((p) => (p.price_paise ?? 0) > 0);
-  usable.sort((a, b) => (a.price_paise ?? 0) - (b.price_paise ?? 0));
 
-  let cap = Math.floor(budget * 0.85);
-  let items: GiftOptionsPayload["instamart"]["items"] = [];
-  let total = 0;
+  function packDescendingForCap(cap: number): GiftOptionsPayload["instamart"]["items"] {
+    const sorted = [...usable].sort(
+      (a, b) => (b.price_paise ?? 0) - (a.price_paise ?? 0)
+    );
+    let remaining = cap;
+    const items: GiftOptionsPayload["instamart"]["items"] = [];
 
-  for (const p of usable) {
-    const price = p.price_paise ?? 0;
-    if (price <= 0) continue;
-    if (total + price <= cap && items.length < 5) {
-      items.push({
+    for (const p of sorted) {
+      if (items.length >= 5) break;
+      const price = p.price_paise ?? 0;
+      if (price <= 0 || price > remaining) continue;
+      const row: GiftOptionsPayload["instamart"]["items"][number] = {
         item_id: p.id,
         name: p.name,
         qty: 1,
         price_paise: price,
-      });
-      total += price;
+      };
+      const im = p.image_url?.trim();
+      if (im) row.image_url = im;
+      items.push(row);
+      remaining -= price;
+      if (remaining <= 0) break;
     }
-    if (items.length >= 5) break;
+    return items;
   }
 
-  // If cap was too tight vs price distribution, retry with full budget (still greedy cheap-first).
-  if (items.length === 0 && usable.length > 0) {
-    cap = budget;
-    total = 0;
-    items = [];
-    for (const p of usable) {
+  // Spend up to ~92% of the gift headline so the hamper “feels” close to stated value (demo UX).
+  const capPrefer = Math.floor(budget * 0.92);
+  let items = packDescendingForCap(capPrefer);
+
+  // Micro-budget: fall back closer to spend limit
+  if (items.length === 0 || items.reduce((s, l) => s + l.price_paise * l.qty, 0) < Math.floor(budget * 0.2)) {
+    items = packDescendingForCap(Math.floor(budget));
+  }
+
+  // Last resort — cheap-first baskets (legacy mix)
+  if (items.length === 0) {
+    const cheapFirst = [...usable].sort(
+      (a, b) => (a.price_paise ?? 0) - (b.price_paise ?? 0)
+    );
+    const cap = Math.floor(budget * 0.92);
+    let total = 0;
+    for (const p of cheapFirst) {
       const price = p.price_paise ?? 0;
-      if (total + price <= cap && items.length < 5) {
-        items.push({
+      if (total + price <= cap && items.length < 5 && price > 0) {
+        const row: GiftOptionsPayload["instamart"]["items"][number] = {
           item_id: p.id,
           name: p.name,
           qty: 1,
           price_paise: price,
-        });
+        };
+        const im = p.image_url?.trim();
+        if (im) row.image_url = im;
+        items.push(row);
         total += price;
       }
       if (items.length >= 5) break;
     }
   }
 
-  // Last resort: at least one line item if cheapest fits under nominal budget at all (demo UX).
   if (items.length === 0 && usable.length > 0) {
-    const cheapest = usable[0];
+    const cheapest = [...usable].sort(
+      (a, b) => (a.price_paise ?? 0) - (b.price_paise ?? 0)
+    )[0];
     const price = cheapest.price_paise ?? 0;
-    if (price <= budget || price <= budget * 1.15) {
-      items = [
-        {
-          item_id: cheapest.id,
-          name: cheapest.name,
-          qty: 1,
-          price_paise: price,
-        },
-      ];
+    if (price <= budget * 1.2) {
+      const row: GiftOptionsPayload["instamart"]["items"][number] = {
+        item_id: cheapest.id,
+        name: cheapest.name,
+        qty: 1,
+        price_paise: price,
+      };
+      const im = cheapest.image_url?.trim();
+      if (im) row.image_url = im;
+      items = [row];
     }
   }
 
@@ -113,7 +145,7 @@ export async function buildOptionsFromCache(
 
   const { data: productsRaw, error: errIm } = await sb
     .from("cached_instamart_products")
-    .select("id,name,price_paise,city")
+    .select("id,name,price_paise,city,image_url")
     .limit(800);
 
   if (errIm) {
@@ -133,7 +165,7 @@ export async function buildOptionsFromCache(
     filtered = raw;
   }
 
-  const items = packInstamartItems(filtered, Math.max(0, budgetPaise));
+  const items = packInstamartItems(filtered as InstamartProductRow[], Math.max(0, budgetPaise));
   const total = items.reduce((s, l) => s + l.price_paise * l.qty, 0);
 
   return {

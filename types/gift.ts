@@ -26,6 +26,8 @@ export interface InstamartOption {
     name: string;
     qty: number;
     price_paise: number;
+    /** From cached_instamart_products.image_url when available */
+    image_url?: string;
   }>;
   estimated_total_paise: number;
 }

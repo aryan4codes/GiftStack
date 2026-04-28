@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { ChefHat, ShoppingBasket, UtensilsCrossed, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -109,6 +110,17 @@ export function GiftCard(p: Props) {
                 {[p.option.cuisine, p.option.area].filter(Boolean).join(" · ")}
               </p>
             </div>
+            {p.option.image_url ? (
+              <div className="relative aspect-[5/3] w-full overflow-hidden rounded-2xl bg-neutral-100 ring-1 ring-black/[0.06]">
+                <Image
+                  src={p.option.image_url}
+                  alt=""
+                  fill
+                  className="object-cover"
+                  sizes="(max-width: 768px) 92vw, 360px"
+                />
+              </div>
+            ) : null}
             <p className="flex-1 text-sm leading-relaxed text-[var(--color-text)]">
               {p.option.pitch}
             </p>
@@ -116,22 +128,50 @@ export function GiftCard(p: Props) {
         )}
         {p.kind === "instamart" && (
           <>
-            {p.option.description ? (
-              <p className="flex-1 text-sm leading-relaxed text-[var(--color-text)]">
-                {p.option.description}
-              </p>
-            ) : null}
             {p.option.items.length === 0 ? (
               <p className="rounded-2xl border border-amber-200/80 bg-amber-50/90 px-3 py-2.5 text-xs leading-relaxed text-amber-950/90">
                 No cached Instamart SKUs matched this budget and city yet. Try a larger budget or
                 re-seed cached products — the composer preview will fill once data is loaded.
               </p>
             ) : (
-              <div className="flex items-center gap-3 rounded-2xl bg-neutral-50 px-4 py-2.5 text-xs font-semibold text-[var(--color-text-muted)]">
-                <span>{p.option.items.length} items</span>
-                <span className="h-3 w-px bg-neutral-200" />
-                <span>₹{(p.option.estimated_total_paise / 100).toFixed(0)} est.</span>
-              </div>
+              <>
+                {p.option.items.some((it) => it.image_url) ? (
+                  <div className="space-y-2">
+                    <p className="text-[10px] font-bold uppercase tracking-[0.14em] text-[var(--color-text-muted)]">
+                      In this hamper
+                    </p>
+                    <div className="flex gap-2.5 overflow-x-auto pb-1 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+                      {p.option.items.map((it) =>
+                        it.image_url ? (
+                          <div
+                            key={it.item_id}
+                            className="group/img relative h-[4.75rem] w-[4.75rem] shrink-0 overflow-hidden rounded-2xl border border-neutral-200/90 bg-neutral-50 shadow-[0_8px_24px_rgba(0,0,0,0.06)] ring-1 ring-black/[0.04]"
+                          >
+                            <Image
+                              src={it.image_url}
+                              alt={it.name}
+                              title={it.name}
+                              fill
+                              className="object-cover transition duration-300 group-hover/img:scale-[1.03]"
+                              sizes="76px"
+                            />
+                          </div>
+                        ) : null,
+                      )}
+                    </div>
+                  </div>
+                ) : null}
+                {p.option.description ? (
+                  <p className="flex-1 text-sm leading-relaxed text-[var(--color-text)]">
+                    {p.option.description}
+                  </p>
+                ) : null}
+                <div className="flex items-center gap-3 rounded-2xl bg-neutral-50 px-4 py-2.5 text-xs font-semibold text-[var(--color-text-muted)]">
+                  <span>{p.option.items.length} items</span>
+                  <span className="h-3 w-px bg-neutral-200" />
+                  <span>₹{(p.option.estimated_total_paise / 100).toFixed(0)} est.</span>
+                </div>
+              </>
             )}
           </>
         )}

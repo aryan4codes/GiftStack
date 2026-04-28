@@ -1,122 +1,162 @@
 [
   {
-    "id": "IM-EL-DEMO-WEBCAM-001",
-    "name": "Logitech C920 Pro HD Webcam — Autofocus stereo mics",
-    "brand": "Logitech",
-    "category": "Computers & accessories › Webcams",
-    "price_paise": 849900,
-    "image_url": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=640&q=80",
+    "id": "RDA2QA6C40",
+    "name": "CMF by Nothing Buds 2 Plus with 50dB Hybrid ANC| Hi-Res + LDAC| Spatial Audio| 6HD Mic| 61.5Hrs Bluetooth (Light Grey, In the Ear)",
+    "brand": "CMF by Nothing",
+    "category": "Electronics › Headphones & audio",
+    "price_paise": 329900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/bd3d503b-dba5-42d6-ad6e-f0cd58cbc452_RDA2QA6C40_MN_20022026.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true, "mrp_inr": 8499 }
+    "raw_data": { "parentProductId": "EU6SQ3O8F4", "spinId": "RDA2QA6C40", "source": "instamart_mcp_search", "addressId": "28891410" }
   },
   {
-    "id": "IM-EL-DEMO-EARBUDS-002",
-    "name": "boAt Airdopes 433 ANC — hybrid noise cancellation earbuds",
+    "id": "QUB1CGRC4L",
+    "name": "OnePlus Nord Buds 3 Pro TWS Earbuds Black",
+    "brand": "OnePlus",
+    "category": "Electronics › Headphones & audio",
+    "price_paise": 309900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/823e6872-c9a3-4c1c-8c5f-8da340193176_QUB1CGRC4L_MN_20022026.png",
+    "city": "Mumbai",
+    "raw_data": { "parentProductId": "2HUQOM7HZP", "spinId": "QUB1CGRC4L", "source": "instamart_mcp_search" }
+  },
+  {
+    "id": "64NFV8C7GW",
+    "name": "JBL Tune 770NC Over-Ear Wireless headphones With Mic, 70 Hours Playtime, ANC, Bluetooth v5.3 (Blue)",
+    "brand": "JBL",
+    "category": "Electronics › Headphones & audio",
+    "price_paise": 549900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/bdb005bf-fa01-4f96-be64-95045b1ef3fb_64NFV8C7GW_MN_20022026.png",
+    "city": "Mumbai",
+    "raw_data": { "parentProductId": "REDC81VSAQ", "spinId": "64NFV8C7GW", "source": "instamart_mcp_search" }
+  },
+  {
+    "id": "TUD76M5X0H",
+    "name": "boAt Airdopes 800 TWS Earbuds W/ Dolby Audio, 40H Playback, IPX5, v5.3(Intersteller Black)",
     "brand": "boAt",
-    "category": "Audio › True wireless earbuds",
+    "category": "Electronics › Headphones & audio",
+    "price_paise": 189900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/70148971-1539-4e89-a141-1a38434d6079_TUD76M5X0H_MN_19022026.png",
+    "city": "Mumbai",
+    "raw_data": { "parentProductId": "53AH99T65Q", "spinId": "TUD76M5X0H", "source": "instamart_mcp_search" }
+  },
+  {
+    "id": "WC8J4SCVCA",
+    "name": "OnePlus Nord Buds 3 TWS Earbuds Harmonic Gray",
+    "brand": "OnePlus",
+    "category": "Electronics › Headphones & audio",
     "price_paise": 249900,
-    "image_url": "https://images.unsplash.com/photo-1590658165737-15a047bdb5df?w=640&q=80",
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/6441ad3a-e6ba-487f-baf2-2cdbbecb6537_WC8J4SCVCA_MN_20022026.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true }
+    "raw_data": { "parentProductId": "FKBOOJGAZK", "spinId": "WC8J4SCVCA", "source": "instamart_mcp_search" }
   },
   {
-    "id": "IM-EL-DEMO-PWBANK-003",
-    "name": "Mi Power Bank 20000 mAh — 33W PD dual USB-C output",
-    "brand": "Mi",
-    "category": "Mobile accessories › Power banks",
+    "id": "Y5XNWV6A0W",
+    "name": "Duracell 20000 MAH Slimmest Power Bank with 1 Type C PD and 2 USB A Port, 22.5W Fast Charging",
+    "brand": "Duracell",
+    "category": "Electronics › Power banks",
+    "price_paise": 299900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/36b8b0df-bd25-4641-9c94-55fc4cf208e5_Y5XNWV6A0W_MN_20022026.png",
+    "city": "Mumbai",
+    "raw_data": { "parentProductId": "JKXIPW79NF", "spinId": "Y5XNWV6A0W", "source": "instamart_mcp_search" }
+  },
+  {
+    "id": "CRSTK3GJC3",
+    "name": "Ambrane 20000mAh 35W Fast Small Pocket Size Powerbank, InBuilt C Cable (PowerMini 20,Black)",
+    "brand": "Ambrane",
+    "category": "Electronics › Power banks",
     "price_paise": 219900,
-    "image_url": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=640&q=80",
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/f688b5b0-dee6-4c2b-9fe9-c77d422284ef_CRSTK3GJC3_MN_19022026.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true }
+    "raw_data": { "parentProductId": "T709Y74TNQ", "spinId": "CRSTK3GJC3", "source": "instamart_mcp_search" }
   },
   {
-    "id": "IM-EL-DEMO-BUDSWL-004",
-    "name": "realme TechLife Buds Wireless 3 — neckband with fast charge",
-    "brand": "realme",
-    "category": "Audio › Neckbands",
-    "price_paise": 179900,
-    "image_url": "https://images.unsplash.com/photo-1572569511254-ad81d3699242?w=640&q=80",
+    "id": "BPF1I03AK6",
+    "name": "boAt PB435 Turbo 35W Power Bank with 20000mAh Battery, 35W 2-Way Super Fast Charging (Navy Blue)",
+    "brand": "boAt",
+    "category": "Electronics › Power banks",
+    "price_paise": 199900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/c84b662e-d7a3-4708-888d-9b9c30fac059_BPF1I03AK6_MN_20022026.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true }
+    "raw_data": { "parentProductId": "VOVVO2AJ9Z", "spinId": "BPF1I03AK6", "source": "instamart_mcp_search" }
   },
   {
-    "id": "IM-EL-DEMO-KB-005",
-    "name": "Mechanical gaming keyboard RGB — tactile brown switches",
-    "brand": "Zebronics",
-    "category": "Computers › Keyboards",
-    "price_paise": 349990,
-    "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=640&q=80",
+    "id": "FSG7Q2R2NA",
+    "name": "Duracell Magnetic Wireless Powerbank 10000MaH",
+    "brand": "Duracell",
+    "category": "Electronics › Power banks",
+    "price_paise": 249900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2025/7/17/231bb2b2-5bc6-4224-8d99-bf29393b7e55_514246_1.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true }
+    "raw_data": { "parentProductId": "ET6R85JITV", "spinId": "FSG7Q2R2NA", "source": "instamart_mcp_search" }
   },
   {
-    "id": "IM-EL-DEMO-HUB-006",
-    "name": "USB-C 7-in-1 hub — HDMI / SD / ethernet pass-through",
-    "brand": "Portronics",
-    "category": "Computers › Hubs",
-    "price_paise": 459900,
-    "image_url": "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=640&q=80",
+    "id": "RK86Y85WS7",
+    "name": "boAt EnergyShroom PB400 20000mAh w/ 22.5W Fast Charge (Steel Blue)",
+    "brand": "boAt",
+    "category": "Electronics › Power banks",
+    "price_paise": 169900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/4090b60c-ac1d-4114-831c-5e1249e50206_RK86Y85WS7_MN_20022026.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true }
+    "raw_data": { "parentProductId": "F5MIILCYN4", "spinId": "RK86Y85WS7", "source": "instamart_mcp_search" }
   },
   {
-    "id": "IM-EL-DEMO-TABSTYLUS-007",
-    "name": "Stylus pen for tablet — tilt shade palm rejection white",
-    "brand": "Anker",
-    "category": "Computers › Tablet accessories",
-    "price_paise": 799900,
-    "image_url": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=640&q=80",
+    "id": "XV8NOS7A5A",
+    "name": "Ambrane 10000mAh Magsafe Wireless 22.5W Fast Power Bank with Mobile Stand (Maglite, Green)",
+    "brand": "Ambrane",
+    "category": "Electronics › Power banks",
+    "price_paise": 159900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/924ff3e2-afe9-4931-9540-fcc572758c1d_XV8NOS7A5A_MN_20022026.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true }
+    "raw_data": { "parentProductId": "A7FRXA67RW", "spinId": "XV8NOS7A5A", "source": "instamart_mcp_search" }
   },
   {
-    "id": "IM-EL-DEMO-MOUSE-008",
-    "name": "Silent wireless ergonomic mouse — 2400 DPI multi-device",
-    "brand": "Logitech",
-    "category": "Computers › Mouse",
-    "price_paise": 129900,
-    "image_url": "https://images.unsplash.com/photo-1615663245854-ac93bb68c39e?w=640&q=80",
+    "id": "ZOMLZ7SBCP",
+    "name": "Apple Fast Charging 1 m Type C To Lightning Charging Cable (White)",
+    "brand": "Apple",
+    "category": "Electronics › Cables",
+    "price_paise": 159900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/5975c344-adf0-494f-8be8-9339342d61e6_ZOMLZ7SBCP_MN_20022026.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true }
+    "raw_data": { "parentProductId": "GZRHJH8IKP", "spinId": "ZOMLZ7SBCP", "source": "instamart_mcp_search" }
   },
   {
-    "id": "IM-EL-DEMO-AIRFILTER-009",
-    "name": "Smart air purifier refill kit — HEPA + activated carbon combo",
-    "brand": "Philips",
-    "category": "Electronics › Air care",
-    "price_paise": 899900,
-    "image_url": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=640&q=80",
+    "id": "XX5IJ32V6S",
+    "name": "Nothing USB Type C Cable 1 m C306 (Compatible with Camera, Computer, Gaming, Console, Mobile, TV, Tablet, White)",
+    "brand": "Nothing",
+    "category": "Electronics › Cables",
+    "price_paise": 99900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/35d89217-2801-4a01-b56e-90d019de833c_XX5IJ32V6S_MN_19022026.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true }
+    "raw_data": { "parentProductId": "QPUBFN3O4C", "spinId": "XX5IJ32V6S", "source": "instamart_mcp_search" }
   },
   {
-    "id": "IM-EL-DEMO-DOCK-010",
-    "name": "Thunderbolt docking station — dual 4K HDMI SD reader",
-    "brand": "Portronics",
-    "category": "Computers › Docks",
-    "price_paise": 899900,
-    "image_url": "https://images.unsplash.com/photo-1573496527892-904f873b8e87?w=640&q=80",
+    "id": "R4KZFVPML6",
+    "name": "AILKIN 20W Fast Charger with Type C to Type C Braided Cable, for iPhone 15/16 Series & Type C Phones",
+    "brand": "AILKIN",
+    "category": "Electronics › Chargers",
+    "price_paise": 64900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/91079ace-c3fe-4a91-bd39-d092f09049b1_R4KZFVPML6_MN_20022026.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true }
+    "raw_data": { "parentProductId": "XBYN226MNK", "spinId": "R4KZFVPML6", "source": "instamart_mcp_search" }
   },
   {
-    "id": "IM-EL-DEMO-DIMMER-011",
-    "name": "Smart bulb starter kit Matter compatible hub included",
-    "brand": "Wipro",
-    "category": "Smart home › Lighting",
-    "price_paise": 459900,
-    "image_url": "https://images.unsplash.com/photo-1565814329452-e1efa842033a?w=640&q=80",
+    "id": "LFONN8ZW68",
+    "name": "boAt Powerpod 200 Wireless Charger w/ 15W Wireless Charging & Fiber Cloth Build(White)",
+    "brand": "boAt",
+    "category": "Electronics › Chargers",
+    "price_paise": 99900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/da908864-2d22-4e39-b395-b9f15af00e56_LFONN8ZW68_MN_19022026.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true }
+    "raw_data": { "parentProductId": "ZGRA6FGNKI", "spinId": "LFONN8ZW68", "source": "instamart_mcp_search" }
   },
   {
-    "id": "IM-EL-DEMO-USBC-012",
-    "name": "Premium braided USB-C lightning cable pack of 2 (2m)",
-    "brand": "Stuffcool",
-    "category": "Mobile accessories › Cables",
-    "price_paise": 149900,
-    "image_url": "https://images.unsplash.com/photo-1574944985070-8f225e6f7cfb?w=640&q=80",
+    "id": "EHLPGB343V",
+    "name": "Nu Republic Blaze Fusion-Q 240W 4-in-one 1m USB-A to Type-C to Type-C + Type-L Metal Connector Fast Data Charging Carbon Texture Braided Cable (Blue)",
+    "brand": "Nu Republic",
+    "category": "Electronics › Cables",
+    "price_paise": 49900,
+    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/2/20/a759e800-173f-424c-a4d2-3c8f20816ce5_EHLPGB343V_MN_20022026.png",
     "city": "Mumbai",
-    "raw_data": { "premiumSeed": true }
+    "raw_data": { "parentProductId": "E9CQIMBS7T", "spinId": "EHLPGB343V", "source": "instamart_mcp_search" }
   }
 ]

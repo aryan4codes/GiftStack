@@ -16,6 +16,33 @@ function sumCart(lines: CartLine[]) {
   return lines.reduce((s, l) => s + l.price_paise * l.qty, 0);
 }
 
+/** Lowercase + strip punctuation so "good flippin burgers" matches "Good Flippin' Burgers". */
+function normalizeForFoodSearch(s: string): string {
+  return s
+    .toLowerCase()
+    .replace(/[''`´\u2019\u2018]/g, "")
+    .replace(/[^\p{L}\p{N}]+/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/** True if every whitespace-separated token in query appears in the haystack (order-free). */
+function matchesRestaurantQuery(rawName: string, rawArea: unknown, cuisines: unknown, query: string) {
+  const name = normalizeForFoodSearch(String(rawName));
+  const area = rawArea ? normalizeForFoodSearch(String(rawArea)) : "";
+  const cuisineStr = Array.isArray(cuisines)
+    ? cuisines.map((c) => normalizeForFoodSearch(String(c))).filter(Boolean).join(" ")
+    : "";
+  const haystack = `${name} ${area} ${cuisineStr}`;
+  const full = normalizeForFoodSearch(query);
+  if (full.length > 0 && haystack.includes(full)) return true;
+  const tokens = full.split(" ").filter((t) => t.length >= 2);
+  if (tokens.length === 0) {
+    return full.length >= 2 && haystack.includes(full);
+  }
+  return tokens.every((t) => haystack.includes(t));
+}
+
 export async function POST(req: Request) {
   let body: Record<string, unknown>;
   try {
@@ -91,16 +118,14 @@ Rules:
             .select("*")
             .ilike("city", `%${city}%`)
             .limit(60);
-          const q = query.toLowerCase();
           const rows =
-            data?.filter(
-              (r) =>
-                String(r.name).toLowerCase().includes(q) ||
-                (Array.isArray(r.cuisine)
-                  ? r.cuisine.some((c: string) =>
-                      String(c).toLowerCase().includes(q)
-                    )
-                  : false)
+            data?.filter((r) =>
+              matchesRestaurantQuery(
+                String(r.name),
+                r.area,
+                r.cuisine,
+                query
+              )
             ) ?? [];
           return rows.slice(0, 12);
         },
